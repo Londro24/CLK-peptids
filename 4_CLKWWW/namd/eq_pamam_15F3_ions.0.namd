@@ -1,8 +1,0 @@
-set run 1
-set name eq_pamam_15F3_ions
-set initName ../output/min_pamam_15F3_ions
-set temper 300.0
-set struct pamam_15F3_ions.pdb
-set psf ../build/pamam_15F3_ions_repart.psf
-set steps 2100000000
-source ../templates/template_eqWat.namd

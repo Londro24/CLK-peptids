@@ -1,6 +1,7 @@
-# Set run sys name initName
+# Set run sys name initName steps
 set temper 300
-CUDASOAintegrate on
+# I use CPU for this template
+#CUDASOAintegrate on
 
 set this $name.$run
 if {$run == 0} {
@@ -20,7 +21,7 @@ outputName                      ../output/$this
 #minimization on
 numSteps			$steps
 structure			${psf}
-coordinates			../build/${struct}
+coordinates			${struct}
 
 
 # temperature control
@@ -41,17 +42,16 @@ langevinPistonPeriod 400
 
 
 # parameters
-parameters              ../parameters/par_all36_cgenff.prm
-parameters              ../parameters/par_all36_prot_lipid_water_ions.prm
-#parameters              ../top_all36_prot.rtf
-parameters              ../parameters/pamam_1.str
-parameters              ../parameters/pamam_2.str
-parameters		../parameters/F3.str
+parameters         ../parameters/par_all36m_prot.prm
+parameters         ../parameters/par_all36_na.prm
+parameters         ../parameters/param19.inp
+parameters         ../parameters/par_all22_prot_metals.inp
+#parameters		../parameters/toppar_water_ions.str
 
 
 paraTypeCharmm                  on
 exclude                         scaled1-4
-1-4scaling                      1
+oneFourScaling                  1
 vdwForceSwitching               on
 
 switching                       on
