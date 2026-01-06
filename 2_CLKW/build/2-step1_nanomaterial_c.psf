@@ -1,0 +1,2705 @@
+PSF
+
+       1 !NTITLE
+ REMARKS VMD-generated NAMD/X-Plor PSF structure file
+
+    2376 !NATOM
+       1 AUM  1    IAUM AU   IAU               0       196.966       0
+       2 AUM  2    IAUM AU   IAU               0       196.966       0
+       3 AUM  3    IAUM AU   IAU               0       196.966       0
+       4 AUM  4    IAUM AU   IAU               0       196.966       0
+       5 AUM  5    IAUM AU   IAU               0       196.966       0
+       6 AUM  6    IAUM AU   IAU               0       196.966       0
+       7 AUM  7    IAUM AU   IAU               0       196.966       0
+       8 AUM  8    IAUM AU   IAU               0       196.966       0
+       9 AUM  9    IAUM AU   IAU               0       196.966       0
+      10 AUM  10   IAUM AU   IAU               0       196.966       0
+      11 AUM  11   IAUM AU   IAU               0       196.966       0
+      12 AUM  12   IAUM AU   IAU               0       196.966       0
+      13 AUM  13   IAUM AU   IAU               0       196.966       0
+      14 AUM  14   IAUM AU   IAU               0       196.966       0
+      15 AUM  15   IAUM AU   IAU               0       196.966       0
+      16 AUM  16   IAUM AU   IAU               0       196.966       0
+      17 AUM  17   IAUM AU   IAU               0       196.966       0
+      18 AUM  18   IAUM AU   IAU               0       196.966       0
+      19 AUM  19   IAUM AU   IAU               0       196.966       0
+      20 AUM  20   IAUM AU   IAU               0       196.966       0
+      21 AUM  21   IAUM AU   IAU               0       196.966       0
+      22 AUM  22   IAUM AU   IAU               0       196.966       0
+      23 AUM  23   IAUM AU   IAU               0       196.966       0
+      24 AUM  24   IAUM AU   IAU               0       196.966       0
+      25 AUM  25   IAUM AU   IAU               0       196.966       0
+      26 AUM  26   IAUM AU   IAU               0       196.966       0
+      27 AUM  27   IAUM AU   IAU               0       196.966       0
+      28 AUM  28   IAUM AU   IAU               0       196.966       0
+      29 AUM  29   IAUM AU   IAU               0       196.966       0
+      30 AUM  30   IAUM AU   IAU               0       196.966       0
+      31 AUM  31   IAUM AU   IAU               0       196.966       0
+      32 AUM  32   IAUM AU   IAU               0       196.966       0
+      33 AUM  33   IAUM AU   IAU               0       196.966       0
+      34 AUM  34   IAUM AU   IAU               0       196.966       0
+      35 AUM  35   IAUM AU   IAU               0       196.966       0
+      36 AUM  36   IAUM AU   IAU               0       196.966       0
+      37 AUM  37   IAUM AU   IAU               0       196.966       0
+      38 AUM  38   IAUM AU   IAU               0       196.966       0
+      39 AUM  39   IAUM AU   IAU               0       196.966       0
+      40 AUM  40   IAUM AU   IAU               0       196.966       0
+      41 AUM  41   IAUM AU   IAU               0       196.966       0
+      42 AUM  42   IAUM AU   IAU               0       196.966       0
+      43 AUM  43   IAUM AU   IAU               0       196.966       0
+      44 AUM  44   IAUM AU   IAU               0       196.966       0
+      45 AUM  45   IAUM AU   IAU               0       196.966       0
+      46 AUM  46   IAUM AU   IAU               0       196.966       0
+      47 AUM  47   IAUM AU   IAU               0       196.966       0
+      48 AUM  48   IAUM AU   IAU               0       196.966       0
+      49 AUM  49   IAUM AU   IAU               0       196.966       0
+      50 AUM  50   IAUM AU   IAU               0       196.966       0
+      51 AUM  51   IAUM AU   IAU               0       196.966       0
+      52 AUM  52   IAUM AU   IAU               0       196.966       0
+      53 AUM  53   IAUM AU   IAU               0       196.966       0
+      54 AUM  54   IAUM AU   IAU               0       196.966       0
+      55 AUM  55   IAUM AU   IAU               0       196.966       0
+      56 AUM  56   IAUM AU   IAU               0       196.966       0
+      57 AUM  57   IAUM AU   IAU               0       196.966       0
+      58 AUM  58   IAUM AU   IAU               0       196.966       0
+      59 AUM  59   IAUM AU   IAU               0       196.966       0
+      60 AUM  60   IAUM AU   IAU               0       196.966       0
+      61 AUM  61   IAUM AU   IAU               0       196.966       0
+      62 AUM  62   IAUM AU   IAU               0       196.966       0
+      63 AUM  63   IAUM AU   IAU               0       196.966       0
+      64 AUM  64   IAUM AU   IAU               0       196.966       0
+      65 AUM  65   IAUM AU   IAU               0       196.966       0
+      66 AUM  66   IAUM AU   IAU               0       196.966       0
+      67 AUM  67   IAUM AU   IAU               0       196.966       0
+      68 AUM  68   IAUM AU   IAU               0       196.966       0
+      69 AUM  69   IAUM AU   IAU               0       196.966       0
+      70 AUM  70   IAUM AU   IAU               0       196.966       0
+      71 AUM  71   IAUM AU   IAU               0       196.966       0
+      72 AUM  72   IAUM AU   IAU               0       196.966       0
+      73 AUM  73   IAUM AU   IAU               0       196.966       0
+      74 AUM  74   IAUM AU   IAU               0       196.966       0
+      75 AUM  75   IAUM AU   IAU               0       196.966       0
+      76 AUM  76   IAUM AU   IAU               0       196.966       0
+      77 AUM  77   IAUM AU   IAU               0       196.966       0
+      78 AUM  78   IAUM AU   IAU               0       196.966       0
+      79 AUM  79   IAUM AU   IAU               0       196.966       0
+      80 AUM  80   IAUM AU   IAU               0       196.966       0
+      81 AUM  81   IAUM AU   IAU               0       196.966       0
+      82 AUM  82   IAUM AU   IAU               0       196.966       0
+      83 AUM  83   IAUM AU   IAU               0       196.966       0
+      84 AUM  84   IAUM AU   IAU               0       196.966       0
+      85 AUM  85   IAUM AU   IAU               0       196.966       0
+      86 AUM  86   IAUM AU   IAU               0       196.966       0
+      87 AUM  87   IAUM AU   IAU               0       196.966       0
+      88 AUM  88   IAUM AU   IAU               0       196.966       0
+      89 AUM  89   IAUM AU   IAU               0       196.966       0
+      90 AUM  90   IAUM AU   IAU               0       196.966       0
+      91 AUM  91   IAUM AU   IAU               0       196.966       0
+      92 AUM  92   IAUM AU   IAU               0       196.966       0
+      93 AUM  93   IAUM AU   IAU               0       196.966       0
+      94 AUM  94   IAUM AU   IAU               0       196.966       0
+      95 AUM  95   IAUM AU   IAU               0       196.966       0
+      96 AUM  96   IAUM AU   IAU               0       196.966       0
+      97 AUM  97   IAUM AU   IAU               0       196.966       0
+      98 AUM  98   IAUM AU   IAU               0       196.966       0
+      99 AUM  99   IAUM AU   IAU               0       196.966       0
+     100 AUM  100  IAUM AU   IAU               0       196.966       0
+     101 AUM  101  IAUM AU   IAU               0       196.966       0
+     102 AUM  102  IAUM AU   IAU               0       196.966       0
+     103 AUM  103  IAUM AU   IAU               0       196.966       0
+     104 AUM  104  IAUM AU   IAU               0       196.966       0
+     105 AUM  105  IAUM AU   IAU               0       196.966       0
+     106 AUM  106  IAUM AU   IAU               0       196.966       0
+     107 AUM  107  IAUM AU   IAU               0       196.966       0
+     108 AUM  108  IAUM AU   IAU               0       196.966       0
+     109 AUM  109  IAUM AU   IAU               0       196.966       0
+     110 AUM  110  IAUM AU   IAU               0       196.966       0
+     111 AUM  111  IAUM AU   IAU               0       196.966       0
+     112 AUM  112  IAUM AU   IAU               0       196.966       0
+     113 AUM  113  IAUM AU   IAU               0       196.966       0
+     114 AUM  114  IAUM AU   IAU               0       196.966       0
+     115 AUM  115  IAUM AU   IAU               0       196.966       0
+     116 AUM  116  IAUM AU   IAU               0       196.966       0
+     117 AUM  117  IAUM AU   IAU               0       196.966       0
+     118 AUM  118  IAUM AU   IAU               0       196.966       0
+     119 AUM  119  IAUM AU   IAU               0       196.966       0
+     120 AUM  120  IAUM AU   IAU               0       196.966       0
+     121 AUM  121  IAUM AU   IAU               0       196.966       0
+     122 AUM  122  IAUM AU   IAU               0       196.966       0
+     123 AUM  123  IAUM AU   IAU               0       196.966       0
+     124 AUM  124  IAUM AU   IAU               0       196.966       0
+     125 AUM  125  IAUM AU   IAU               0       196.966       0
+     126 AUM  126  IAUM AU   IAU               0       196.966       0
+     127 AUM  127  IAUM AU   IAU               0       196.966       0
+     128 AUM  128  IAUM AU   IAU               0       196.966       0
+     129 AUM  129  IAUM AU   IAU               0       196.966       0
+     130 AUM  130  IAUM AU   IAU               0       196.966       0
+     131 AUM  131  IAUM AU   IAU               0       196.966       0
+     132 AUM  132  IAUM AU   IAU               0       196.966       0
+     133 AUM  133  IAUM AU   IAU               0       196.966       0
+     134 AUM  134  IAUM AU   IAU               0       196.966       0
+     135 AUM  135  IAUM AU   IAU               0       196.966       0
+     136 AUM  136  IAUM AU   IAU               0       196.966       0
+     137 AUM  137  IAUM AU   IAU               0       196.966       0
+     138 AUM  138  IAUM AU   IAU               0       196.966       0
+     139 AUM  139  IAUM AU   IAU               0       196.966       0
+     140 AUM  140  IAUM AU   IAU               0       196.966       0
+     141 AUM  141  IAUM AU   IAU               0       196.966       0
+     142 AUM  142  IAUM AU   IAU               0       196.966       0
+     143 AUM  143  IAUM AU   IAU               0       196.966       0
+     144 AUM  144  IAUM AU   IAU               0       196.966       0
+     145 AUM  145  IAUM AU   IAU               0       196.966       0
+     146 AUM  146  IAUM AU   IAU               0       196.966       0
+     147 AUM  147  IAUM AU   IAU               0       196.966       0
+     148 AUM  148  IAUM AU   IAU               0       196.966       0
+     149 AUM  149  IAUM AU   IAU               0       196.966       0
+     150 AUM  150  IAUM AU   IAU               0       196.966       0
+     151 AUM  151  IAUM AU   IAU               0       196.966       0
+     152 AUM  152  IAUM AU   IAU               0       196.966       0
+     153 AUM  153  IAUM AU   IAU               0       196.966       0
+     154 AUM  154  IAUM AU   IAU               0       196.966       0
+     155 AUM  155  IAUM AU   IAU               0       196.966       0
+     156 AUM  156  IAUM AU   IAU               0       196.966       0
+     157 AUM  157  IAUM AU   IAU               0       196.966       0
+     158 AUM  158  IAUM AU   IAU               0       196.966       0
+     159 AUM  159  IAUM AU   IAU               0       196.966       0
+     160 AUM  160  IAUM AU   IAU               0       196.966       0
+     161 AUM  161  IAUM AU   IAU               0       196.966       0
+     162 AUM  162  IAUM AU   IAU               0       196.966       0
+     163 AUM  163  IAUM AU   IAU               0       196.966       0
+     164 AUM  164  IAUM AU   IAU               0       196.966       0
+     165 AUM  165  IAUM AU   IAU               0       196.966       0
+     166 AUM  166  IAUM AU   IAU               0       196.966       0
+     167 AUM  167  IAUM AU   IAU               0       196.966       0
+     168 AUM  168  IAUM AU   IAU               0       196.966       0
+     169 AUM  169  IAUM AU   IAU               0       196.966       0
+     170 AUM  170  IAUM AU   IAU               0       196.966       0
+     171 AUM  171  IAUM AU   IAU               0       196.966       0
+     172 AUM  172  IAUM AU   IAU               0       196.966       0
+     173 AUM  173  IAUM AU   IAU               0       196.966       0
+     174 AUM  174  IAUM AU   IAU               0       196.966       0
+     175 AUM  175  IAUM AU   IAU               0       196.966       0
+     176 AUM  176  IAUM AU   IAU               0       196.966       0
+     177 AUM  177  IAUM AU   IAU               0       196.966       0
+     178 AUM  178  IAUM AU   IAU               0       196.966       0
+     179 AUM  179  IAUM AU   IAU               0       196.966       0
+     180 AUM  180  IAUM AU   IAU               0       196.966       0
+     181 AUM  181  IAUM AU   IAU               0       196.966       0
+     182 AUM  182  IAUM AU   IAU               0       196.966       0
+     183 AUM  183  IAUM AU   IAU               0       196.966       0
+     184 AUM  184  IAUM AU   IAU               0       196.966       0
+     185 AUM  185  IAUM AU   IAU               0       196.966       0
+     186 AUM  186  IAUM AU   IAU               0       196.966       0
+     187 AUM  187  IAUM AU   IAU               0       196.966       0
+     188 AUM  188  IAUM AU   IAU               0       196.966       0
+     189 AUM  189  IAUM AU   IAU               0       196.966       0
+     190 AUM  190  IAUM AU   IAU               0       196.966       0
+     191 AUM  191  IAUM AU   IAU               0       196.966       0
+     192 AUM  192  IAUM AU   IAU               0       196.966       0
+     193 AUM  193  IAUM AU   IAU               0       196.966       0
+     194 AUM  194  IAUM AU   IAU               0       196.966       0
+     195 AUM  195  IAUM AU   IAU               0       196.966       0
+     196 AUM  196  IAUM AU   IAU               0       196.966       0
+     197 AUM  197  IAUM AU   IAU               0       196.966       0
+     198 AUM  198  IAUM AU   IAU               0       196.966       0
+     199 AUM  199  IAUM AU   IAU               0       196.966       0
+     200 AUM  200  IAUM AU   IAU               0       196.966       0
+     201 AUM  201  IAUM AU   IAU               0       196.966       0
+     202 AUM  202  IAUM AU   IAU               0       196.966       0
+     203 AUM  203  IAUM AU   IAU               0       196.966       0
+     204 AUM  204  IAUM AU   IAU               0       196.966       0
+     205 AUM  205  IAUM AU   IAU               0       196.966       0
+     206 AUM  206  IAUM AU   IAU               0       196.966       0
+     207 AUM  207  IAUM AU   IAU               0       196.966       0
+     208 AUM  208  IAUM AU   IAU               0       196.966       0
+     209 AUM  209  IAUM AU   IAU               0       196.966       0
+     210 AUM  210  IAUM AU   IAU               0       196.966       0
+     211 AUM  211  IAUM AU   IAU               0       196.966       0
+     212 AUM  212  IAUM AU   IAU               0       196.966       0
+     213 AUM  213  IAUM AU   IAU               0       196.966       0
+     214 AUM  214  IAUM AU   IAU               0       196.966       0
+     215 AUM  215  IAUM AU   IAU               0       196.966       0
+     216 AUM  216  IAUM AU   IAU               0       196.966       0
+     217 AUM  217  IAUM AU   IAU               0       196.966       0
+     218 AUM  218  IAUM AU   IAU               0       196.966       0
+     219 AUM  219  IAUM AU   IAU               0       196.966       0
+     220 AUM  220  IAUM AU   IAU               0       196.966       0
+     221 AUM  221  IAUM AU   IAU               0       196.966       0
+     222 AUM  222  IAUM AU   IAU               0       196.966       0
+     223 AUM  223  IAUM AU   IAU               0       196.966       0
+     224 AUM  224  IAUM AU   IAU               0       196.966       0
+     225 AUM  225  IAUM AU   IAU               0       196.966       0
+     226 AUM  226  IAUM AU   IAU               0       196.966       0
+     227 AUM  227  IAUM AU   IAU               0       196.966       0
+     228 AUM  228  IAUM AU   IAU               0       196.966       0
+     229 AUM  229  IAUM AU   IAU               0       196.966       0
+     230 AUM  230  IAUM AU   IAU               0       196.966       0
+     231 AUM  231  IAUM AU   IAU               0       196.966       0
+     232 AUM  232  IAUM AU   IAU               0       196.966       0
+     233 AUM  233  IAUM AU   IAU               0       196.966       0
+     234 AUM  234  IAUM AU   IAU               0       196.966       0
+     235 AUM  235  IAUM AU   IAU               0       196.966       0
+     236 AUM  236  IAUM AU   IAU               0       196.966       0
+     237 AUM  237  IAUM AU   IAU               0       196.966       0
+     238 AUM  238  IAUM AU   IAU               0       196.966       0
+     239 AUM  239  IAUM AU   IAU               0       196.966       0
+     240 AUM  240  IAUM AU   IAU               0       196.966       0
+     241 AUM  241  IAUM AU   IAU               0       196.966       0
+     242 AUM  242  IAUM AU   IAU               0       196.966       0
+     243 AUM  243  IAUM AU   IAU               0       196.966       0
+     244 AUM  244  IAUM AU   IAU               0       196.966       0
+     245 AUM  245  IAUM AU   IAU               0       196.966       0
+     246 AUM  246  IAUM AU   IAU               0       196.966       0
+     247 AUM  247  IAUM AU   IAU               0       196.966       0
+     248 AUM  248  IAUM AU   IAU               0       196.966       0
+     249 AUM  249  IAUM AU   IAU               0       196.966       0
+     250 AUM  250  IAUM AU   IAU               0       196.966       0
+     251 AUM  251  IAUM AU   IAU               0       196.966       0
+     252 AUM  252  IAUM AU   IAU               0       196.966       0
+     253 AUM  253  IAUM AU   IAU               0       196.966       0
+     254 AUM  254  IAUM AU   IAU               0       196.966       0
+     255 AUM  255  IAUM AU   IAU               0       196.966       0
+     256 AUM  256  IAUM AU   IAU               0       196.966       0
+     257 AUM  257  IAUM AU   IAU               0       196.966       0
+     258 AUM  258  IAUM AU   IAU               0       196.966       0
+     259 AUM  259  IAUM AU   IAU               0       196.966       0
+     260 AUM  260  IAUM AU   IAU               0       196.966       0
+     261 AUM  261  IAUM AU   IAU               0       196.966       0
+     262 AUM  262  IAUM AU   IAU               0       196.966       0
+     263 AUM  263  IAUM AU   IAU               0       196.966       0
+     264 AUM  264  IAUM AU   IAU               0       196.966       0
+     265 AUM  265  IAUM AU   IAU               0       196.966       0
+     266 AUM  266  IAUM AU   IAU               0       196.966       0
+     267 AUM  267  IAUM AU   IAU               0       196.966       0
+     268 AUM  268  IAUM AU   IAU               0       196.966       0
+     269 AUM  269  IAUM AU   IAU               0       196.966       0
+     270 AUM  270  IAUM AU   IAU               0       196.966       0
+     271 AUM  271  IAUM AU   IAU               0       196.966       0
+     272 AUM  272  IAUM AU   IAU               0       196.966       0
+     273 AUM  273  IAUM AU   IAU               0       196.966       0
+     274 AUM  274  IAUM AU   IAU               0       196.966       0
+     275 AUM  275  IAUM AU   IAU               0       196.966       0
+     276 AUM  276  IAUM AU   IAU               0       196.966       0
+     277 AUM  277  IAUM AU   IAU               0       196.966       0
+     278 AUM  278  IAUM AU   IAU               0       196.966       0
+     279 AUM  279  IAUM AU   IAU               0       196.966       0
+     280 AUM  280  IAUM AU   IAU               0       196.966       0
+     281 AUM  281  IAUM AU   IAU               0       196.966       0
+     282 AUM  282  IAUM AU   IAU               0       196.966       0
+     283 AUM  283  IAUM AU   IAU               0       196.966       0
+     284 AUM  284  IAUM AU   IAU               0       196.966       0
+     285 AUM  285  IAUM AU   IAU               0       196.966       0
+     286 AUM  286  IAUM AU   IAU               0       196.966       0
+     287 AUM  287  IAUM AU   IAU               0       196.966       0
+     288 AUM  288  IAUM AU   IAU               0       196.966       0
+     289 AUM  289  IAUM AU   IAU               0       196.966       0
+     290 AUM  290  IAUM AU   IAU               0       196.966       0
+     291 AUM  291  IAUM AU   IAU               0       196.966       0
+     292 AUM  292  IAUM AU   IAU               0       196.966       0
+     293 AUM  293  IAUM AU   IAU               0       196.966       0
+     294 AUM  294  IAUM AU   IAU               0       196.966       0
+     295 AUM  295  IAUM AU   IAU               0       196.966       0
+     296 AUM  296  IAUM AU   IAU               0       196.966       0
+     297 AUM  297  IAUM AU   IAU               0       196.966       0
+     298 AUM  298  IAUM AU   IAU               0       196.966       0
+     299 AUM  299  IAUM AU   IAU               0       196.966       0
+     300 AUM  300  IAUM AU   IAU               0       196.966       0
+     301 AUM  301  IAUM AU   IAU               0       196.966       0
+     302 AUM  302  IAUM AU   IAU               0       196.966       0
+     303 AUM  303  IAUM AU   IAU               0       196.966       0
+     304 AUM  304  IAUM AU   IAU               0       196.966       0
+     305 AUM  305  IAUM AU   IAU               0       196.966       0
+     306 AUM  306  IAUM AU   IAU               0       196.966       0
+     307 AUM  307  IAUM AU   IAU               0       196.966       0
+     308 AUM  308  IAUM AU   IAU               0       196.966       0
+     309 AUM  309  IAUM AU   IAU               0       196.966       0
+     310 AUM  310  IAUM AU   IAU               0       196.966       0
+     311 AUM  311  IAUM AU   IAU               0       196.966       0
+     312 AUM  312  IAUM AU   IAU               0       196.966       0
+     313 AUM  313  IAUM AU   IAU               0       196.966       0
+     314 AUM  314  IAUM AU   IAU               0       196.966       0
+     315 AUM  315  IAUM AU   IAU               0       196.966       0
+     316 AUM  316  IAUM AU   IAU               0       196.966       0
+     317 AUM  317  IAUM AU   IAU               0       196.966       0
+     318 AUM  318  IAUM AU   IAU               0       196.966       0
+     319 AUM  319  IAUM AU   IAU               0       196.966       0
+     320 AUM  320  IAUM AU   IAU               0       196.966       0
+     321 AUM  321  IAUM AU   IAU               0       196.966       0
+     322 AUM  322  IAUM AU   IAU               0       196.966       0
+     323 AUM  323  IAUM AU   IAU               0       196.966       0
+     324 AUM  324  IAUM AU   IAU               0       196.966       0
+     325 AUM  325  IAUM AU   IAU               0       196.966       0
+     326 AUM  326  IAUM AU   IAU               0       196.966       0
+     327 AUM  327  IAUM AU   IAU               0       196.966       0
+     328 AUM  328  IAUM AU   IAU               0       196.966       0
+     329 AUM  329  IAUM AU   IAU               0       196.966       0
+     330 AUM  330  IAUM AU   IAU               0       196.966       0
+     331 AUM  331  IAUM AU   IAU               0       196.966       0
+     332 AUM  332  IAUM AU   IAU               0       196.966       0
+     333 AUM  333  IAUM AU   IAU               0       196.966       0
+     334 AUM  334  IAUM AU   IAU               0       196.966       0
+     335 AUM  335  IAUM AU   IAU               0       196.966       0
+     336 AUM  336  IAUM AU   IAU               0       196.966       0
+     337 AUM  337  IAUM AU   IAU               0       196.966       0
+     338 AUM  338  IAUM AU   IAU               0       196.966       0
+     339 AUM  339  IAUM AU   IAU               0       196.966       0
+     340 AUM  340  IAUM AU   IAU               0       196.966       0
+     341 AUM  341  IAUM AU   IAU               0       196.966       0
+     342 AUM  342  IAUM AU   IAU               0       196.966       0
+     343 AUM  343  IAUM AU   IAU               0       196.966       0
+     344 AUM  344  IAUM AU   IAU               0       196.966       0
+     345 AUM  345  IAUM AU   IAU               0       196.966       0
+     346 AUM  346  IAUM AU   IAU               0       196.966       0
+     347 AUM  347  IAUM AU   IAU               0       196.966       0
+     348 AUM  348  IAUM AU   IAU               0       196.966       0
+     349 AUM  349  IAUM AU   IAU               0       196.966       0
+     350 AUM  350  IAUM AU   IAU               0       196.966       0
+     351 AUM  351  IAUM AU   IAU               0       196.966       0
+     352 AUM  352  IAUM AU   IAU               0       196.966       0
+     353 AUM  353  IAUM AU   IAU               0       196.966       0
+     354 AUM  354  IAUM AU   IAU               0       196.966       0
+     355 AUM  355  IAUM AU   IAU               0       196.966       0
+     356 AUM  356  IAUM AU   IAU               0       196.966       0
+     357 AUM  357  IAUM AU   IAU               0       196.966       0
+     358 AUM  358  IAUM AU   IAU               0       196.966       0
+     359 AUM  359  IAUM AU   IAU               0       196.966       0
+     360 AUM  360  IAUM AU   IAU               0       196.966       0
+     361 AUM  361  IAUM AU   IAU               0       196.966       0
+     362 AUM  362  IAUM AU   IAU               0       196.966       0
+     363 AUM  363  IAUM AU   IAU               0       196.966       0
+     364 AUM  364  IAUM AU   IAU               0       196.966       0
+     365 AUM  365  IAUM AU   IAU               0       196.966       0
+     366 AUM  366  IAUM AU   IAU               0       196.966       0
+     367 AUM  367  IAUM AU   IAU               0       196.966       0
+     368 AUM  368  IAUM AU   IAU               0       196.966       0
+     369 AUM  369  IAUM AU   IAU               0       196.966       0
+     370 AUM  370  IAUM AU   IAU               0       196.966       0
+     371 AUM  371  IAUM AU   IAU               0       196.966       0
+     372 AUM  372  IAUM AU   IAU               0       196.966       0
+     373 AUM  373  IAUM AU   IAU               0       196.966       0
+     374 AUM  374  IAUM AU   IAU               0       196.966       0
+     375 AUM  375  IAUM AU   IAU               0       196.966       0
+     376 AUM  376  IAUM AU   IAU               0       196.966       0
+     377 AUM  377  IAUM AU   IAU               0       196.966       0
+     378 AUM  378  IAUM AU   IAU               0       196.966       0
+     379 AUM  379  IAUM AU   IAU               0       196.966       0
+     380 AUM  380  IAUM AU   IAU               0       196.966       0
+     381 AUM  381  IAUM AU   IAU               0       196.966       0
+     382 AUM  382  IAUM AU   IAU               0       196.966       0
+     383 AUM  383  IAUM AU   IAU               0       196.966       0
+     384 AUM  384  IAUM AU   IAU               0       196.966       0
+     385 AUM  385  IAUM AU   IAU               0       196.966       0
+     386 AUM  386  IAUM AU   IAU               0       196.966       0
+     387 AUM  387  IAUM AU   IAU               0       196.966       0
+     388 AUM  388  IAUM AU   IAU               0       196.966       0
+     389 AUM  389  IAUM AU   IAU               0       196.966       0
+     390 AUM  390  IAUM AU   IAU               0       196.966       0
+     391 AUM  391  IAUM AU   IAU               0       196.966       0
+     392 AUM  392  IAUM AU   IAU               0       196.966       0
+     393 AUM  393  IAUM AU   IAU               0       196.966       0
+     394 AUM  394  IAUM AU   IAU               0       196.966       0
+     395 AUM  395  IAUM AU   IAU               0       196.966       0
+     396 AUM  396  IAUM AU   IAU               0       196.966       0
+     397 AUM  397  IAUM AU   IAU               0       196.966       0
+     398 AUM  398  IAUM AU   IAU               0       196.966       0
+     399 AUM  399  IAUM AU   IAU               0       196.966       0
+     400 AUM  400  IAUM AU   IAU               0       196.966       0
+     401 AUM  401  IAUM AU   IAU               0       196.966       0
+     402 AUM  402  IAUM AU   IAU               0       196.966       0
+     403 AUM  403  IAUM AU   IAU               0       196.966       0
+     404 AUM  404  IAUM AU   IAU               0       196.966       0
+     405 AUM  405  IAUM AU   IAU               0       196.966       0
+     406 AUM  406  IAUM AU   IAU               0       196.966       0
+     407 AUM  407  IAUM AU   IAU               0       196.966       0
+     408 AUM  408  IAUM AU   IAU               0       196.966       0
+     409 AUM  409  IAUM AU   IAU               0       196.966       0
+     410 AUM  410  IAUM AU   IAU               0       196.966       0
+     411 AUM  411  IAUM AU   IAU               0       196.966       0
+     412 AUM  412  IAUM AU   IAU               0       196.966       0
+     413 AUM  413  IAUM AU   IAU               0       196.966       0
+     414 AUM  414  IAUM AU   IAU               0       196.966       0
+     415 AUM  415  IAUM AU   IAU               0       196.966       0
+     416 AUM  416  IAUM AU   IAU               0       196.966       0
+     417 AUM  417  IAUM AU   IAU               0       196.966       0
+     418 AUM  418  IAUM AU   IAU               0       196.966       0
+     419 AUM  419  IAUM AU   IAU               0       196.966       0
+     420 AUM  420  IAUM AU   IAU               0       196.966       0
+     421 AUM  421  IAUM AU   IAU               0       196.966       0
+     422 AUM  422  IAUM AU   IAU               0       196.966       0
+     423 AUM  423  IAUM AU   IAU               0       196.966       0
+     424 AUM  424  IAUM AU   IAU               0       196.966       0
+     425 AUM  425  IAUM AU   IAU               0       196.966       0
+     426 AUM  426  IAUM AU   IAU               0       196.966       0
+     427 AUM  427  IAUM AU   IAU               0       196.966       0
+     428 AUM  428  IAUM AU   IAU               0       196.966       0
+     429 AUM  429  IAUM AU   IAU               0       196.966       0
+     430 AUM  430  IAUM AU   IAU               0       196.966       0
+     431 AUM  431  IAUM AU   IAU               0       196.966       0
+     432 AUM  432  IAUM AU   IAU               0       196.966       0
+     433 AUM  433  IAUM AU   IAU               0       196.966       0
+     434 AUM  434  IAUM AU   IAU               0       196.966       0
+     435 AUM  435  IAUM AU   IAU               0       196.966       0
+     436 AUM  436  IAUM AU   IAU               0       196.966       0
+     437 AUM  437  IAUM AU   IAU               0       196.966       0
+     438 AUM  438  IAUM AU   IAU               0       196.966       0
+     439 AUM  439  IAUM AU   IAU               0       196.966       0
+     440 AUM  440  IAUM AU   IAU               0       196.966       0
+     441 AUM  441  IAUM AU   IAU               0       196.966       0
+     442 AUM  442  IAUM AU   IAU               0       196.966       0
+     443 AUM  443  IAUM AU   IAU               0       196.966       0
+     444 AUM  444  IAUM AU   IAU               0       196.966       0
+     445 AUM  445  IAUM AU   IAU               0       196.966       0
+     446 AUM  446  IAUM AU   IAU               0       196.966       0
+     447 AUM  447  IAUM AU   IAU               0       196.966       0
+     448 AUM  448  IAUM AU   IAU               0       196.966       0
+     449 AUM  449  IAUM AU   IAU               0       196.966       0
+     450 AUM  450  IAUM AU   IAU               0       196.966       0
+     451 AUM  451  IAUM AU   IAU               0       196.966       0
+     452 AUM  452  IAUM AU   IAU               0       196.966       0
+     453 AUM  453  IAUM AU   IAU               0       196.966       0
+     454 AUM  454  IAUM AU   IAU               0       196.966       0
+     455 AUM  455  IAUM AU   IAU               0       196.966       0
+     456 AUM  456  IAUM AU   IAU               0       196.966       0
+     457 AUM  457  IAUM AU   IAU               0       196.966       0
+     458 AUM  458  IAUM AU   IAU               0       196.966       0
+     459 AUM  459  IAUM AU   IAU               0       196.966       0
+     460 AUM  460  IAUM AU   IAU               0       196.966       0
+     461 AUM  461  IAUM AU   IAU               0       196.966       0
+     462 AUM  462  IAUM AU   IAU               0       196.966       0
+     463 AUM  463  IAUM AU   IAU               0       196.966       0
+     464 AUM  464  IAUM AU   IAU               0       196.966       0
+     465 AUM  465  IAUM AU   IAU               0       196.966       0
+     466 AUM  466  IAUM AU   IAU               0       196.966       0
+     467 AUM  467  IAUM AU   IAU               0       196.966       0
+     468 AUM  468  IAUM AU   IAU               0       196.966       0
+     469 AUM  469  IAUM AU   IAU               0       196.966       0
+     470 AUM  470  IAUM AU   IAU               0       196.966       0
+     471 AUM  471  IAUM AU   IAU               0       196.966       0
+     472 AUM  472  IAUM AU   IAU               0       196.966       0
+     473 AUM  473  IAUM AU   IAU               0       196.966       0
+     474 AUM  474  IAUM AU   IAU               0       196.966       0
+     475 AUM  475  IAUM AU   IAU               0       196.966       0
+     476 AUM  476  IAUM AU   IAU               0       196.966       0
+     477 AUM  477  IAUM AU   IAU               0       196.966       0
+     478 AUM  478  IAUM AU   IAU               0       196.966       0
+     479 AUM  479  IAUM AU   IAU               0       196.966       0
+     480 AUM  480  IAUM AU   IAU               0       196.966       0
+     481 AUM  481  IAUM AU   IAU               0       196.966       0
+     482 AUM  482  IAUM AU   IAU               0       196.966       0
+     483 AUM  483  IAUM AU   IAU               0       196.966       0
+     484 AUM  484  IAUM AU   IAU               0       196.966       0
+     485 AUM  485  IAUM AU   IAU               0       196.966       0
+     486 AUM  486  IAUM AU   IAU               0       196.966       0
+     487 AUM  487  IAUM AU   IAU               0       196.966       0
+     488 AUM  488  IAUM AU   IAU               0       196.966       0
+     489 AUM  489  IAUM AU   IAU               0       196.966       0
+     490 AUM  490  IAUM AU   IAU               0       196.966       0
+     491 AUM  491  IAUM AU   IAU               0       196.966       0
+     492 AUM  492  IAUM AU   IAU               0       196.966       0
+     493 AUM  493  IAUM AU   IAU               0       196.966       0
+     494 AUM  494  IAUM AU   IAU               0       196.966       0
+     495 AUM  495  IAUM AU   IAU               0       196.966       0
+     496 AUM  496  IAUM AU   IAU               0       196.966       0
+     497 AUM  497  IAUM AU   IAU               0       196.966       0
+     498 AUM  498  IAUM AU   IAU               0       196.966       0
+     499 AUM  499  IAUM AU   IAU               0       196.966       0
+     500 AUM  500  IAUM AU   IAU               0       196.966       0
+     501 AUM  501  IAUM AU   IAU               0       196.966       0
+     502 AUM  502  IAUM AU   IAU               0       196.966       0
+     503 AUM  503  IAUM AU   IAU               0       196.966       0
+     504 AUM  504  IAUM AU   IAU               0       196.966       0
+     505 AUM  505  IAUM AU   IAU               0       196.966       0
+     506 AUM  506  IAUM AU   IAU               0       196.966       0
+     507 AUM  507  IAUM AU   IAU               0       196.966       0
+     508 AUM  508  IAUM AU   IAU               0       196.966       0
+     509 AUM  509  IAUM AU   IAU               0       196.966       0
+     510 AUM  510  IAUM AU   IAU               0       196.966       0
+     511 AUM  511  IAUM AU   IAU               0       196.966       0
+     512 AUM  512  IAUM AU   IAU               0       196.966       0
+     513 AUM  513  IAUM AU   IAU               0       196.966       0
+     514 AUM  514  IAUM AU   IAU               0       196.966       0
+     515 AUM  515  IAUM AU   IAU               0       196.966       0
+     516 AUM  516  IAUM AU   IAU               0       196.966       0
+     517 AUM  517  IAUM AU   IAU               0       196.966       0
+     518 AUM  518  IAUM AU   IAU               0       196.966       0
+     519 AUM  519  IAUM AU   IAU               0       196.966       0
+     520 AUM  520  IAUM AU   IAU               0       196.966       0
+     521 AUM  521  IAUM AU   IAU               0       196.966       0
+     522 AUM  522  IAUM AU   IAU               0       196.966       0
+     523 AUM  523  IAUM AU   IAU               0       196.966       0
+     524 AUM  524  IAUM AU   IAU               0       196.966       0
+     525 AUM  525  IAUM AU   IAU               0       196.966       0
+     526 AUM  526  IAUM AU   IAU               0       196.966       0
+     527 AUM  527  IAUM AU   IAU               0       196.966       0
+     528 AUM  528  IAUM AU   IAU               0       196.966       0
+     529 AUM  529  IAUM AU   IAU               0       196.966       0
+     530 AUM  530  IAUM AU   IAU               0       196.966       0
+     531 AUM  531  IAUM AU   IAU               0       196.966       0
+     532 AUM  532  IAUM AU   IAU               0       196.966       0
+     533 AUM  533  IAUM AU   IAU               0       196.966       0
+     534 AUM  534  IAUM AU   IAU               0       196.966       0
+     535 AUM  535  IAUM AU   IAU               0       196.966       0
+     536 AUM  536  IAUM AU   IAU               0       196.966       0
+     537 AUM  537  IAUM AU   IAU               0       196.966       0
+     538 AUM  538  IAUM AU   IAU               0       196.966       0
+     539 AUM  539  IAUM AU   IAU               0       196.966       0
+     540 AUM  540  IAUM AU   IAU               0       196.966       0
+     541 AUM  541  IAUM AU   IAU               0       196.966       0
+     542 AUM  542  IAUM AU   IAU               0       196.966       0
+     543 AUM  543  IAUM AU   IAU               0       196.966       0
+     544 AUM  544  IAUM AU   IAU               0       196.966       0
+     545 AUM  545  IAUM AU   IAU               0       196.966       0
+     546 AUM  546  IAUM AU   IAU               0       196.966       0
+     547 AUM  547  IAUM AU   IAU               0       196.966       0
+     548 AUM  548  IAUM AU   IAU               0       196.966       0
+     549 AUM  549  IAUM AU   IAU               0       196.966       0
+     550 AUM  550  IAUM AU   IAU               0       196.966       0
+     551 AUM  551  IAUM AU   IAU               0       196.966       0
+     552 AUM  552  IAUM AU   IAU               0       196.966       0
+     553 AUM  553  IAUM AU   IAU               0       196.966       0
+     554 AUM  554  IAUM AU   IAU               0       196.966       0
+     555 AUM  555  IAUM AU   IAU               0       196.966       0
+     556 AUM  556  IAUM AU   IAU               0       196.966       0
+     557 AUM  557  IAUM AU   IAU               0       196.966       0
+     558 AUM  558  IAUM AU   IAU               0       196.966       0
+     559 AUM  559  IAUM AU   IAU               0       196.966       0
+     560 AUM  560  IAUM AU   IAU               0       196.966       0
+     561 AUM  561  IAUM AU   IAU               0       196.966       0
+     562 AUM  562  IAUM AU   IAU               0       196.966       0
+     563 AUM  563  IAUM AU   IAU               0       196.966       0
+     564 AUM  564  IAUM AU   IAU               0       196.966       0
+     565 AUM  565  IAUM AU   IAU               0       196.966       0
+     566 AUM  566  IAUM AU   IAU               0       196.966       0
+     567 AUM  567  IAUM AU   IAU               0       196.966       0
+     568 AUM  568  IAUM AU   IAU               0       196.966       0
+     569 AUM  569  IAUM AU   IAU               0       196.966       0
+     570 AUM  570  IAUM AU   IAU               0       196.966       0
+     571 AUM  571  IAUM AU   IAU               0       196.966       0
+     572 AUM  572  IAUM AU   IAU               0       196.966       0
+     573 AUM  573  IAUM AU   IAU               0       196.966       0
+     574 AUM  574  IAUM AU   IAU               0       196.966       0
+     575 AUM  575  IAUM AU   IAU               0       196.966       0
+     576 AUM  576  IAUM AU   IAU               0       196.966       0
+     577 AUM  577  IAUM AU   IAU               0       196.966       0
+     578 AUM  578  IAUM AU   IAU               0       196.966       0
+     579 AUM  579  IAUM AU   IAU               0       196.966       0
+     580 AUM  580  IAUM AU   IAU               0       196.966       0
+     581 AUM  581  IAUM AU   IAU               0       196.966       0
+     582 AUM  582  IAUM AU   IAU               0       196.966       0
+     583 AUM  583  IAUM AU   IAU               0       196.966       0
+     584 AUM  584  IAUM AU   IAU               0       196.966       0
+     585 AUM  585  IAUM AU   IAU               0       196.966       0
+     586 AUM  586  IAUM AU   IAU               0       196.966       0
+     587 AUM  587  IAUM AU   IAU               0       196.966       0
+     588 AUM  588  IAUM AU   IAU               0       196.966       0
+     589 AUM  589  IAUM AU   IAU               0       196.966       0
+     590 AUM  590  IAUM AU   IAU               0       196.966       0
+     591 AUM  591  IAUM AU   IAU               0       196.966       0
+     592 AUM  592  IAUM AU   IAU               0       196.966       0
+     593 AUM  593  IAUM AU   IAU               0       196.966       0
+     594 AUM  594  IAUM AU   IAU               0       196.966       0
+     595 AUM  595  IAUM AU   IAU               0       196.966       0
+     596 AUM  596  IAUM AU   IAU               0       196.966       0
+     597 AUM  597  IAUM AU   IAU               0       196.966       0
+     598 AUM  598  IAUM AU   IAU               0       196.966       0
+     599 AUM  599  IAUM AU   IAU               0       196.966       0
+     600 AUM  600  IAUM AU   IAU               0       196.966       0
+     601 AUM  601  IAUM AU   IAU               0       196.966       0
+     602 AUM  602  IAUM AU   IAU               0       196.966       0
+     603 AUM  603  IAUM AU   IAU               0       196.966       0
+     604 AUM  604  IAUM AU   IAU               0       196.966       0
+     605 AUM  605  IAUM AU   IAU               0       196.966       0
+     606 AUM  606  IAUM AU   IAU               0       196.966       0
+     607 AUM  607  IAUM AU   IAU               0       196.966       0
+     608 AUM  608  IAUM AU   IAU               0       196.966       0
+     609 AUM  609  IAUM AU   IAU               0       196.966       0
+     610 AUM  610  IAUM AU   IAU               0       196.966       0
+     611 AUM  611  IAUM AU   IAU               0       196.966       0
+     612 AUM  612  IAUM AU   IAU               0       196.966       0
+     613 AUM  613  IAUM AU   IAU               0       196.966       0
+     614 AUM  614  IAUM AU   IAU               0       196.966       0
+     615 AUM  615  IAUM AU   IAU               0       196.966       0
+     616 AUM  616  IAUM AU   IAU               0       196.966       0
+     617 AUM  617  IAUM AU   IAU               0       196.966       0
+     618 AUM  618  IAUM AU   IAU               0       196.966       0
+     619 AUM  619  IAUM AU   IAU               0       196.966       0
+     620 AUM  620  IAUM AU   IAU               0       196.966       0
+     621 AUM  621  IAUM AU   IAU               0       196.966       0
+     622 AUM  622  IAUM AU   IAU               0       196.966       0
+     623 AUM  623  IAUM AU   IAU               0       196.966       0
+     624 AUM  624  IAUM AU   IAU               0       196.966       0
+     625 AUM  625  IAUM AU   IAU               0       196.966       0
+     626 AUM  626  IAUM AU   IAU               0       196.966       0
+     627 AUM  627  IAUM AU   IAU               0       196.966       0
+     628 AUM  628  IAUM AU   IAU               0       196.966       0
+     629 AUM  629  IAUM AU   IAU               0       196.966       0
+     630 AUM  630  IAUM AU   IAU               0       196.966       0
+     631 AUM  631  IAUM AU   IAU               0       196.966       0
+     632 AUM  632  IAUM AU   IAU               0       196.966       0
+     633 AUM  633  IAUM AU   IAU               0       196.966       0
+     634 AUM  634  IAUM AU   IAU               0       196.966       0
+     635 AUM  635  IAUM AU   IAU               0       196.966       0
+     636 AUM  636  IAUM AU   IAU               0       196.966       0
+     637 AUM  637  IAUM AU   IAU               0       196.966       0
+     638 AUM  638  IAUM AU   IAU               0       196.966       0
+     639 AUM  639  IAUM AU   IAU               0       196.966       0
+     640 AUM  640  IAUM AU   IAU               0       196.966       0
+     641 AUM  641  IAUM AU   IAU               0       196.966       0
+     642 AUM  642  IAUM AU   IAU               0       196.966       0
+     643 AUM  643  IAUM AU   IAU               0       196.966       0
+     644 AUM  644  IAUM AU   IAU               0       196.966       0
+     645 AUM  645  IAUM AU   IAU               0       196.966       0
+     646 AUM  646  IAUM AU   IAU               0       196.966       0
+     647 AUM  647  IAUM AU   IAU               0       196.966       0
+     648 AUM  648  IAUM AU   IAU               0       196.966       0
+     649 AUM  649  IAUM AU   IAU               0       196.966       0
+     650 AUM  650  IAUM AU   IAU               0       196.966       0
+     651 AUM  651  IAUM AU   IAU               0       196.966       0
+     652 AUM  652  IAUM AU   IAU               0       196.966       0
+     653 AUM  653  IAUM AU   IAU               0       196.966       0
+     654 AUM  654  IAUM AU   IAU               0       196.966       0
+     655 AUM  655  IAUM AU   IAU               0       196.966       0
+     656 AUM  656  IAUM AU   IAU               0       196.966       0
+     657 AUM  657  IAUM AU   IAU               0       196.966       0
+     658 AUM  658  IAUM AU   IAU               0       196.966       0
+     659 AUM  659  IAUM AU   IAU               0       196.966       0
+     660 AUM  660  IAUM AU   IAU               0       196.966       0
+     661 AUM  661  IAUM AU   IAU               0       196.966       0
+     662 AUM  662  IAUM AU   IAU               0       196.966       0
+     663 AUM  663  IAUM AU   IAU               0       196.966       0
+     664 AUM  664  IAUM AU   IAU               0       196.966       0
+     665 AUM  665  IAUM AU   IAU               0       196.966       0
+     666 AUM  666  IAUM AU   IAU               0       196.966       0
+     667 AUM  667  IAUM AU   IAU               0       196.966       0
+     668 AUM  668  IAUM AU   IAU               0       196.966       0
+     669 AUM  669  IAUM AU   IAU               0       196.966       0
+     670 AUM  670  IAUM AU   IAU               0       196.966       0
+     671 AUM  671  IAUM AU   IAU               0       196.966       0
+     672 AUM  672  IAUM AU   IAU               0       196.966       0
+     673 AUM  673  IAUM AU   IAU               0       196.966       0
+     674 AUM  674  IAUM AU   IAU               0       196.966       0
+     675 AUM  675  IAUM AU   IAU               0       196.966       0
+     676 AUM  676  IAUM AU   IAU               0       196.966       0
+     677 AUM  677  IAUM AU   IAU               0       196.966       0
+     678 AUM  678  IAUM AU   IAU               0       196.966       0
+     679 AUM  679  IAUM AU   IAU               0       196.966       0
+     680 AUM  680  IAUM AU   IAU               0       196.966       0
+     681 AUM  681  IAUM AU   IAU               0       196.966       0
+     682 AUM  682  IAUM AU   IAU               0       196.966       0
+     683 AUM  683  IAUM AU   IAU               0       196.966       0
+     684 AUM  684  IAUM AU   IAU               0       196.966       0
+     685 AUM  685  IAUM AU   IAU               0       196.966       0
+     686 AUM  686  IAUM AU   IAU               0       196.966       0
+     687 AUM  687  IAUM AU   IAU               0       196.966       0
+     688 AUM  688  IAUM AU   IAU               0       196.966       0
+     689 AUM  689  IAUM AU   IAU               0       196.966       0
+     690 AUM  690  IAUM AU   IAU               0       196.966       0
+     691 AUM  691  IAUM AU   IAU               0       196.966       0
+     692 AUM  692  IAUM AU   IAU               0       196.966       0
+     693 AUM  693  IAUM AU   IAU               0       196.966       0
+     694 AUM  694  IAUM AU   IAU               0       196.966       0
+     695 AUM  695  IAUM AU   IAU               0       196.966       0
+     696 AUM  696  IAUM AU   IAU               0       196.966       0
+     697 AUM  697  IAUM AU   IAU               0       196.966       0
+     698 AUM  698  IAUM AU   IAU               0       196.966       0
+     699 AUM  699  IAUM AU   IAU               0       196.966       0
+     700 AUM  700  IAUM AU   IAU               0       196.966       0
+     701 AUM  701  IAUM AU   IAU               0       196.966       0
+     702 AUM  702  IAUM AU   IAU               0       196.966       0
+     703 AUM  703  IAUM AU   IAU               0       196.966       0
+     704 AUM  704  IAUM AU   IAU               0       196.966       0
+     705 AUM  705  IAUM AU   IAU               0       196.966       0
+     706 AUM  706  IAUM AU   IAU               0       196.966       0
+     707 AUM  707  IAUM AU   IAU               0       196.966       0
+     708 AUM  708  IAUM AU   IAU               0       196.966       0
+     709 AUM  709  IAUM AU   IAU               0       196.966       0
+     710 AUM  710  IAUM AU   IAU               0       196.966       0
+     711 AUM  711  IAUM AU   IAU               0       196.966       0
+     712 AUM  712  IAUM AU   IAU               0       196.966       0
+     713 AUM  713  IAUM AU   IAU               0       196.966       0
+     714 AUM  714  IAUM AU   IAU               0       196.966       0
+     715 AUM  715  IAUM AU   IAU               0       196.966       0
+     716 AUM  716  IAUM AU   IAU               0       196.966       0
+     717 AUM  717  IAUM AU   IAU               0       196.966       0
+     718 AUM  718  IAUM AU   IAU               0       196.966       0
+     719 AUM  719  IAUM AU   IAU               0       196.966       0
+     720 AUM  720  IAUM AU   IAU               0       196.966       0
+     721 AUM  721  IAUM AU   IAU               0       196.966       0
+     722 AUM  722  IAUM AU   IAU               0       196.966       0
+     723 AUM  723  IAUM AU   IAU               0       196.966       0
+     724 AUM  724  IAUM AU   IAU               0       196.966       0
+     725 AUM  725  IAUM AU   IAU               0       196.966       0
+     726 AUM  726  IAUM AU   IAU               0       196.966       0
+     727 AUM  727  IAUM AU   IAU               0       196.966       0
+     728 AUM  728  IAUM AU   IAU               0       196.966       0
+     729 AUM  729  IAUM AU   IAU               0       196.966       0
+     730 AUM  730  IAUM AU   IAU               0       196.966       0
+     731 AUM  731  IAUM AU   IAU               0       196.966       0
+     732 AUM  732  IAUM AU   IAU               0       196.966       0
+     733 AUM  733  IAUM AU   IAU               0       196.966       0
+     734 AUM  734  IAUM AU   IAU               0       196.966       0
+     735 AUM  735  IAUM AU   IAU               0       196.966       0
+     736 AUM  736  IAUM AU   IAU               0       196.966       0
+     737 AUM  737  IAUM AU   IAU               0       196.966       0
+     738 AUM  738  IAUM AU   IAU               0       196.966       0
+     739 AUM  739  IAUM AU   IAU               0       196.966       0
+     740 AUM  740  IAUM AU   IAU               0       196.966       0
+     741 AUM  741  IAUM AU   IAU               0       196.966       0
+     742 AUM  742  IAUM AU   IAU               0       196.966       0
+     743 AUM  743  IAUM AU   IAU               0       196.966       0
+     744 AUM  744  IAUM AU   IAU               0       196.966       0
+     745 AUM  745  IAUM AU   IAU               0       196.966       0
+     746 AUM  746  IAUM AU   IAU               0       196.966       0
+     747 AUM  747  IAUM AU   IAU               0       196.966       0
+     748 AUM  748  IAUM AU   IAU               0       196.966       0
+     749 AUM  749  IAUM AU   IAU               0       196.966       0
+     750 AUM  750  IAUM AU   IAU               0       196.966       0
+     751 AUM  751  IAUM AU   IAU               0       196.966       0
+     752 AUM  752  IAUM AU   IAU               0       196.966       0
+     753 AUM  753  IAUM AU   IAU               0       196.966       0
+     754 AUM  754  IAUM AU   IAU               0       196.966       0
+     755 AUM  755  IAUM AU   IAU               0       196.966       0
+     756 AUM  756  IAUM AU   IAU               0       196.966       0
+     757 AUM  757  IAUM AU   IAU               0       196.966       0
+     758 AUM  758  IAUM AU   IAU               0       196.966       0
+     759 AUM  759  IAUM AU   IAU               0       196.966       0
+     760 AUM  760  IAUM AU   IAU               0       196.966       0
+     761 AUM  761  IAUM AU   IAU               0       196.966       0
+     762 AUM  762  IAUM AU   IAU               0       196.966       0
+     763 AUM  763  IAUM AU   IAU               0       196.966       0
+     764 AUM  764  IAUM AU   IAU               0       196.966       0
+     765 AUM  765  IAUM AU   IAU               0       196.966       0
+     766 AUM  766  IAUM AU   IAU               0       196.966       0
+     767 AUM  767  IAUM AU   IAU               0       196.966       0
+     768 AUM  768  IAUM AU   IAU               0       196.966       0
+     769 AUM  769  IAUM AU   IAU               0       196.966       0
+     770 AUM  770  IAUM AU   IAU               0       196.966       0
+     771 AUM  771  IAUM AU   IAU               0       196.966       0
+     772 AUM  772  IAUM AU   IAU               0       196.966       0
+     773 AUM  773  IAUM AU   IAU               0       196.966       0
+     774 AUM  774  IAUM AU   IAU               0       196.966       0
+     775 AUM  775  IAUM AU   IAU               0       196.966       0
+     776 AUM  776  IAUM AU   IAU               0       196.966       0
+     777 AUM  777  IAUM AU   IAU               0       196.966       0
+     778 AUM  778  IAUM AU   IAU               0       196.966       0
+     779 AUM  779  IAUM AU   IAU               0       196.966       0
+     780 AUM  780  IAUM AU   IAU               0       196.966       0
+     781 AUM  781  IAUM AU   IAU               0       196.966       0
+     782 AUM  782  IAUM AU   IAU               0       196.966       0
+     783 AUM  783  IAUM AU   IAU               0       196.966       0
+     784 AUM  784  IAUM AU   IAU               0       196.966       0
+     785 AUM  785  IAUM AU   IAU               0       196.966       0
+     786 AUM  786  IAUM AU   IAU               0       196.966       0
+     787 AUM  787  IAUM AU   IAU               0       196.966       0
+     788 AUM  788  IAUM AU   IAU               0       196.966       0
+     789 AUM  789  IAUM AU   IAU               0       196.966       0
+     790 AUM  790  IAUM AU   IAU               0       196.966       0
+     791 AUM  791  IAUM AU   IAU               0       196.966       0
+     792 AUM  792  IAUM AU   IAU               0       196.966       0
+     793 AUM  793  IAUM AU   IAU               0       196.966       0
+     794 AUM  794  IAUM AU   IAU               0       196.966       0
+     795 AUM  795  IAUM AU   IAU               0       196.966       0
+     796 AUM  796  IAUM AU   IAU               0       196.966       0
+     797 AUM  797  IAUM AU   IAU               0       196.966       0
+     798 AUM  798  IAUM AU   IAU               0       196.966       0
+     799 AUM  799  IAUM AU   IAU               0       196.966       0
+     800 AUM  800  IAUM AU   IAU               0       196.966       0
+     801 AUM  801  IAUM AU   IAU               0       196.966       0
+     802 AUM  802  IAUM AU   IAU               0       196.966       0
+     803 AUM  803  IAUM AU   IAU               0       196.966       0
+     804 AUM  804  IAUM AU   IAU               0       196.966       0
+     805 AUM  805  IAUM AU   IAU               0       196.966       0
+     806 AUM  806  IAUM AU   IAU               0       196.966       0
+     807 AUM  807  IAUM AU   IAU               0       196.966       0
+     808 AUM  808  IAUM AU   IAU               0       196.966       0
+     809 AUM  809  IAUM AU   IAU               0       196.966       0
+     810 AUM  810  IAUM AU   IAU               0       196.966       0
+     811 AUM  811  IAUM AU   IAU               0       196.966       0
+     812 AUM  812  IAUM AU   IAU               0       196.966       0
+     813 AUM  813  IAUM AU   IAU               0       196.966       0
+     814 AUM  814  IAUM AU   IAU               0       196.966       0
+     815 AUM  815  IAUM AU   IAU               0       196.966       0
+     816 AUM  816  IAUM AU   IAU               0       196.966       0
+     817 AUM  817  IAUM AU   IAU               0       196.966       0
+     818 AUM  818  IAUM AU   IAU               0       196.966       0
+     819 AUM  819  IAUM AU   IAU               0       196.966       0
+     820 AUM  820  IAUM AU   IAU               0       196.966       0
+     821 AUM  821  IAUM AU   IAU               0       196.966       0
+     822 AUM  822  IAUM AU   IAU               0       196.966       0
+     823 AUM  823  IAUM AU   IAU               0       196.966       0
+     824 AUM  824  IAUM AU   IAU               0       196.966       0
+     825 AUM  825  IAUM AU   IAU               0       196.966       0
+     826 AUM  826  IAUM AU   IAU               0       196.966       0
+     827 AUM  827  IAUM AU   IAU               0       196.966       0
+     828 AUM  828  IAUM AU   IAU               0       196.966       0
+     829 AUM  829  IAUM AU   IAU               0       196.966       0
+     830 AUM  830  IAUM AU   IAU               0       196.966       0
+     831 AUM  831  IAUM AU   IAU               0       196.966       0
+     832 AUM  832  IAUM AU   IAU               0       196.966       0
+     833 AUM  833  IAUM AU   IAU               0       196.966       0
+     834 AUM  834  IAUM AU   IAU               0       196.966       0
+     835 AUM  835  IAUM AU   IAU               0       196.966       0
+     836 AUM  836  IAUM AU   IAU               0       196.966       0
+     837 AUM  837  IAUM AU   IAU               0       196.966       0
+     838 AUM  838  IAUM AU   IAU               0       196.966       0
+     839 AUM  839  IAUM AU   IAU               0       196.966       0
+     840 AUM  840  IAUM AU   IAU               0       196.966       0
+     841 AUM  841  IAUM AU   IAU               0       196.966       0
+     842 AUM  842  IAUM AU   IAU               0       196.966       0
+     843 AUM  843  IAUM AU   IAU               0       196.966       0
+     844 AUM  844  IAUM AU   IAU               0       196.966       0
+     845 AUM  845  IAUM AU   IAU               0       196.966       0
+     846 AUM  846  IAUM AU   IAU               0       196.966       0
+     847 AUM  847  IAUM AU   IAU               0       196.966       0
+     848 AUM  848  IAUM AU   IAU               0       196.966       0
+     849 AUM  849  IAUM AU   IAU               0       196.966       0
+     850 AUM  850  IAUM AU   IAU               0       196.966       0
+     851 AUM  851  IAUM AU   IAU               0       196.966       0
+     852 AUM  852  IAUM AU   IAU               0       196.966       0
+     853 AUM  853  IAUM AU   IAU               0       196.966       0
+     854 AUM  854  IAUM AU   IAU               0       196.966       0
+     855 AUM  855  IAUM AU   IAU               0       196.966       0
+     856 AUM  856  IAUM AU   IAU               0       196.966       0
+     857 AUM  857  IAUM AU   IAU               0       196.966       0
+     858 AUM  858  IAUM AU   IAU               0       196.966       0
+     859 AUM  859  IAUM AU   IAU               0       196.966       0
+     860 AUM  860  IAUM AU   IAU               0       196.966       0
+     861 AUM  861  IAUM AU   IAU               0       196.966       0
+     862 AUM  862  IAUM AU   IAU               0       196.966       0
+     863 AUM  863  IAUM AU   IAU               0       196.966       0
+     864 AUM  864  IAUM AU   IAU               0       196.966       0
+     865 AUM  865  IAUM AU   IAU               0       196.966       0
+     866 AUM  866  IAUM AU   IAU               0       196.966       0
+     867 AUM  867  IAUM AU   IAU               0       196.966       0
+     868 AUM  868  IAUM AU   IAU               0       196.966       0
+     869 AUM  869  IAUM AU   IAU               0       196.966       0
+     870 AUM  870  IAUM AU   IAU               0       196.966       0
+     871 AUM  871  IAUM AU   IAU               0       196.966       0
+     872 AUM  872  IAUM AU   IAU               0       196.966       0
+     873 AUM  873  IAUM AU   IAU               0       196.966       0
+     874 AUM  874  IAUM AU   IAU               0       196.966       0
+     875 AUM  875  IAUM AU   IAU               0       196.966       0
+     876 AUM  876  IAUM AU   IAU               0       196.966       0
+     877 AUM  877  IAUM AU   IAU               0       196.966       0
+     878 AUM  878  IAUM AU   IAU               0       196.966       0
+     879 AUM  879  IAUM AU   IAU               0       196.966       0
+     880 AUM  880  IAUM AU   IAU               0       196.966       0
+     881 AUM  881  IAUM AU   IAU               0       196.966       0
+     882 AUM  882  IAUM AU   IAU               0       196.966       0
+     883 AUM  883  IAUM AU   IAU               0       196.966       0
+     884 AUM  884  IAUM AU   IAU               0       196.966       0
+     885 AUM  885  IAUM AU   IAU               0       196.966       0
+     886 AUM  886  IAUM AU   IAU               0       196.966       0
+     887 AUM  887  IAUM AU   IAU               0       196.966       0
+     888 AUM  888  IAUM AU   IAU               0       196.966       0
+     889 AUM  889  IAUM AU   IAU               0       196.966       0
+     890 AUM  890  IAUM AU   IAU               0       196.966       0
+     891 AUM  891  IAUM AU   IAU               0       196.966       0
+     892 AUM  892  IAUM AU   IAU               0       196.966       0
+     893 AUM  893  IAUM AU   IAU               0       196.966       0
+     894 AUM  894  IAUM AU   IAU               0       196.966       0
+     895 AUM  895  IAUM AU   IAU               0       196.966       0
+     896 AUM  896  IAUM AU   IAU               0       196.966       0
+     897 AUM  897  IAUM AU   IAU               0       196.966       0
+     898 AUM  898  IAUM AU   IAU               0       196.966       0
+     899 AUM  899  IAUM AU   IAU               0       196.966       0
+     900 AUM  900  IAUM AU   IAU               0       196.966       0
+     901 AUM  901  IAUM AU   IAU               0       196.966       0
+     902 AUM  902  IAUM AU   IAU               0       196.966       0
+     903 AUM  903  IAUM AU   IAU               0       196.966       0
+     904 AUM  904  IAUM AU   IAU               0       196.966       0
+     905 AUM  905  IAUM AU   IAU               0       196.966       0
+     906 AUM  906  IAUM AU   IAU               0       196.966       0
+     907 AUM  907  IAUM AU   IAU               0       196.966       0
+     908 AUM  908  IAUM AU   IAU               0       196.966       0
+     909 AUM  909  IAUM AU   IAU               0       196.966       0
+     910 AUM  910  IAUM AU   IAU               0       196.966       0
+     911 AUM  911  IAUM AU   IAU               0       196.966       0
+     912 AUM  912  IAUM AU   IAU               0       196.966       0
+     913 AUM  913  IAUM AU   IAU               0       196.966       0
+     914 AUM  914  IAUM AU   IAU               0       196.966       0
+     915 AUM  915  IAUM AU   IAU               0       196.966       0
+     916 AUM  916  IAUM AU   IAU               0       196.966       0
+     917 AUM  917  IAUM AU   IAU               0       196.966       0
+     918 AUM  918  IAUM AU   IAU               0       196.966       0
+     919 AUM  919  IAUM AU   IAU               0       196.966       0
+     920 AUM  920  IAUM AU   IAU               0       196.966       0
+     921 AUM  921  IAUM AU   IAU               0       196.966       0
+     922 AUM  922  IAUM AU   IAU               0       196.966       0
+     923 AUM  923  IAUM AU   IAU               0       196.966       0
+     924 AUM  924  IAUM AU   IAU               0       196.966       0
+     925 AUM  925  IAUM AU   IAU               0       196.966       0
+     926 AUM  926  IAUM AU   IAU               0       196.966       0
+     927 AUM  927  IAUM AU   IAU               0       196.966       0
+     928 AUM  928  IAUM AU   IAU               0       196.966       0
+     929 AUM  929  IAUM AU   IAU               0       196.966       0
+     930 AUM  930  IAUM AU   IAU               0       196.966       0
+     931 AUM  931  IAUM AU   IAU               0       196.966       0
+     932 AUM  932  IAUM AU   IAU               0       196.966       0
+     933 AUM  933  IAUM AU   IAU               0       196.966       0
+     934 AUM  934  IAUM AU   IAU               0       196.966       0
+     935 AUM  935  IAUM AU   IAU               0       196.966       0
+     936 AUM  936  IAUM AU   IAU               0       196.966       0
+     937 AUM  937  IAUM AU   IAU               0       196.966       0
+     938 AUM  938  IAUM AU   IAU               0       196.966       0
+     939 AUM  939  IAUM AU   IAU               0       196.966       0
+     940 AUM  940  IAUM AU   IAU               0       196.966       0
+     941 AUM  941  IAUM AU   IAU               0       196.966       0
+     942 AUM  942  IAUM AU   IAU               0       196.966       0
+     943 AUM  943  IAUM AU   IAU               0       196.966       0
+     944 AUM  944  IAUM AU   IAU               0       196.966       0
+     945 AUM  945  IAUM AU   IAU               0       196.966       0
+     946 AUM  946  IAUM AU   IAU               0       196.966       0
+     947 AUM  947  IAUM AU   IAU               0       196.966       0
+     948 AUM  948  IAUM AU   IAU               0       196.966       0
+     949 AUM  949  IAUM AU   IAU               0       196.966       0
+     950 AUM  950  IAUM AU   IAU               0       196.966       0
+     951 AUM  951  IAUM AU   IAU               0       196.966       0
+     952 AUM  952  IAUM AU   IAU               0       196.966       0
+     953 AUM  953  IAUM AU   IAU               0       196.966       0
+     954 AUM  954  IAUM AU   IAU               0       196.966       0
+     955 AUM  955  IAUM AU   IAU               0       196.966       0
+     956 AUM  956  IAUM AU   IAU               0       196.966       0
+     957 AUM  957  IAUM AU   IAU               0       196.966       0
+     958 AUM  958  IAUM AU   IAU               0       196.966       0
+     959 AUM  959  IAUM AU   IAU               0       196.966       0
+     960 AUM  960  IAUM AU   IAU               0       196.966       0
+     961 AUM  961  IAUM AU   IAU               0       196.966       0
+     962 AUM  962  IAUM AU   IAU               0       196.966       0
+     963 AUM  963  IAUM AU   IAU               0       196.966       0
+     964 AUM  964  IAUM AU   IAU               0       196.966       0
+     965 AUM  965  IAUM AU   IAU               0       196.966       0
+     966 AUM  966  IAUM AU   IAU               0       196.966       0
+     967 AUM  967  IAUM AU   IAU               0       196.966       0
+     968 AUM  968  IAUM AU   IAU               0       196.966       0
+     969 AUM  969  IAUM AU   IAU               0       196.966       0
+     970 AUM  970  IAUM AU   IAU               0       196.966       0
+     971 AUM  971  IAUM AU   IAU               0       196.966       0
+     972 AUM  972  IAUM AU   IAU               0       196.966       0
+     973 AUM  973  IAUM AU   IAU               0       196.966       0
+     974 AUM  974  IAUM AU   IAU               0       196.966       0
+     975 AUM  975  IAUM AU   IAU               0       196.966       0
+     976 AUM  976  IAUM AU   IAU               0       196.966       0
+     977 AUM  977  IAUM AU   IAU               0       196.966       0
+     978 AUM  978  IAUM AU   IAU               0       196.966       0
+     979 AUM  979  IAUM AU   IAU               0       196.966       0
+     980 AUM  980  IAUM AU   IAU               0       196.966       0
+     981 AUM  981  IAUM AU   IAU               0       196.966       0
+     982 AUM  982  IAUM AU   IAU               0       196.966       0
+     983 AUM  983  IAUM AU   IAU               0       196.966       0
+     984 AUM  984  IAUM AU   IAU               0       196.966       0
+     985 AUM  985  IAUM AU   IAU               0       196.966       0
+     986 AUM  986  IAUM AU   IAU               0       196.966       0
+     987 AUM  987  IAUM AU   IAU               0       196.966       0
+     988 AUM  988  IAUM AU   IAU               0       196.966       0
+     989 AUM  989  IAUM AU   IAU               0       196.966       0
+     990 AUM  990  IAUM AU   IAU               0       196.966       0
+     991 AUM  991  IAUM AU   IAU               0       196.966       0
+     992 AUM  992  IAUM AU   IAU               0       196.966       0
+     993 AUM  993  IAUM AU   IAU               0       196.966       0
+     994 AUM  994  IAUM AU   IAU               0       196.966       0
+     995 AUM  995  IAUM AU   IAU               0       196.966       0
+     996 AUM  996  IAUM AU   IAU               0       196.966       0
+     997 AUM  997  IAUM AU   IAU               0       196.966       0
+     998 AUM  998  IAUM AU   IAU               0       196.966       0
+     999 AUM  999  IAUM AU   IAU               0       196.966       0
+    1000 AUM  1000 IAUM AU   IAU               0       196.966       0
+    1001 AUM  1001 IAUM AU   IAU               0       196.966       0
+    1002 AUM  1002 IAUM AU   IAU               0       196.966       0
+    1003 AUM  1003 IAUM AU   IAU               0       196.966       0
+    1004 AUM  1004 IAUM AU   IAU               0       196.966       0
+    1005 AUM  1005 IAUM AU   IAU               0       196.966       0
+    1006 AUM  1006 IAUM AU   IAU               0       196.966       0
+    1007 AUM  1007 IAUM AU   IAU               0       196.966       0
+    1008 AUM  1008 IAUM AU   IAU               0       196.966       0
+    1009 AUM  1009 IAUM AU   IAU               0       196.966       0
+    1010 AUM  1010 IAUM AU   IAU               0       196.966       0
+    1011 AUM  1011 IAUM AU   IAU               0       196.966       0
+    1012 AUM  1012 IAUM AU   IAU               0       196.966       0
+    1013 AUM  1013 IAUM AU   IAU               0       196.966       0
+    1014 AUM  1014 IAUM AU   IAU               0       196.966       0
+    1015 AUM  1015 IAUM AU   IAU               0       196.966       0
+    1016 AUM  1016 IAUM AU   IAU               0       196.966       0
+    1017 AUM  1017 IAUM AU   IAU               0       196.966       0
+    1018 AUM  1018 IAUM AU   IAU               0       196.966       0
+    1019 AUM  1019 IAUM AU   IAU               0       196.966       0
+    1020 AUM  1020 IAUM AU   IAU               0       196.966       0
+    1021 AUM  1021 IAUM AU   IAU               0       196.966       0
+    1022 AUM  1022 IAUM AU   IAU               0       196.966       0
+    1023 AUM  1023 IAUM AU   IAU               0       196.966       0
+    1024 AUM  1024 IAUM AU   IAU               0       196.966       0
+    1025 AUM  1025 IAUM AU   IAU               0       196.966       0
+    1026 AUM  1026 IAUM AU   IAU               0       196.966       0
+    1027 AUM  1027 IAUM AU   IAU               0       196.966       0
+    1028 AUM  1028 IAUM AU   IAU               0       196.966       0
+    1029 AUM  1029 IAUM AU   IAU               0       196.966       0
+    1030 AUM  1030 IAUM AU   IAU               0       196.966       0
+    1031 AUM  1031 IAUM AU   IAU               0       196.966       0
+    1032 AUM  1032 IAUM AU   IAU               0       196.966       0
+    1033 AUM  1033 IAUM AU   IAU               0       196.966       0
+    1034 AUM  1034 IAUM AU   IAU               0       196.966       0
+    1035 AUM  1035 IAUM AU   IAU               0       196.966       0
+    1036 AUM  1036 IAUM AU   IAU               0       196.966       0
+    1037 AUM  1037 IAUM AU   IAU               0       196.966       0
+    1038 AUM  1038 IAUM AU   IAU               0       196.966       0
+    1039 AUM  1039 IAUM AU   IAU               0       196.966       0
+    1040 AUM  1040 IAUM AU   IAU               0       196.966       0
+    1041 AUM  1041 IAUM AU   IAU               0       196.966       0
+    1042 AUM  1042 IAUM AU   IAU               0       196.966       0
+    1043 AUM  1043 IAUM AU   IAU               0       196.966       0
+    1044 AUM  1044 IAUM AU   IAU               0       196.966       0
+    1045 AUM  1045 IAUM AU   IAU               0       196.966       0
+    1046 AUM  1046 IAUM AU   IAU               0       196.966       0
+    1047 AUM  1047 IAUM AU   IAU               0       196.966       0
+    1048 AUM  1048 IAUM AU   IAU               0       196.966       0
+    1049 AUM  1049 IAUM AU   IAU               0       196.966       0
+    1050 AUM  1050 IAUM AU   IAU               0       196.966       0
+    1051 AUM  1051 IAUM AU   IAU               0       196.966       0
+    1052 AUM  1052 IAUM AU   IAU               0       196.966       0
+    1053 AUM  1053 IAUM AU   IAU               0       196.966       0
+    1054 AUM  1054 IAUM AU   IAU               0       196.966       0
+    1055 AUM  1055 IAUM AU   IAU               0       196.966       0
+    1056 AUM  1056 IAUM AU   IAU               0       196.966       0
+    1057 AUM  1057 IAUM AU   IAU               0       196.966       0
+    1058 AUM  1058 IAUM AU   IAU               0       196.966       0
+    1059 AUM  1059 IAUM AU   IAU               0       196.966       0
+    1060 AUM  1060 IAUM AU   IAU               0       196.966       0
+    1061 AUM  1061 IAUM AU   IAU               0       196.966       0
+    1062 AUM  1062 IAUM AU   IAU               0       196.966       0
+    1063 AUM  1063 IAUM AU   IAU               0       196.966       0
+    1064 AUM  1064 IAUM AU   IAU               0       196.966       0
+    1065 AUM  1065 IAUM AU   IAU               0       196.966       0
+    1066 AUM  1066 IAUM AU   IAU               0       196.966       0
+    1067 AUM  1067 IAUM AU   IAU               0       196.966       0
+    1068 AUM  1068 IAUM AU   IAU               0       196.966       0
+    1069 AUM  1069 IAUM AU   IAU               0       196.966       0
+    1070 AUM  1070 IAUM AU   IAU               0       196.966       0
+    1071 AUM  1071 IAUM AU   IAU               0       196.966       0
+    1072 AUM  1072 IAUM AU   IAU               0       196.966       0
+    1073 AUM  1073 IAUM AU   IAU               0       196.966       0
+    1074 AUM  1074 IAUM AU   IAU               0       196.966       0
+    1075 AUM  1075 IAUM AU   IAU               0       196.966       0
+    1076 AUM  1076 IAUM AU   IAU               0       196.966       0
+    1077 AUM  1077 IAUM AU   IAU               0       196.966       0
+    1078 AUM  1078 IAUM AU   IAU               0       196.966       0
+    1079 AUM  1079 IAUM AU   IAU               0       196.966       0
+    1080 AUM  1080 IAUM AU   IAU               0       196.966       0
+    1081 AUM  1081 IAUM AU   IAU               0       196.966       0
+    1082 AUM  1082 IAUM AU   IAU               0       196.966       0
+    1083 AUM  1083 IAUM AU   IAU               0       196.966       0
+    1084 AUM  1084 IAUM AU   IAU               0       196.966       0
+    1085 AUM  1085 IAUM AU   IAU               0       196.966       0
+    1086 AUM  1086 IAUM AU   IAU               0       196.966       0
+    1087 AUM  1087 IAUM AU   IAU               0       196.966       0
+    1088 AUM  1088 IAUM AU   IAU               0       196.966       0
+    1089 AUM  1089 IAUM AU   IAU               0       196.966       0
+    1090 AUM  1090 IAUM AU   IAU               0       196.966       0
+    1091 AUM  1091 IAUM AU   IAU               0       196.966       0
+    1092 AUM  1092 IAUM AU   IAU               0       196.966       0
+    1093 AUM  1093 IAUM AU   IAU               0       196.966       0
+    1094 AUM  1094 IAUM AU   IAU               0       196.966       0
+    1095 AUM  1095 IAUM AU   IAU               0       196.966       0
+    1096 AUM  1096 IAUM AU   IAU               0       196.966       0
+    1097 AUM  1097 IAUM AU   IAU               0       196.966       0
+    1098 AUM  1098 IAUM AU   IAU               0       196.966       0
+    1099 AUM  1099 IAUM AU   IAU               0       196.966       0
+    1100 AUM  1100 IAUM AU   IAU               0       196.966       0
+    1101 AUM  1101 IAUM AU   IAU               0       196.966       0
+    1102 AUM  1102 IAUM AU   IAU               0       196.966       0
+    1103 AUM  1103 IAUM AU   IAU               0       196.966       0
+    1104 AUM  1104 IAUM AU   IAU               0       196.966       0
+    1105 AUM  1105 IAUM AU   IAU               0       196.966       0
+    1106 AUM  1106 IAUM AU   IAU               0       196.966       0
+    1107 AUM  1107 IAUM AU   IAU               0       196.966       0
+    1108 AUM  1108 IAUM AU   IAU               0       196.966       0
+    1109 AUM  1109 IAUM AU   IAU               0       196.966       0
+    1110 AUM  1110 IAUM AU   IAU               0       196.966       0
+    1111 AUM  1111 IAUM AU   IAU               0       196.966       0
+    1112 AUM  1112 IAUM AU   IAU               0       196.966       0
+    1113 AUM  1113 IAUM AU   IAU               0       196.966       0
+    1114 AUM  1114 IAUM AU   IAU               0       196.966       0
+    1115 AUM  1115 IAUM AU   IAU               0       196.966       0
+    1116 AUM  1116 IAUM AU   IAU               0       196.966       0
+    1117 AUM  1117 IAUM AU   IAU               0       196.966       0
+    1118 AUM  1118 IAUM AU   IAU               0       196.966       0
+    1119 AUM  1119 IAUM AU   IAU               0       196.966       0
+    1120 AUM  1120 IAUM AU   IAU               0       196.966       0
+    1121 AUM  1121 IAUM AU   IAU               0       196.966       0
+    1122 AUM  1122 IAUM AU   IAU               0       196.966       0
+    1123 AUM  1123 IAUM AU   IAU               0       196.966       0
+    1124 AUM  1124 IAUM AU   IAU               0       196.966       0
+    1125 AUM  1125 IAUM AU   IAU               0       196.966       0
+    1126 AUM  1126 IAUM AU   IAU               0       196.966       0
+    1127 AUM  1127 IAUM AU   IAU               0       196.966       0
+    1128 AUM  1128 IAUM AU   IAU               0       196.966       0
+    1129 AUM  1129 IAUM AU   IAU               0       196.966       0
+    1130 AUM  1130 IAUM AU   IAU               0       196.966       0
+    1131 AUM  1131 IAUM AU   IAU               0       196.966       0
+    1132 AUM  1132 IAUM AU   IAU               0       196.966       0
+    1133 AUM  1133 IAUM AU   IAU               0       196.966       0
+    1134 AUM  1134 IAUM AU   IAU               0       196.966       0
+    1135 AUM  1135 IAUM AU   IAU               0       196.966       0
+    1136 AUM  1136 IAUM AU   IAU               0       196.966       0
+    1137 AUM  1137 IAUM AU   IAU               0       196.966       0
+    1138 AUM  1138 IAUM AU   IAU               0       196.966       0
+    1139 AUM  1139 IAUM AU   IAU               0       196.966       0
+    1140 AUM  1140 IAUM AU   IAU               0       196.966       0
+    1141 AUM  1141 IAUM AU   IAU               0       196.966       0
+    1142 AUM  1142 IAUM AU   IAU               0       196.966       0
+    1143 AUM  1143 IAUM AU   IAU               0       196.966       0
+    1144 AUM  1144 IAUM AU   IAU               0       196.966       0
+    1145 AUM  1145 IAUM AU   IAU               0       196.966       0
+    1146 AUM  1146 IAUM AU   IAU               0       196.966       0
+    1147 AUM  1147 IAUM AU   IAU               0       196.966       0
+    1148 AUM  1148 IAUM AU   IAU               0       196.966       0
+    1149 AUM  1149 IAUM AU   IAU               0       196.966       0
+    1150 AUM  1150 IAUM AU   IAU               0       196.966       0
+    1151 AUM  1151 IAUM AU   IAU               0       196.966       0
+    1152 AUM  1152 IAUM AU   IAU               0       196.966       0
+    1153 AUM  1153 IAUM AU   IAU               0       196.966       0
+    1154 AUM  1154 IAUM AU   IAU               0       196.966       0
+    1155 AUM  1155 IAUM AU   IAU               0       196.966       0
+    1156 AUM  1156 IAUM AU   IAU               0       196.966       0
+    1157 AUM  1157 IAUM AU   IAU               0       196.966       0
+    1158 AUM  1158 IAUM AU   IAU               0       196.966       0
+    1159 AUM  1159 IAUM AU   IAU               0       196.966       0
+    1160 AUM  1160 IAUM AU   IAU               0       196.966       0
+    1161 AUM  1161 IAUM AU   IAU               0       196.966       0
+    1162 AUM  1162 IAUM AU   IAU               0       196.966       0
+    1163 AUM  1163 IAUM AU   IAU               0       196.966       0
+    1164 AUM  1164 IAUM AU   IAU               0       196.966       0
+    1165 AUM  1165 IAUM AU   IAU               0       196.966       0
+    1166 AUM  1166 IAUM AU   IAU               0       196.966       0
+    1167 AUM  1167 IAUM AU   IAU               0       196.966       0
+    1168 AUM  1168 IAUM AU   IAU               0       196.966       0
+    1169 AUM  1169 IAUM AU   IAU               0       196.966       0
+    1170 AUM  1170 IAUM AU   IAU               0       196.966       0
+    1171 AUM  1171 IAUM AU   IAU               0       196.966       0
+    1172 AUM  1172 IAUM AU   IAU               0       196.966       0
+    1173 AUM  1173 IAUM AU   IAU               0       196.966       0
+    1174 AUM  1174 IAUM AU   IAU               0       196.966       0
+    1175 AUM  1175 IAUM AU   IAU               0       196.966       0
+    1176 AUM  1176 IAUM AU   IAU               0       196.966       0
+    1177 AUM  1177 IAUM AU   IAU               0       196.966       0
+    1178 AUM  1178 IAUM AU   IAU               0       196.966       0
+    1179 AUM  1179 IAUM AU   IAU               0       196.966       0
+    1180 AUM  1180 IAUM AU   IAU               0       196.966       0
+    1181 AUM  1181 IAUM AU   IAU               0       196.966       0
+    1182 AUM  1182 IAUM AU   IAU               0       196.966       0
+    1183 AUM  1183 IAUM AU   IAU               0       196.966       0
+    1184 AUM  1184 IAUM AU   IAU               0       196.966       0
+    1185 AUM  1185 IAUM AU   IAU               0       196.966       0
+    1186 AUM  1186 IAUM AU   IAU               0       196.966       0
+    1187 AUM  1187 IAUM AU   IAU               0       196.966       0
+    1188 AUM  1188 IAUM AU   IAU               0       196.966       0
+    1189 AUM  1189 IAUM AU   IAU               0       196.966       0
+    1190 AUM  1190 IAUM AU   IAU               0       196.966       0
+    1191 AUM  1191 IAUM AU   IAU               0       196.966       0
+    1192 AUM  1192 IAUM AU   IAU               0       196.966       0
+    1193 AUM  1193 IAUM AU   IAU               0       196.966       0
+    1194 AUM  1194 IAUM AU   IAU               0       196.966       0
+    1195 AUM  1195 IAUM AU   IAU               0       196.966       0
+    1196 AUM  1196 IAUM AU   IAU               0       196.966       0
+    1197 AUM  1197 IAUM AU   IAU               0       196.966       0
+    1198 AUM  1198 IAUM AU   IAU               0       196.966       0
+    1199 AUM  1199 IAUM AU   IAU               0       196.966       0
+    1200 AUM  1200 IAUM AU   IAU               0       196.966       0
+    1201 AUM  1201 IAUM AU   IAU               0       196.966       0
+    1202 AUM  1202 IAUM AU   IAU               0       196.966       0
+    1203 AUM  1203 IAUM AU   IAU               0       196.966       0
+    1204 AUM  1204 IAUM AU   IAU               0       196.966       0
+    1205 AUM  1205 IAUM AU   IAU               0       196.966       0
+    1206 AUM  1206 IAUM AU   IAU               0       196.966       0
+    1207 AUM  1207 IAUM AU   IAU               0       196.966       0
+    1208 AUM  1208 IAUM AU   IAU               0       196.966       0
+    1209 AUM  1209 IAUM AU   IAU               0       196.966       0
+    1210 AUM  1210 IAUM AU   IAU               0       196.966       0
+    1211 AUM  1211 IAUM AU   IAU               0       196.966       0
+    1212 AUM  1212 IAUM AU   IAU               0       196.966       0
+    1213 AUM  1213 IAUM AU   IAU               0       196.966       0
+    1214 AUM  1214 IAUM AU   IAU               0       196.966       0
+    1215 AUM  1215 IAUM AU   IAU               0       196.966       0
+    1216 AUM  1216 IAUM AU   IAU               0       196.966       0
+    1217 AUM  1217 IAUM AU   IAU               0       196.966       0
+    1218 AUM  1218 IAUM AU   IAU               0       196.966       0
+    1219 AUM  1219 IAUM AU   IAU               0       196.966       0
+    1220 AUM  1220 IAUM AU   IAU               0       196.966       0
+    1221 AUM  1221 IAUM AU   IAU               0       196.966       0
+    1222 AUM  1222 IAUM AU   IAU               0       196.966       0
+    1223 AUM  1223 IAUM AU   IAU               0       196.966       0
+    1224 AUM  1224 IAUM AU   IAU               0       196.966       0
+    1225 AUM  1225 IAUM AU   IAU               0       196.966       0
+    1226 AUM  1226 IAUM AU   IAU               0       196.966       0
+    1227 AUM  1227 IAUM AU   IAU               0       196.966       0
+    1228 AUM  1228 IAUM AU   IAU               0       196.966       0
+    1229 AUM  1229 IAUM AU   IAU               0       196.966       0
+    1230 AUM  1230 IAUM AU   IAU               0       196.966       0
+    1231 AUM  1231 IAUM AU   IAU               0       196.966       0
+    1232 AUM  1232 IAUM AU   IAU               0       196.966       0
+    1233 AUM  1233 IAUM AU   IAU               0       196.966       0
+    1234 AUM  1234 IAUM AU   IAU               0       196.966       0
+    1235 AUM  1235 IAUM AU   IAU               0       196.966       0
+    1236 AUM  1236 IAUM AU   IAU               0       196.966       0
+    1237 AUM  1237 IAUM AU   IAU               0       196.966       0
+    1238 AUM  1238 IAUM AU   IAU               0       196.966       0
+    1239 AUM  1239 IAUM AU   IAU               0       196.966       0
+    1240 AUM  1240 IAUM AU   IAU               0       196.966       0
+    1241 AUM  1241 IAUM AU   IAU               0       196.966       0
+    1242 AUM  1242 IAUM AU   IAU               0       196.966       0
+    1243 AUM  1243 IAUM AU   IAU               0       196.966       0
+    1244 AUM  1244 IAUM AU   IAU               0       196.966       0
+    1245 AUM  1245 IAUM AU   IAU               0       196.966       0
+    1246 AUM  1246 IAUM AU   IAU               0       196.966       0
+    1247 AUM  1247 IAUM AU   IAU               0       196.966       0
+    1248 AUM  1248 IAUM AU   IAU               0       196.966       0
+    1249 AUM  1249 IAUM AU   IAU               0       196.966       0
+    1250 AUM  1250 IAUM AU   IAU               0       196.966       0
+    1251 AUM  1251 IAUM AU   IAU               0       196.966       0
+    1252 AUM  1252 IAUM AU   IAU               0       196.966       0
+    1253 AUM  1253 IAUM AU   IAU               0       196.966       0
+    1254 AUM  1254 IAUM AU   IAU               0       196.966       0
+    1255 AUM  1255 IAUM AU   IAU               0       196.966       0
+    1256 AUM  1256 IAUM AU   IAU               0       196.966       0
+    1257 AUM  1257 IAUM AU   IAU               0       196.966       0
+    1258 AUM  1258 IAUM AU   IAU               0       196.966       0
+    1259 AUM  1259 IAUM AU   IAU               0       196.966       0
+    1260 AUM  1260 IAUM AU   IAU               0       196.966       0
+    1261 AUM  1261 IAUM AU   IAU               0       196.966       0
+    1262 AUM  1262 IAUM AU   IAU               0       196.966       0
+    1263 AUM  1263 IAUM AU   IAU               0       196.966       0
+    1264 AUM  1264 IAUM AU   IAU               0       196.966       0
+    1265 AUM  1265 IAUM AU   IAU               0       196.966       0
+    1266 AUM  1266 IAUM AU   IAU               0       196.966       0
+    1267 AUM  1267 IAUM AU   IAU               0       196.966       0
+    1268 AUM  1268 IAUM AU   IAU               0       196.966       0
+    1269 AUM  1269 IAUM AU   IAU               0       196.966       0
+    1270 AUM  1270 IAUM AU   IAU               0       196.966       0
+    1271 AUM  1271 IAUM AU   IAU               0       196.966       0
+    1272 AUM  1272 IAUM AU   IAU               0       196.966       0
+    1273 AUM  1273 IAUM AU   IAU               0       196.966       0
+    1274 AUM  1274 IAUM AU   IAU               0       196.966       0
+    1275 AUM  1275 IAUM AU   IAU               0       196.966       0
+    1276 AUM  1276 IAUM AU   IAU               0       196.966       0
+    1277 AUM  1277 IAUM AU   IAU               0       196.966       0
+    1278 AUM  1278 IAUM AU   IAU               0       196.966       0
+    1279 AUM  1279 IAUM AU   IAU               0       196.966       0
+    1280 AUM  1280 IAUM AU   IAU               0       196.966       0
+    1281 AUM  1281 IAUM AU   IAU               0       196.966       0
+    1282 AUM  1282 IAUM AU   IAU               0       196.966       0
+    1283 AUM  1283 IAUM AU   IAU               0       196.966       0
+    1284 AUM  1284 IAUM AU   IAU               0       196.966       0
+    1285 AUM  1285 IAUM AU   IAU               0       196.966       0
+    1286 AUM  1286 IAUM AU   IAU               0       196.966       0
+    1287 AUM  1287 IAUM AU   IAU               0       196.966       0
+    1288 AUM  1288 IAUM AU   IAU               0       196.966       0
+    1289 AUM  1289 IAUM AU   IAU               0       196.966       0
+    1290 AUM  1290 IAUM AU   IAU               0       196.966       0
+    1291 AUM  1291 IAUM AU   IAU               0       196.966       0
+    1292 AUM  1292 IAUM AU   IAU               0       196.966       0
+    1293 AUM  1293 IAUM AU   IAU               0       196.966       0
+    1294 AUM  1294 IAUM AU   IAU               0       196.966       0
+    1295 AUM  1295 IAUM AU   IAU               0       196.966       0
+    1296 AUM  1296 IAUM AU   IAU               0       196.966       0
+    1297 AUM  1297 IAUM AU   IAU               0       196.966       0
+    1298 AUM  1298 IAUM AU   IAU               0       196.966       0
+    1299 AUM  1299 IAUM AU   IAU               0       196.966       0
+    1300 AUM  1300 IAUM AU   IAU               0       196.966       0
+    1301 AUM  1301 IAUM AU   IAU               0       196.966       0
+    1302 AUM  1302 IAUM AU   IAU               0       196.966       0
+    1303 AUM  1303 IAUM AU   IAU               0       196.966       0
+    1304 AUM  1304 IAUM AU   IAU               0       196.966       0
+    1305 AUM  1305 IAUM AU   IAU               0       196.966       0
+    1306 AUM  1306 IAUM AU   IAU               0       196.966       0
+    1307 AUM  1307 IAUM AU   IAU               0       196.966       0
+    1308 AUM  1308 IAUM AU   IAU               0       196.966       0
+    1309 AUM  1309 IAUM AU   IAU               0       196.966       0
+    1310 AUM  1310 IAUM AU   IAU               0       196.966       0
+    1311 AUM  1311 IAUM AU   IAU               0       196.966       0
+    1312 AUM  1312 IAUM AU   IAU               0       196.966       0
+    1313 AUM  1313 IAUM AU   IAU               0       196.966       0
+    1314 AUM  1314 IAUM AU   IAU               0       196.966       0
+    1315 AUM  1315 IAUM AU   IAU               0       196.966       0
+    1316 AUM  1316 IAUM AU   IAU               0       196.966       0
+    1317 AUM  1317 IAUM AU   IAU               0       196.966       0
+    1318 AUM  1318 IAUM AU   IAU               0       196.966       0
+    1319 AUM  1319 IAUM AU   IAU               0       196.966       0
+    1320 AUM  1320 IAUM AU   IAU               0       196.966       0
+    1321 AUM  1321 IAUM AU   IAU               0       196.966       0
+    1322 AUM  1322 IAUM AU   IAU               0       196.966       0
+    1323 AUM  1323 IAUM AU   IAU               0       196.966       0
+    1324 AUM  1324 IAUM AU   IAU               0       196.966       0
+    1325 AUM  1325 IAUM AU   IAU               0       196.966       0
+    1326 AUM  1326 IAUM AU   IAU               0       196.966       0
+    1327 AUM  1327 IAUM AU   IAU               0       196.966       0
+    1328 AUM  1328 IAUM AU   IAU               0       196.966       0
+    1329 AUM  1329 IAUM AU   IAU               0       196.966       0
+    1330 AUM  1330 IAUM AU   IAU               0       196.966       0
+    1331 AUM  1331 IAUM AU   IAU               0       196.966       0
+    1332 AUM  1332 IAUM AU   IAU               0       196.966       0
+    1333 AUM  1333 IAUM AU   IAU               0       196.966       0
+    1334 AUM  1334 IAUM AU   IAU               0       196.966       0
+    1335 AUM  1335 IAUM AU   IAU               0       196.966       0
+    1336 AUM  1336 IAUM AU   IAU               0       196.966       0
+    1337 AUM  1337 IAUM AU   IAU               0       196.966       0
+    1338 AUM  1338 IAUM AU   IAU               0       196.966       0
+    1339 AUM  1339 IAUM AU   IAU               0       196.966       0
+    1340 AUM  1340 IAUM AU   IAU               0       196.966       0
+    1341 AUM  1341 IAUM AU   IAU               0       196.966       0
+    1342 AUM  1342 IAUM AU   IAU               0       196.966       0
+    1343 AUM  1343 IAUM AU   IAU               0       196.966       0
+    1344 AUM  1344 IAUM AU   IAU               0       196.966       0
+    1345 AUM  1345 IAUM AU   IAU               0       196.966       0
+    1346 AUM  1346 IAUM AU   IAU               0       196.966       0
+    1347 AUM  1347 IAUM AU   IAU               0       196.966       0
+    1348 AUM  1348 IAUM AU   IAU               0       196.966       0
+    1349 AUM  1349 IAUM AU   IAU               0       196.966       0
+    1350 AUM  1350 IAUM AU   IAU               0       196.966       0
+    1351 AUM  1351 IAUM AU   IAU               0       196.966       0
+    1352 AUM  1352 IAUM AU   IAU               0       196.966       0
+    1353 AUM  1353 IAUM AU   IAU               0       196.966       0
+    1354 AUM  1354 IAUM AU   IAU               0       196.966       0
+    1355 AUM  1355 IAUM AU   IAU               0       196.966       0
+    1356 AUM  1356 IAUM AU   IAU               0       196.966       0
+    1357 AUM  1357 IAUM AU   IAU               0       196.966       0
+    1358 AUM  1358 IAUM AU   IAU               0       196.966       0
+    1359 AUM  1359 IAUM AU   IAU               0       196.966       0
+    1360 AUM  1360 IAUM AU   IAU               0       196.966       0
+    1361 AUM  1361 IAUM AU   IAU               0       196.966       0
+    1362 AUM  1362 IAUM AU   IAU               0       196.966       0
+    1363 AUM  1363 IAUM AU   IAU               0       196.966       0
+    1364 AUM  1364 IAUM AU   IAU               0       196.966       0
+    1365 AUM  1365 IAUM AU   IAU               0       196.966       0
+    1366 AUM  1366 IAUM AU   IAU               0       196.966       0
+    1367 AUM  1367 IAUM AU   IAU               0       196.966       0
+    1368 AUM  1368 IAUM AU   IAU               0       196.966       0
+    1369 AUM  1369 IAUM AU   IAU               0       196.966       0
+    1370 AUM  1370 IAUM AU   IAU               0       196.966       0
+    1371 AUM  1371 IAUM AU   IAU               0       196.966       0
+    1372 AUM  1372 IAUM AU   IAU               0       196.966       0
+    1373 AUM  1373 IAUM AU   IAU               0       196.966       0
+    1374 AUM  1374 IAUM AU   IAU               0       196.966       0
+    1375 AUM  1375 IAUM AU   IAU               0       196.966       0
+    1376 AUM  1376 IAUM AU   IAU               0       196.966       0
+    1377 AUM  1377 IAUM AU   IAU               0       196.966       0
+    1378 AUM  1378 IAUM AU   IAU               0       196.966       0
+    1379 AUM  1379 IAUM AU   IAU               0       196.966       0
+    1380 AUM  1380 IAUM AU   IAU               0       196.966       0
+    1381 AUM  1381 IAUM AU   IAU               0       196.966       0
+    1382 AUM  1382 IAUM AU   IAU               0       196.966       0
+    1383 AUM  1383 IAUM AU   IAU               0       196.966       0
+    1384 AUM  1384 IAUM AU   IAU               0       196.966       0
+    1385 AUM  1385 IAUM AU   IAU               0       196.966       0
+    1386 AUM  1386 IAUM AU   IAU               0       196.966       0
+    1387 AUM  1387 IAUM AU   IAU               0       196.966       0
+    1388 AUM  1388 IAUM AU   IAU               0       196.966       0
+    1389 AUM  1389 IAUM AU   IAU               0       196.966       0
+    1390 AUM  1390 IAUM AU   IAU               0       196.966       0
+    1391 AUM  1391 IAUM AU   IAU               0       196.966       0
+    1392 AUM  1392 IAUM AU   IAU               0       196.966       0
+    1393 AUM  1393 IAUM AU   IAU               0       196.966       0
+    1394 AUM  1394 IAUM AU   IAU               0       196.966       0
+    1395 AUM  1395 IAUM AU   IAU               0       196.966       0
+    1396 AUM  1396 IAUM AU   IAU               0       196.966       0
+    1397 AUM  1397 IAUM AU   IAU               0       196.966       0
+    1398 AUM  1398 IAUM AU   IAU               0       196.966       0
+    1399 AUM  1399 IAUM AU   IAU               0       196.966       0
+    1400 AUM  1400 IAUM AU   IAU               0       196.966       0
+    1401 AUM  1401 IAUM AU   IAU               0       196.966       0
+    1402 AUM  1402 IAUM AU   IAU               0       196.966       0
+    1403 AUM  1403 IAUM AU   IAU               0       196.966       0
+    1404 AUM  1404 IAUM AU   IAU               0       196.966       0
+    1405 AUM  1405 IAUM AU   IAU               0       196.966       0
+    1406 AUM  1406 IAUM AU   IAU               0       196.966       0
+    1407 AUM  1407 IAUM AU   IAU               0       196.966       0
+    1408 AUM  1408 IAUM AU   IAU               0       196.966       0
+    1409 AUM  1409 IAUM AU   IAU               0       196.966       0
+    1410 AUM  1410 IAUM AU   IAU               0       196.966       0
+    1411 AUM  1411 IAUM AU   IAU               0       196.966       0
+    1412 AUM  1412 IAUM AU   IAU               0       196.966       0
+    1413 AUM  1413 IAUM AU   IAU               0       196.966       0
+    1414 AUM  1414 IAUM AU   IAU               0       196.966       0
+    1415 AUM  1415 IAUM AU   IAU               0       196.966       0
+    1416 AUM  1416 IAUM AU   IAU               0       196.966       0
+    1417 AUM  1417 IAUM AU   IAU               0       196.966       0
+    1418 AUM  1418 IAUM AU   IAU               0       196.966       0
+    1419 AUM  1419 IAUM AU   IAU               0       196.966       0
+    1420 AUM  1420 IAUM AU   IAU               0       196.966       0
+    1421 AUM  1421 IAUM AU   IAU               0       196.966       0
+    1422 AUM  1422 IAUM AU   IAU               0       196.966       0
+    1423 AUM  1423 IAUM AU   IAU               0       196.966       0
+    1424 AUM  1424 IAUM AU   IAU               0       196.966       0
+    1425 AUM  1425 IAUM AU   IAU               0       196.966       0
+    1426 AUM  1426 IAUM AU   IAU               0       196.966       0
+    1427 AUM  1427 IAUM AU   IAU               0       196.966       0
+    1428 AUM  1428 IAUM AU   IAU               0       196.966       0
+    1429 AUM  1429 IAUM AU   IAU               0       196.966       0
+    1430 AUM  1430 IAUM AU   IAU               0       196.966       0
+    1431 AUM  1431 IAUM AU   IAU               0       196.966       0
+    1432 AUM  1432 IAUM AU   IAU               0       196.966       0
+    1433 AUM  1433 IAUM AU   IAU               0       196.966       0
+    1434 AUM  1434 IAUM AU   IAU               0       196.966       0
+    1435 AUM  1435 IAUM AU   IAU               0       196.966       0
+    1436 AUM  1436 IAUM AU   IAU               0       196.966       0
+    1437 AUM  1437 IAUM AU   IAU               0       196.966       0
+    1438 AUM  1438 IAUM AU   IAU               0       196.966       0
+    1439 AUM  1439 IAUM AU   IAU               0       196.966       0
+    1440 AUM  1440 IAUM AU   IAU               0       196.966       0
+    1441 AUM  1441 IAUM AU   IAU               0       196.966       0
+    1442 AUM  1442 IAUM AU   IAU               0       196.966       0
+    1443 AUM  1443 IAUM AU   IAU               0       196.966       0
+    1444 AUM  1444 IAUM AU   IAU               0       196.966       0
+    1445 AUM  1445 IAUM AU   IAU               0       196.966       0
+    1446 AUM  1446 IAUM AU   IAU               0       196.966       0
+    1447 AUM  1447 IAUM AU   IAU               0       196.966       0
+    1448 AUM  1448 IAUM AU   IAU               0       196.966       0
+    1449 AUM  1449 IAUM AU   IAU               0       196.966       0
+    1450 AUM  1450 IAUM AU   IAU               0       196.966       0
+    1451 AUM  1451 IAUM AU   IAU               0       196.966       0
+    1452 AUM  1452 IAUM AU   IAU               0       196.966       0
+    1453 AUM  1453 IAUM AU   IAU               0       196.966       0
+    1454 AUM  1454 IAUM AU   IAU               0       196.966       0
+    1455 AUM  1455 IAUM AU   IAU               0       196.966       0
+    1456 AUM  1456 IAUM AU   IAU               0       196.966       0
+    1457 AUM  1457 IAUM AU   IAU               0       196.966       0
+    1458 AUM  1458 IAUM AU   IAU               0       196.966       0
+    1459 AUM  1459 IAUM AU   IAU               0       196.966       0
+    1460 AUM  1460 IAUM AU   IAU               0       196.966       0
+    1461 AUM  1461 IAUM AU   IAU               0       196.966       0
+    1462 AUM  1462 IAUM AU   IAU               0       196.966       0
+    1463 AUM  1463 IAUM AU   IAU               0       196.966       0
+    1464 AUM  1464 IAUM AU   IAU               0       196.966       0
+    1465 AUM  1465 IAUM AU   IAU               0       196.966       0
+    1466 AUM  1466 IAUM AU   IAU               0       196.966       0
+    1467 AUM  1467 IAUM AU   IAU               0       196.966       0
+    1468 AUM  1468 IAUM AU   IAU               0       196.966       0
+    1469 AUM  1469 IAUM AU   IAU               0       196.966       0
+    1470 AUM  1470 IAUM AU   IAU               0       196.966       0
+    1471 AUM  1471 IAUM AU   IAU               0       196.966       0
+    1472 AUM  1472 IAUM AU   IAU               0       196.966       0
+    1473 AUM  1473 IAUM AU   IAU               0       196.966       0
+    1474 AUM  1474 IAUM AU   IAU               0       196.966       0
+    1475 AUM  1475 IAUM AU   IAU               0       196.966       0
+    1476 AUM  1476 IAUM AU   IAU               0       196.966       0
+    1477 AUM  1477 IAUM AU   IAU               0       196.966       0
+    1478 AUM  1478 IAUM AU   IAU               0       196.966       0
+    1479 AUM  1479 IAUM AU   IAU               0       196.966       0
+    1480 AUM  1480 IAUM AU   IAU               0       196.966       0
+    1481 AUM  1481 IAUM AU   IAU               0       196.966       0
+    1482 AUM  1482 IAUM AU   IAU               0       196.966       0
+    1483 AUM  1483 IAUM AU   IAU               0       196.966       0
+    1484 AUM  1484 IAUM AU   IAU               0       196.966       0
+    1485 AUM  1485 IAUM AU   IAU               0       196.966       0
+    1486 AUM  1486 IAUM AU   IAU               0       196.966       0
+    1487 AUM  1487 IAUM AU   IAU               0       196.966       0
+    1488 AUM  1488 IAUM AU   IAU               0       196.966       0
+    1489 AUM  1489 IAUM AU   IAU               0       196.966       0
+    1490 AUM  1490 IAUM AU   IAU               0       196.966       0
+    1491 AUM  1491 IAUM AU   IAU               0       196.966       0
+    1492 AUM  1492 IAUM AU   IAU               0       196.966       0
+    1493 AUM  1493 IAUM AU   IAU               0       196.966       0
+    1494 AUM  1494 IAUM AU   IAU               0       196.966       0
+    1495 AUM  1495 IAUM AU   IAU               0       196.966       0
+    1496 AUM  1496 IAUM AU   IAU               0       196.966       0
+    1497 AUM  1497 IAUM AU   IAU               0       196.966       0
+    1498 AUM  1498 IAUM AU   IAU               0       196.966       0
+    1499 AUM  1499 IAUM AU   IAU               0       196.966       0
+    1500 AUM  1500 IAUM AU   IAU               0       196.966       0
+    1501 AUM  1501 IAUM AU   IAU               0       196.966       0
+    1502 AUM  1502 IAUM AU   IAU               0       196.966       0
+    1503 AUM  1503 IAUM AU   IAU               0       196.966       0
+    1504 AUM  1504 IAUM AU   IAU               0       196.966       0
+    1505 AUM  1505 IAUM AU   IAU               0       196.966       0
+    1506 AUM  1506 IAUM AU   IAU               0       196.966       0
+    1507 AUM  1507 IAUM AU   IAU               0       196.966       0
+    1508 AUM  1508 IAUM AU   IAU               0       196.966       0
+    1509 AUM  1509 IAUM AU   IAU               0       196.966       0
+    1510 AUM  1510 IAUM AU   IAU               0       196.966       0
+    1511 AUM  1511 IAUM AU   IAU               0       196.966       0
+    1512 AUM  1512 IAUM AU   IAU               0       196.966       0
+    1513 AUM  1513 IAUM AU   IAU               0       196.966       0
+    1514 AUM  1514 IAUM AU   IAU               0       196.966       0
+    1515 AUM  1515 IAUM AU   IAU               0       196.966       0
+    1516 AUM  1516 IAUM AU   IAU               0       196.966       0
+    1517 AUM  1517 IAUM AU   IAU               0       196.966       0
+    1518 AUM  1518 IAUM AU   IAU               0       196.966       0
+    1519 AUM  1519 IAUM AU   IAU               0       196.966       0
+    1520 AUM  1520 IAUM AU   IAU               0       196.966       0
+    1521 AUM  1521 IAUM AU   IAU               0       196.966       0
+    1522 AUM  1522 IAUM AU   IAU               0       196.966       0
+    1523 AUM  1523 IAUM AU   IAU               0       196.966       0
+    1524 AUM  1524 IAUM AU   IAU               0       196.966       0
+    1525 AUM  1525 IAUM AU   IAU               0       196.966       0
+    1526 AUM  1526 IAUM AU   IAU               0       196.966       0
+    1527 AUM  1527 IAUM AU   IAU               0       196.966       0
+    1528 AUM  1528 IAUM AU   IAU               0       196.966       0
+    1529 AUM  1529 IAUM AU   IAU               0       196.966       0
+    1530 AUM  1530 IAUM AU   IAU               0       196.966       0
+    1531 AUM  1531 IAUM AU   IAU               0       196.966       0
+    1532 AUM  1532 IAUM AU   IAU               0       196.966       0
+    1533 AUM  1533 IAUM AU   IAU               0       196.966       0
+    1534 AUM  1534 IAUM AU   IAU               0       196.966       0
+    1535 AUM  1535 IAUM AU   IAU               0       196.966       0
+    1536 AUM  1536 IAUM AU   IAU               0       196.966       0
+    1537 AUM  1537 IAUM AU   IAU               0       196.966       0
+    1538 AUM  1538 IAUM AU   IAU               0       196.966       0
+    1539 AUM  1539 IAUM AU   IAU               0       196.966       0
+    1540 AUM  1540 IAUM AU   IAU               0       196.966       0
+    1541 AUM  1541 IAUM AU   IAU               0       196.966       0
+    1542 AUM  1542 IAUM AU   IAU               0       196.966       0
+    1543 AUM  1543 IAUM AU   IAU               0       196.966       0
+    1544 AUM  1544 IAUM AU   IAU               0       196.966       0
+    1545 AUM  1545 IAUM AU   IAU               0       196.966       0
+    1546 AUM  1546 IAUM AU   IAU               0       196.966       0
+    1547 AUM  1547 IAUM AU   IAU               0       196.966       0
+    1548 AUM  1548 IAUM AU   IAU               0       196.966       0
+    1549 AUM  1549 IAUM AU   IAU               0       196.966       0
+    1550 AUM  1550 IAUM AU   IAU               0       196.966       0
+    1551 AUM  1551 IAUM AU   IAU               0       196.966       0
+    1552 AUM  1552 IAUM AU   IAU               0       196.966       0
+    1553 AUM  1553 IAUM AU   IAU               0       196.966       0
+    1554 AUM  1554 IAUM AU   IAU               0       196.966       0
+    1555 AUM  1555 IAUM AU   IAU               0       196.966       0
+    1556 AUM  1556 IAUM AU   IAU               0       196.966       0
+    1557 AUM  1557 IAUM AU   IAU               0       196.966       0
+    1558 AUM  1558 IAUM AU   IAU               0       196.966       0
+    1559 AUM  1559 IAUM AU   IAU               0       196.966       0
+    1560 AUM  1560 IAUM AU   IAU               0       196.966       0
+    1561 AUM  1561 IAUM AU   IAU               0       196.966       0
+    1562 AUM  1562 IAUM AU   IAU               0       196.966       0
+    1563 AUM  1563 IAUM AU   IAU               0       196.966       0
+    1564 AUM  1564 IAUM AU   IAU               0       196.966       0
+    1565 AUM  1565 IAUM AU   IAU               0       196.966       0
+    1566 AUM  1566 IAUM AU   IAU               0       196.966       0
+    1567 AUM  1567 IAUM AU   IAU               0       196.966       0
+    1568 AUM  1568 IAUM AU   IAU               0       196.966       0
+    1569 AUM  1569 IAUM AU   IAU               0       196.966       0
+    1570 AUM  1570 IAUM AU   IAU               0       196.966       0
+    1571 AUM  1571 IAUM AU   IAU               0       196.966       0
+    1572 AUM  1572 IAUM AU   IAU               0       196.966       0
+    1573 AUM  1573 IAUM AU   IAU               0       196.966       0
+    1574 AUM  1574 IAUM AU   IAU               0       196.966       0
+    1575 AUM  1575 IAUM AU   IAU               0       196.966       0
+    1576 AUM  1576 IAUM AU   IAU               0       196.966       0
+    1577 AUM  1577 IAUM AU   IAU               0       196.966       0
+    1578 AUM  1578 IAUM AU   IAU               0       196.966       0
+    1579 AUM  1579 IAUM AU   IAU               0       196.966       0
+    1580 AUM  1580 IAUM AU   IAU               0       196.966       0
+    1581 AUM  1581 IAUM AU   IAU               0       196.966       0
+    1582 AUM  1582 IAUM AU   IAU               0       196.966       0
+    1583 AUM  1583 IAUM AU   IAU               0       196.966       0
+    1584 AUM  1584 IAUM AU   IAU               0       196.966       0
+    1585 AUM  1585 IAUM AU   IAU               0       196.966       0
+    1586 AUM  1586 IAUM AU   IAU               0       196.966       0
+    1587 AUM  1587 IAUM AU   IAU               0       196.966       0
+    1588 AUM  1588 IAUM AU   IAU               0       196.966       0
+    1589 AUM  1589 IAUM AU   IAU               0       196.966       0
+    1590 AUM  1590 IAUM AU   IAU               0       196.966       0
+    1591 AUM  1591 IAUM AU   IAU               0       196.966       0
+    1592 AUM  1592 IAUM AU   IAU               0       196.966       0
+    1593 AUM  1593 IAUM AU   IAU               0       196.966       0
+    1594 AUM  1594 IAUM AU   IAU               0       196.966       0
+    1595 AUM  1595 IAUM AU   IAU               0       196.966       0
+    1596 AUM  1596 IAUM AU   IAU               0       196.966       0
+    1597 AUM  1597 IAUM AU   IAU               0       196.966       0
+    1598 AUM  1598 IAUM AU   IAU               0       196.966       0
+    1599 AUM  1599 IAUM AU   IAU               0       196.966       0
+    1600 AUM  1600 IAUM AU   IAU               0       196.966       0
+    1601 AUM  1601 IAUM AU   IAU               0       196.966       0
+    1602 AUM  1602 IAUM AU   IAU               0       196.966       0
+    1603 AUM  1603 IAUM AU   IAU               0       196.966       0
+    1604 AUM  1604 IAUM AU   IAU               0       196.966       0
+    1605 AUM  1605 IAUM AU   IAU               0       196.966       0
+    1606 AUM  1606 IAUM AU   IAU               0       196.966       0
+    1607 AUM  1607 IAUM AU   IAU               0       196.966       0
+    1608 AUM  1608 IAUM AU   IAU               0       196.966       0
+    1609 AUM  1609 IAUM AU   IAU               0       196.966       0
+    1610 AUM  1610 IAUM AU   IAU               0       196.966       0
+    1611 AUM  1611 IAUM AU   IAU               0       196.966       0
+    1612 AUM  1612 IAUM AU   IAU               0       196.966       0
+    1613 AUM  1613 IAUM AU   IAU               0       196.966       0
+    1614 AUM  1614 IAUM AU   IAU               0       196.966       0
+    1615 AUM  1615 IAUM AU   IAU               0       196.966       0
+    1616 AUM  1616 IAUM AU   IAU               0       196.966       0
+    1617 AUM  1617 IAUM AU   IAU               0       196.966       0
+    1618 AUM  1618 IAUM AU   IAU               0       196.966       0
+    1619 AUM  1619 IAUM AU   IAU               0       196.966       0
+    1620 AUM  1620 IAUM AU   IAU               0       196.966       0
+    1621 AUM  1621 IAUM AU   IAU               0       196.966       0
+    1622 AUM  1622 IAUM AU   IAU               0       196.966       0
+    1623 AUM  1623 IAUM AU   IAU               0       196.966       0
+    1624 AUM  1624 IAUM AU   IAU               0       196.966       0
+    1625 AUM  1625 IAUM AU   IAU               0       196.966       0
+    1626 AUM  1626 IAUM AU   IAU               0       196.966       0
+    1627 AUM  1627 IAUM AU   IAU               0       196.966       0
+    1628 AUM  1628 IAUM AU   IAU               0       196.966       0
+    1629 AUM  1629 IAUM AU   IAU               0       196.966       0
+    1630 AUM  1630 IAUM AU   IAU               0       196.966       0
+    1631 AUM  1631 IAUM AU   IAU               0       196.966       0
+    1632 AUM  1632 IAUM AU   IAU               0       196.966       0
+    1633 AUM  1633 IAUM AU   IAU               0       196.966       0
+    1634 AUM  1634 IAUM AU   IAU               0       196.966       0
+    1635 AUM  1635 IAUM AU   IAU               0       196.966       0
+    1636 AUM  1636 IAUM AU   IAU               0       196.966       0
+    1637 AUM  1637 IAUM AU   IAU               0       196.966       0
+    1638 AUM  1638 IAUM AU   IAU               0       196.966       0
+    1639 AUM  1639 IAUM AU   IAU               0       196.966       0
+    1640 AUM  1640 IAUM AU   IAU               0       196.966       0
+    1641 AUM  1641 IAUM AU   IAU               0       196.966       0
+    1642 AUM  1642 IAUM AU   IAU               0       196.966       0
+    1643 AUM  1643 IAUM AU   IAU               0       196.966       0
+    1644 AUM  1644 IAUM AU   IAU               0       196.966       0
+    1645 AUM  1645 IAUM AU   IAU               0       196.966       0
+    1646 AUM  1646 IAUM AU   IAU               0       196.966       0
+    1647 AUM  1647 IAUM AU   IAU               0       196.966       0
+    1648 AUM  1648 IAUM AU   IAU               0       196.966       0
+    1649 AUM  1649 IAUM AU   IAU               0       196.966       0
+    1650 AUM  1650 IAUM AU   IAU               0       196.966       0
+    1651 AUM  1651 IAUM AU   IAU               0       196.966       0
+    1652 AUM  1652 IAUM AU   IAU               0       196.966       0
+    1653 AUM  1653 IAUM AU   IAU               0       196.966       0
+    1654 AUM  1654 IAUM AU   IAU               0       196.966       0
+    1655 AUM  1655 IAUM AU   IAU               0       196.966       0
+    1656 AUM  1656 IAUM AU   IAU               0       196.966       0
+    1657 AUM  1657 IAUM AU   IAU               0       196.966       0
+    1658 AUM  1658 IAUM AU   IAU               0       196.966       0
+    1659 AUM  1659 IAUM AU   IAU               0       196.966       0
+    1660 AUM  1660 IAUM AU   IAU               0       196.966       0
+    1661 AUM  1661 IAUM AU   IAU               0       196.966       0
+    1662 AUM  1662 IAUM AU   IAU               0       196.966       0
+    1663 AUM  1663 IAUM AU   IAU               0       196.966       0
+    1664 AUM  1664 IAUM AU   IAU               0       196.966       0
+    1665 AUM  1665 IAUM AU   IAU               0       196.966       0
+    1666 AUM  1666 IAUM AU   IAU               0       196.966       0
+    1667 AUM  1667 IAUM AU   IAU               0       196.966       0
+    1668 AUM  1668 IAUM AU   IAU               0       196.966       0
+    1669 AUM  1669 IAUM AU   IAU               0       196.966       0
+    1670 AUM  1670 IAUM AU   IAU               0       196.966       0
+    1671 AUM  1671 IAUM AU   IAU               0       196.966       0
+    1672 AUM  1672 IAUM AU   IAU               0       196.966       0
+    1673 AUM  1673 IAUM AU   IAU               0       196.966       0
+    1674 AUM  1674 IAUM AU   IAU               0       196.966       0
+    1675 AUM  1675 IAUM AU   IAU               0       196.966       0
+    1676 AUM  1676 IAUM AU   IAU               0       196.966       0
+    1677 AUM  1677 IAUM AU   IAU               0       196.966       0
+    1678 AUM  1678 IAUM AU   IAU               0       196.966       0
+    1679 AUM  1679 IAUM AU   IAU               0       196.966       0
+    1680 AUM  1680 IAUM AU   IAU               0       196.966       0
+    1681 AUM  1681 IAUM AU   IAU               0       196.966       0
+    1682 AUM  1682 IAUM AU   IAU               0       196.966       0
+    1683 AUM  1683 IAUM AU   IAU               0       196.966       0
+    1684 AUM  1684 IAUM AU   IAU               0       196.966       0
+    1685 AUM  1685 IAUM AU   IAU               0       196.966       0
+    1686 AUM  1686 IAUM AU   IAU               0       196.966       0
+    1687 AUM  1687 IAUM AU   IAU               0       196.966       0
+    1688 AUM  1688 IAUM AU   IAU               0       196.966       0
+    1689 AUM  1689 IAUM AU   IAU               0       196.966       0
+    1690 AUM  1690 IAUM AU   IAU               0       196.966       0
+    1691 AUM  1691 IAUM AU   IAU               0       196.966       0
+    1692 AUM  1692 IAUM AU   IAU               0       196.966       0
+    1693 AUM  1693 IAUM AU   IAU               0       196.966       0
+    1694 AUM  1694 IAUM AU   IAU               0       196.966       0
+    1695 AUM  1695 IAUM AU   IAU               0       196.966       0
+    1696 AUM  1696 IAUM AU   IAU               0       196.966       0
+    1697 AUM  1697 IAUM AU   IAU               0       196.966       0
+    1698 AUM  1698 IAUM AU   IAU               0       196.966       0
+    1699 AUM  1699 IAUM AU   IAU               0       196.966       0
+    1700 AUM  1700 IAUM AU   IAU               0       196.966       0
+    1701 AUM  1701 IAUM AU   IAU               0       196.966       0
+    1702 AUM  1702 IAUM AU   IAU               0       196.966       0
+    1703 AUM  1703 IAUM AU   IAU               0       196.966       0
+    1704 AUM  1704 IAUM AU   IAU               0       196.966       0
+    1705 AUM  1705 IAUM AU   IAU               0       196.966       0
+    1706 AUM  1706 IAUM AU   IAU               0       196.966       0
+    1707 AUM  1707 IAUM AU   IAU               0       196.966       0
+    1708 AUM  1708 IAUM AU   IAU               0       196.966       0
+    1709 AUM  1709 IAUM AU   IAU               0       196.966       0
+    1710 AUM  1710 IAUM AU   IAU               0       196.966       0
+    1711 AUM  1711 IAUM AU   IAU               0       196.966       0
+    1712 AUM  1712 IAUM AU   IAU               0       196.966       0
+    1713 AUM  1713 IAUM AU   IAU               0       196.966       0
+    1714 AUM  1714 IAUM AU   IAU               0       196.966       0
+    1715 AUM  1715 IAUM AU   IAU               0       196.966       0
+    1716 AUM  1716 IAUM AU   IAU               0       196.966       0
+    1717 AUM  1717 IAUM AU   IAU               0       196.966       0
+    1718 AUM  1718 IAUM AU   IAU               0       196.966       0
+    1719 AUM  1719 IAUM AU   IAU               0       196.966       0
+    1720 AUM  1720 IAUM AU   IAU               0       196.966       0
+    1721 AUM  1721 IAUM AU   IAU               0       196.966       0
+    1722 AUM  1722 IAUM AU   IAU               0       196.966       0
+    1723 AUM  1723 IAUM AU   IAU               0       196.966       0
+    1724 AUM  1724 IAUM AU   IAU               0       196.966       0
+    1725 AUM  1725 IAUM AU   IAU               0       196.966       0
+    1726 AUM  1726 IAUM AU   IAU               0       196.966       0
+    1727 AUM  1727 IAUM AU   IAU               0       196.966       0
+    1728 AUM  1728 IAUM AU   IAU               0       196.966       0
+    1729 AUM  1729 IAUM AU   IAU               0       196.966       0
+    1730 AUM  1730 IAUM AU   IAU               0       196.966       0
+    1731 AUM  1731 IAUM AU   IAU               0       196.966       0
+    1732 AUM  1732 IAUM AU   IAU               0       196.966       0
+    1733 AUM  1733 IAUM AU   IAU               0       196.966       0
+    1734 AUM  1734 IAUM AU   IAU               0       196.966       0
+    1735 AUM  1735 IAUM AU   IAU               0       196.966       0
+    1736 AUM  1736 IAUM AU   IAU               0       196.966       0
+    1737 AUM  1737 IAUM AU   IAU               0       196.966       0
+    1738 AUM  1738 IAUM AU   IAU               0       196.966       0
+    1739 AUM  1739 IAUM AU   IAU               0       196.966       0
+    1740 AUM  1740 IAUM AU   IAU               0       196.966       0
+    1741 AUM  1741 IAUM AU   IAU               0       196.966       0
+    1742 AUM  1742 IAUM AU   IAU               0       196.966       0
+    1743 AUM  1743 IAUM AU   IAU               0       196.966       0
+    1744 AUM  1744 IAUM AU   IAU               0       196.966       0
+    1745 AUM  1745 IAUM AU   IAU               0       196.966       0
+    1746 AUM  1746 IAUM AU   IAU               0       196.966       0
+    1747 AUM  1747 IAUM AU   IAU               0       196.966       0
+    1748 AUM  1748 IAUM AU   IAU               0       196.966       0
+    1749 AUM  1749 IAUM AU   IAU               0       196.966       0
+    1750 AUM  1750 IAUM AU   IAU               0       196.966       0
+    1751 AUM  1751 IAUM AU   IAU               0       196.966       0
+    1752 AUM  1752 IAUM AU   IAU               0       196.966       0
+    1753 AUM  1753 IAUM AU   IAU               0       196.966       0
+    1754 AUM  1754 IAUM AU   IAU               0       196.966       0
+    1755 AUM  1755 IAUM AU   IAU               0       196.966       0
+    1756 AUM  1756 IAUM AU   IAU               0       196.966       0
+    1757 AUM  1757 IAUM AU   IAU               0       196.966       0
+    1758 AUM  1758 IAUM AU   IAU               0       196.966       0
+    1759 AUM  1759 IAUM AU   IAU               0       196.966       0
+    1760 AUM  1760 IAUM AU   IAU               0       196.966       0
+    1761 AUM  1761 IAUM AU   IAU               0       196.966       0
+    1762 AUM  1762 IAUM AU   IAU               0       196.966       0
+    1763 AUM  1763 IAUM AU   IAU               0       196.966       0
+    1764 AUM  1764 IAUM AU   IAU               0       196.966       0
+    1765 AUM  1765 IAUM AU   IAU               0       196.966       0
+    1766 AUM  1766 IAUM AU   IAU               0       196.966       0
+    1767 AUM  1767 IAUM AU   IAU               0       196.966       0
+    1768 AUM  1768 IAUM AU   IAU               0       196.966       0
+    1769 AUM  1769 IAUM AU   IAU               0       196.966       0
+    1770 AUM  1770 IAUM AU   IAU               0       196.966       0
+    1771 AUM  1771 IAUM AU   IAU               0       196.966       0
+    1772 AUM  1772 IAUM AU   IAU               0       196.966       0
+    1773 AUM  1773 IAUM AU   IAU               0       196.966       0
+    1774 AUM  1774 IAUM AU   IAU               0       196.966       0
+    1775 AUM  1775 IAUM AU   IAU               0       196.966       0
+    1776 AUM  1776 IAUM AU   IAU               0       196.966       0
+    1777 AUM  1777 IAUM AU   IAU               0       196.966       0
+    1778 AUM  1778 IAUM AU   IAU               0       196.966       0
+    1779 AUM  1779 IAUM AU   IAU               0       196.966       0
+    1780 AUM  1780 IAUM AU   IAU               0       196.966       0
+    1781 AUM  1781 IAUM AU   IAU               0       196.966       0
+    1782 AUM  1782 IAUM AU   IAU               0       196.966       0
+    1783 AUM  1783 IAUM AU   IAU               0       196.966       0
+    1784 AUM  1784 IAUM AU   IAU               0       196.966       0
+    1785 AUM  1785 IAUM AU   IAU               0       196.966       0
+    1786 AUM  1786 IAUM AU   IAU               0       196.966       0
+    1787 AUM  1787 IAUM AU   IAU               0       196.966       0
+    1788 AUM  1788 IAUM AU   IAU               0       196.966       0
+    1789 AUM  1789 IAUM AU   IAU               0       196.966       0
+    1790 AUM  1790 IAUM AU   IAU               0       196.966       0
+    1791 AUM  1791 IAUM AU   IAU               0       196.966       0
+    1792 AUM  1792 IAUM AU   IAU               0       196.966       0
+    1793 AUM  1793 IAUM AU   IAU               0       196.966       0
+    1794 AUM  1794 IAUM AU   IAU               0       196.966       0
+    1795 AUM  1795 IAUM AU   IAU               0       196.966       0
+    1796 AUM  1796 IAUM AU   IAU               0       196.966       0
+    1797 AUM  1797 IAUM AU   IAU               0       196.966       0
+    1798 AUM  1798 IAUM AU   IAU               0       196.966       0
+    1799 AUM  1799 IAUM AU   IAU               0       196.966       0
+    1800 AUM  1800 IAUM AU   IAU               0       196.966       0
+    1801 AUM  1801 IAUM AU   IAU               0       196.966       0
+    1802 AUM  1802 IAUM AU   IAU               0       196.966       0
+    1803 AUM  1803 IAUM AU   IAU               0       196.966       0
+    1804 AUM  1804 IAUM AU   IAU               0       196.966       0
+    1805 AUM  1805 IAUM AU   IAU               0       196.966       0
+    1806 AUM  1806 IAUM AU   IAU               0       196.966       0
+    1807 AUM  1807 IAUM AU   IAU               0       196.966       0
+    1808 AUM  1808 IAUM AU   IAU               0       196.966       0
+    1809 AUM  1809 IAUM AU   IAU               0       196.966       0
+    1810 AUM  1810 IAUM AU   IAU               0       196.966       0
+    1811 AUM  1811 IAUM AU   IAU               0       196.966       0
+    1812 AUM  1812 IAUM AU   IAU               0       196.966       0
+    1813 AUM  1813 IAUM AU   IAU               0       196.966       0
+    1814 AUM  1814 IAUM AU   IAU               0       196.966       0
+    1815 AUM  1815 IAUM AU   IAU               0       196.966       0
+    1816 AUM  1816 IAUM AU   IAU               0       196.966       0
+    1817 AUM  1817 IAUM AU   IAU               0       196.966       0
+    1818 AUM  1818 IAUM AU   IAU               0       196.966       0
+    1819 AUM  1819 IAUM AU   IAU               0       196.966       0
+    1820 AUM  1820 IAUM AU   IAU               0       196.966       0
+    1821 AUM  1821 IAUM AU   IAU               0       196.966       0
+    1822 AUM  1822 IAUM AU   IAU               0       196.966       0
+    1823 AUM  1823 IAUM AU   IAU               0       196.966       0
+    1824 AUM  1824 IAUM AU   IAU               0       196.966       0
+    1825 AUM  1825 IAUM AU   IAU               0       196.966       0
+    1826 AUM  1826 IAUM AU   IAU               0       196.966       0
+    1827 AUM  1827 IAUM AU   IAU               0       196.966       0
+    1828 AUM  1828 IAUM AU   IAU               0       196.966       0
+    1829 AUM  1829 IAUM AU   IAU               0       196.966       0
+    1830 AUM  1830 IAUM AU   IAU               0       196.966       0
+    1831 AUM  1831 IAUM AU   IAU               0       196.966       0
+    1832 AUM  1832 IAUM AU   IAU               0       196.966       0
+    1833 AUM  1833 IAUM AU   IAU               0       196.966       0
+    1834 AUM  1834 IAUM AU   IAU               0       196.966       0
+    1835 AUM  1835 IAUM AU   IAU               0       196.966       0
+    1836 AUM  1836 IAUM AU   IAU               0       196.966       0
+    1837 AUM  1837 IAUM AU   IAU               0       196.966       0
+    1838 AUM  1838 IAUM AU   IAU               0       196.966       0
+    1839 AUM  1839 IAUM AU   IAU               0       196.966       0
+    1840 AUM  1840 IAUM AU   IAU               0       196.966       0
+    1841 AUM  1841 IAUM AU   IAU               0       196.966       0
+    1842 AUM  1842 IAUM AU   IAU               0       196.966       0
+    1843 AUM  1843 IAUM AU   IAU               0       196.966       0
+    1844 AUM  1844 IAUM AU   IAU               0       196.966       0
+    1845 AUM  1845 IAUM AU   IAU               0       196.966       0
+    1846 AUM  1846 IAUM AU   IAU               0       196.966       0
+    1847 AUM  1847 IAUM AU   IAU               0       196.966       0
+    1848 AUM  1848 IAUM AU   IAU               0       196.966       0
+    1849 AUM  1849 IAUM AU   IAU               0       196.966       0
+    1850 AUM  1850 IAUM AU   IAU               0       196.966       0
+    1851 AUM  1851 IAUM AU   IAU               0       196.966       0
+    1852 AUM  1852 IAUM AU   IAU               0       196.966       0
+    1853 AUM  1853 IAUM AU   IAU               0       196.966       0
+    1854 AUM  1854 IAUM AU   IAU               0       196.966       0
+    1855 AUM  1855 IAUM AU   IAU               0       196.966       0
+    1856 AUM  1856 IAUM AU   IAU               0       196.966       0
+    1857 AUM  1857 IAUM AU   IAU               0       196.966       0
+    1858 AUM  1858 IAUM AU   IAU               0       196.966       0
+    1859 AUM  1859 IAUM AU   IAU               0       196.966       0
+    1860 AUM  1860 IAUM AU   IAU               0       196.966       0
+    1861 AUM  1861 IAUM AU   IAU               0       196.966       0
+    1862 AUM  1862 IAUM AU   IAU               0       196.966       0
+    1863 AUM  1863 IAUM AU   IAU               0       196.966       0
+    1864 AUM  1864 IAUM AU   IAU               0       196.966       0
+    1865 AUM  1865 IAUM AU   IAU               0       196.966       0
+    1866 AUM  1866 IAUM AU   IAU               0       196.966       0
+    1867 AUM  1867 IAUM AU   IAU               0       196.966       0
+    1868 AUM  1868 IAUM AU   IAU               0       196.966       0
+    1869 AUM  1869 IAUM AU   IAU               0       196.966       0
+    1870 AUM  1870 IAUM AU   IAU               0       196.966       0
+    1871 AUM  1871 IAUM AU   IAU               0       196.966       0
+    1872 AUM  1872 IAUM AU   IAU               0       196.966       0
+    1873 AUM  1873 IAUM AU   IAU               0       196.966       0
+    1874 AUM  1874 IAUM AU   IAU               0       196.966       0
+    1875 AUM  1875 IAUM AU   IAU               0       196.966       0
+    1876 AUM  1876 IAUM AU   IAU               0       196.966       0
+    1877 AUM  1877 IAUM AU   IAU               0       196.966       0
+    1878 AUM  1878 IAUM AU   IAU               0       196.966       0
+    1879 AUM  1879 IAUM AU   IAU               0       196.966       0
+    1880 AUM  1880 IAUM AU   IAU               0       196.966       0
+    1881 AUM  1881 IAUM AU   IAU               0       196.966       0
+    1882 AUM  1882 IAUM AU   IAU               0       196.966       0
+    1883 AUM  1883 IAUM AU   IAU               0       196.966       0
+    1884 AUM  1884 IAUM AU   IAU               0       196.966       0
+    1885 AUM  1885 IAUM AU   IAU               0       196.966       0
+    1886 AUM  1886 IAUM AU   IAU               0       196.966       0
+    1887 AUM  1887 IAUM AU   IAU               0       196.966       0
+    1888 AUM  1888 IAUM AU   IAU               0       196.966       0
+    1889 AUM  1889 IAUM AU   IAU               0       196.966       0
+    1890 AUM  1890 IAUM AU   IAU               0       196.966       0
+    1891 AUM  1891 IAUM AU   IAU               0       196.966       0
+    1892 AUM  1892 IAUM AU   IAU               0       196.966       0
+    1893 AUM  1893 IAUM AU   IAU               0       196.966       0
+    1894 AUM  1894 IAUM AU   IAU               0       196.966       0
+    1895 AUM  1895 IAUM AU   IAU               0       196.966       0
+    1896 AUM  1896 IAUM AU   IAU               0       196.966       0
+    1897 AUM  1897 IAUM AU   IAU               0       196.966       0
+    1898 AUM  1898 IAUM AU   IAU               0       196.966       0
+    1899 AUM  1899 IAUM AU   IAU               0       196.966       0
+    1900 AUM  1900 IAUM AU   IAU               0       196.966       0
+    1901 AUM  1901 IAUM AU   IAU               0       196.966       0
+    1902 AUM  1902 IAUM AU   IAU               0       196.966       0
+    1903 AUM  1903 IAUM AU   IAU               0       196.966       0
+    1904 AUM  1904 IAUM AU   IAU               0       196.966       0
+    1905 AUM  1905 IAUM AU   IAU               0       196.966       0
+    1906 AUM  1906 IAUM AU   IAU               0       196.966       0
+    1907 AUM  1907 IAUM AU   IAU               0       196.966       0
+    1908 AUM  1908 IAUM AU   IAU               0       196.966       0
+    1909 AUM  1909 IAUM AU   IAU               0       196.966       0
+    1910 AUM  1910 IAUM AU   IAU               0       196.966       0
+    1911 AUM  1911 IAUM AU   IAU               0       196.966       0
+    1912 AUM  1912 IAUM AU   IAU               0       196.966       0
+    1913 AUM  1913 IAUM AU   IAU               0       196.966       0
+    1914 AUM  1914 IAUM AU   IAU               0       196.966       0
+    1915 AUM  1915 IAUM AU   IAU               0       196.966       0
+    1916 AUM  1916 IAUM AU   IAU               0       196.966       0
+    1917 AUM  1917 IAUM AU   IAU               0       196.966       0
+    1918 AUM  1918 IAUM AU   IAU               0       196.966       0
+    1919 AUM  1919 IAUM AU   IAU               0       196.966       0
+    1920 AUM  1920 IAUM AU   IAU               0       196.966       0
+    1921 AUM  1921 IAUM AU   IAU               0       196.966       0
+    1922 AUM  1922 IAUM AU   IAU               0       196.966       0
+    1923 AUM  1923 IAUM AU   IAU               0       196.966       0
+    1924 AUM  1924 IAUM AU   IAU               0       196.966       0
+    1925 AUM  1925 IAUM AU   IAU               0       196.966       0
+    1926 AUM  1926 IAUM AU   IAU               0       196.966       0
+    1927 AUM  1927 IAUM AU   IAU               0       196.966       0
+    1928 AUM  1928 IAUM AU   IAU               0       196.966       0
+    1929 AUM  1929 IAUM AU   IAU               0       196.966       0
+    1930 AUM  1930 IAUM AU   IAU               0       196.966       0
+    1931 AUM  1931 IAUM AU   IAU               0       196.966       0
+    1932 AUM  1932 IAUM AU   IAU               0       196.966       0
+    1933 AUM  1933 IAUM AU   IAU               0       196.966       0
+    1934 AUM  1934 IAUM AU   IAU               0       196.966       0
+    1935 AUM  1935 IAUM AU   IAU               0       196.966       0
+    1936 AUM  1936 IAUM AU   IAU               0       196.966       0
+    1937 AUM  1937 IAUM AU   IAU               0       196.966       0
+    1938 AUM  1938 IAUM AU   IAU               0       196.966       0
+    1939 AUM  1939 IAUM AU   IAU               0       196.966       0
+    1940 AUM  1940 IAUM AU   IAU               0       196.966       0
+    1941 AUM  1941 IAUM AU   IAU               0       196.966       0
+    1942 AUM  1942 IAUM AU   IAU               0       196.966       0
+    1943 AUM  1943 IAUM AU   IAU               0       196.966       0
+    1944 AUM  1944 IAUM AU   IAU               0       196.966       0
+    1945 AUM  1945 IAUM AU   IAU               0       196.966       0
+    1946 AUM  1946 IAUM AU   IAU               0       196.966       0
+    1947 AUM  1947 IAUM AU   IAU               0       196.966       0
+    1948 AUM  1948 IAUM AU   IAU               0       196.966       0
+    1949 AUM  1949 IAUM AU   IAU               0       196.966       0
+    1950 AUM  1950 IAUM AU   IAU               0       196.966       0
+    1951 AUM  1951 IAUM AU   IAU               0       196.966       0
+    1952 AUM  1952 IAUM AU   IAU               0       196.966       0
+    1953 AUM  1953 IAUM AU   IAU               0       196.966       0
+    1954 AUM  1954 IAUM AU   IAU               0       196.966       0
+    1955 AUM  1955 IAUM AU   IAU               0       196.966       0
+    1956 AUM  1956 IAUM AU   IAU               0       196.966       0
+    1957 AUM  1957 IAUM AU   IAU               0       196.966       0
+    1958 AUM  1958 IAUM AU   IAU               0       196.966       0
+    1959 AUM  1959 IAUM AU   IAU               0       196.966       0
+    1960 AUM  1960 IAUM AU   IAU               0       196.966       0
+    1961 AUM  1961 IAUM AU   IAU               0       196.966       0
+    1962 AUM  1962 IAUM AU   IAU               0       196.966       0
+    1963 AUM  1963 IAUM AU   IAU               0       196.966       0
+    1964 AUM  1964 IAUM AU   IAU               0       196.966       0
+    1965 AUM  1965 IAUM AU   IAU               0       196.966       0
+    1966 AUM  1966 IAUM AU   IAU               0       196.966       0
+    1967 AUM  1967 IAUM AU   IAU               0       196.966       0
+    1968 AUM  1968 IAUM AU   IAU               0       196.966       0
+    1969 AUM  1969 IAUM AU   IAU               0       196.966       0
+    1970 AUM  1970 IAUM AU   IAU               0       196.966       0
+    1971 AUM  1971 IAUM AU   IAU               0       196.966       0
+    1972 AUM  1972 IAUM AU   IAU               0       196.966       0
+    1973 AUM  1973 IAUM AU   IAU               0       196.966       0
+    1974 AUM  1974 IAUM AU   IAU               0       196.966       0
+    1975 AUM  1975 IAUM AU   IAU               0       196.966       0
+    1976 AUM  1976 IAUM AU   IAU               0       196.966       0
+    1977 AUM  1977 IAUM AU   IAU               0       196.966       0
+    1978 AUM  1978 IAUM AU   IAU               0       196.966       0
+    1979 AUM  1979 IAUM AU   IAU               0       196.966       0
+    1980 AUM  1980 IAUM AU   IAU               0       196.966       0
+    1981 AUM  1981 IAUM AU   IAU               0       196.966       0
+    1982 AUM  1982 IAUM AU   IAU               0       196.966       0
+    1983 AUM  1983 IAUM AU   IAU               0       196.966       0
+    1984 AUM  1984 IAUM AU   IAU               0       196.966       0
+    1985 AUM  1985 IAUM AU   IAU               0       196.966       0
+    1986 AUM  1986 IAUM AU   IAU               0       196.966       0
+    1987 AUM  1987 IAUM AU   IAU               0       196.966       0
+    1988 AUM  1988 IAUM AU   IAU               0       196.966       0
+    1989 AUM  1989 IAUM AU   IAU               0       196.966       0
+    1990 AUM  1990 IAUM AU   IAU               0       196.966       0
+    1991 AUM  1991 IAUM AU   IAU               0       196.966       0
+    1992 AUM  1992 IAUM AU   IAU               0       196.966       0
+    1993 AUM  1993 IAUM AU   IAU               0       196.966       0
+    1994 AUM  1994 IAUM AU   IAU               0       196.966       0
+    1995 AUM  1995 IAUM AU   IAU               0       196.966       0
+    1996 AUM  1996 IAUM AU   IAU               0       196.966       0
+    1997 AUM  1997 IAUM AU   IAU               0       196.966       0
+    1998 AUM  1998 IAUM AU   IAU               0       196.966       0
+    1999 AUM  1999 IAUM AU   IAU               0       196.966       0
+    2000 AUM  2000 IAUM AU   IAU               0       196.966       0
+    2001 AUM  2001 IAUM AU   IAU               0       196.966       0
+    2002 AUM  2002 IAUM AU   IAU               0       196.966       0
+    2003 AUM  2003 IAUM AU   IAU               0       196.966       0
+    2004 AUM  2004 IAUM AU   IAU               0       196.966       0
+    2005 AUM  2005 IAUM AU   IAU               0       196.966       0
+    2006 AUM  2006 IAUM AU   IAU               0       196.966       0
+    2007 AUM  2007 IAUM AU   IAU               0       196.966       0
+    2008 AUM  2008 IAUM AU   IAU               0       196.966       0
+    2009 AUM  2009 IAUM AU   IAU               0       196.966       0
+    2010 AUM  2010 IAUM AU   IAU               0       196.966       0
+    2011 AUM  2011 IAUM AU   IAU               0       196.966       0
+    2012 AUM  2012 IAUM AU   IAU               0       196.966       0
+    2013 AUM  2013 IAUM AU   IAU               0       196.966       0
+    2014 AUM  2014 IAUM AU   IAU               0       196.966       0
+    2015 AUM  2015 IAUM AU   IAU               0       196.966       0
+    2016 AUM  2016 IAUM AU   IAU               0       196.966       0
+    2017 AUM  2017 IAUM AU   IAU               0       196.966       0
+    2018 AUM  2018 IAUM AU   IAU               0       196.966       0
+    2019 AUM  2019 IAUM AU   IAU               0       196.966       0
+    2020 AUM  2020 IAUM AU   IAU               0       196.966       0
+    2021 AUM  2021 IAUM AU   IAU               0       196.966       0
+    2022 AUM  2022 IAUM AU   IAU               0       196.966       0
+    2023 AUM  2023 IAUM AU   IAU               0       196.966       0
+    2024 AUM  2024 IAUM AU   IAU               0       196.966       0
+    2025 AUM  2025 IAUM AU   IAU               0       196.966       0
+    2026 AUM  2026 IAUM AU   IAU               0       196.966       0
+    2027 AUM  2027 IAUM AU   IAU               0       196.966       0
+    2028 AUM  2028 IAUM AU   IAU               0       196.966       0
+    2029 AUM  2029 IAUM AU   IAU               0       196.966       0
+    2030 AUM  2030 IAUM AU   IAU               0       196.966       0
+    2031 AUM  2031 IAUM AU   IAU               0       196.966       0
+    2032 AUM  2032 IAUM AU   IAU               0       196.966       0
+    2033 AUM  2033 IAUM AU   IAU               0       196.966       0
+    2034 AUM  2034 IAUM AU   IAU               0       196.966       0
+    2035 AUM  2035 IAUM AU   IAU               0       196.966       0
+    2036 AUM  2036 IAUM AU   IAU               0       196.966       0
+    2037 AUM  2037 IAUM AU   IAU               0       196.966       0
+    2038 AUM  2038 IAUM AU   IAU               0       196.966       0
+    2039 AUM  2039 IAUM AU   IAU               0       196.966       0
+    2040 AUM  2040 IAUM AU   IAU               0       196.966       0
+    2041 AUM  2041 IAUM AU   IAU               0       196.966       0
+    2042 AUM  2042 IAUM AU   IAU               0       196.966       0
+    2043 AUM  2043 IAUM AU   IAU               0       196.966       0
+    2044 AUM  2044 IAUM AU   IAU               0       196.966       0
+    2045 AUM  2045 IAUM AU   IAU               0       196.966       0
+    2046 AUM  2046 IAUM AU   IAU               0       196.966       0
+    2047 AUM  2047 IAUM AU   IAU               0       196.966       0
+    2048 AUM  2048 IAUM AU   IAU               0       196.966       0
+    2049 AUM  2049 IAUM AU   IAU               0       196.966       0
+    2050 AUM  2050 IAUM AU   IAU               0       196.966       0
+    2051 AUM  2051 IAUM AU   IAU               0       196.966       0
+    2052 AUM  2052 IAUM AU   IAU               0       196.966       0
+    2053 AUM  2053 IAUM AU   IAU               0       196.966       0
+    2054 AUM  2054 IAUM AU   IAU               0       196.966       0
+    2055 AUM  2055 IAUM AU   IAU               0       196.966       0
+    2056 AUM  2056 IAUM AU   IAU               0       196.966       0
+    2057 AUM  2057 IAUM AU   IAU               0       196.966       0
+    2058 AUM  2058 IAUM AU   IAU               0       196.966       0
+    2059 AUM  2059 IAUM AU   IAU               0       196.966       0
+    2060 AUM  2060 IAUM AU   IAU               0       196.966       0
+    2061 AUM  2061 IAUM AU   IAU               0       196.966       0
+    2062 AUM  2062 IAUM AU   IAU               0       196.966       0
+    2063 AUM  2063 IAUM AU   IAU               0       196.966       0
+    2064 AUM  2064 IAUM AU   IAU               0       196.966       0
+    2065 AUM  2065 IAUM AU   IAU               0       196.966       0
+    2066 AUM  2066 IAUM AU   IAU               0       196.966       0
+    2067 AUM  2067 IAUM AU   IAU               0       196.966       0
+    2068 AUM  2068 IAUM AU   IAU               0       196.966       0
+    2069 AUM  2069 IAUM AU   IAU               0       196.966       0
+    2070 AUM  2070 IAUM AU   IAU               0       196.966       0
+    2071 AUM  2071 IAUM AU   IAU               0       196.966       0
+    2072 AUM  2072 IAUM AU   IAU               0       196.966       0
+    2073 AUM  2073 IAUM AU   IAU               0       196.966       0
+    2074 AUM  2074 IAUM AU   IAU               0       196.966       0
+    2075 AUM  2075 IAUM AU   IAU               0       196.966       0
+    2076 AUM  2076 IAUM AU   IAU               0       196.966       0
+    2077 AUM  2077 IAUM AU   IAU               0       196.966       0
+    2078 AUM  2078 IAUM AU   IAU               0       196.966       0
+    2079 AUM  2079 IAUM AU   IAU               0       196.966       0
+    2080 AUM  2080 IAUM AU   IAU               0       196.966       0
+    2081 AUM  2081 IAUM AU   IAU               0       196.966       0
+    2082 AUM  2082 IAUM AU   IAU               0       196.966       0
+    2083 AUM  2083 IAUM AU   IAU               0       196.966       0
+    2084 AUM  2084 IAUM AU   IAU               0       196.966       0
+    2085 AUM  2085 IAUM AU   IAU               0       196.966       0
+    2086 AUM  2086 IAUM AU   IAU               0       196.966       0
+    2087 AUM  2087 IAUM AU   IAU               0       196.966       0
+    2088 AUM  2088 IAUM AU   IAU               0       196.966       0
+    2089 AUM  2089 IAUM AU   IAU               0       196.966       0
+    2090 AUM  2090 IAUM AU   IAU               0       196.966       0
+    2091 AUM  2091 IAUM AU   IAU               0       196.966       0
+    2092 AUM  2092 IAUM AU   IAU               0       196.966       0
+    2093 AUM  2093 IAUM AU   IAU               0       196.966       0
+    2094 AUM  2094 IAUM AU   IAU               0       196.966       0
+    2095 AUM  2095 IAUM AU   IAU               0       196.966       0
+    2096 AUM  2096 IAUM AU   IAU               0       196.966       0
+    2097 AUM  2097 IAUM AU   IAU               0       196.966       0
+    2098 AUM  2098 IAUM AU   IAU               0       196.966       0
+    2099 AUM  2099 IAUM AU   IAU               0       196.966       0
+    2100 AUM  2100 IAUM AU   IAU               0       196.966       0
+    2101 AUM  2101 IAUM AU   IAU               0       196.966       0
+    2102 AUM  2102 IAUM AU   IAU               0       196.966       0
+    2103 AUM  2103 IAUM AU   IAU               0       196.966       0
+    2104 AUM  2104 IAUM AU   IAU               0       196.966       0
+    2105 AUM  2105 IAUM AU   IAU               0       196.966       0
+    2106 AUM  2106 IAUM AU   IAU               0       196.966       0
+    2107 AUM  2107 IAUM AU   IAU               0       196.966       0
+    2108 AUM  2108 IAUM AU   IAU               0       196.966       0
+    2109 AUM  2109 IAUM AU   IAU               0       196.966       0
+    2110 AUM  2110 IAUM AU   IAU               0       196.966       0
+    2111 AUM  2111 IAUM AU   IAU               0       196.966       0
+    2112 AUM  2112 IAUM AU   IAU               0       196.966       0
+    2113 AUM  2113 IAUM AU   IAU               0       196.966       0
+    2114 AUM  2114 IAUM AU   IAU               0       196.966       0
+    2115 AUM  2115 IAUM AU   IAU               0       196.966       0
+    2116 AUM  2116 IAUM AU   IAU               0       196.966       0
+    2117 AUM  2117 IAUM AU   IAU               0       196.966       0
+    2118 AUM  2118 IAUM AU   IAU               0       196.966       0
+    2119 AUM  2119 IAUM AU   IAU               0       196.966       0
+    2120 AUM  2120 IAUM AU   IAU               0       196.966       0
+    2121 AUM  2121 IAUM AU   IAU               0       196.966       0
+    2122 AUM  2122 IAUM AU   IAU               0       196.966       0
+    2123 AUM  2123 IAUM AU   IAU               0       196.966       0
+    2124 AUM  2124 IAUM AU   IAU               0       196.966       0
+    2125 AUM  2125 IAUM AU   IAU               0       196.966       0
+    2126 AUM  2126 IAUM AU   IAU               0       196.966       0
+    2127 AUM  2127 IAUM AU   IAU               0       196.966       0
+    2128 AUM  2128 IAUM AU   IAU               0       196.966       0
+    2129 AUM  2129 IAUM AU   IAU               0       196.966       0
+    2130 AUM  2130 IAUM AU   IAU               0       196.966       0
+    2131 AUM  2131 IAUM AU   IAU               0       196.966       0
+    2132 AUM  2132 IAUM AU   IAU               0       196.966       0
+    2133 AUM  2133 IAUM AU   IAU               0       196.966       0
+    2134 AUM  2134 IAUM AU   IAU               0       196.966       0
+    2135 AUM  2135 IAUM AU   IAU               0       196.966       0
+    2136 AUM  2136 IAUM AU   IAU               0       196.966       0
+    2137 AUM  2137 IAUM AU   IAU               0       196.966       0
+    2138 AUM  2138 IAUM AU   IAU               0       196.966       0
+    2139 AUM  2139 IAUM AU   IAU               0       196.966       0
+    2140 AUM  2140 IAUM AU   IAU               0       196.966       0
+    2141 AUM  2141 IAUM AU   IAU               0       196.966       0
+    2142 AUM  2142 IAUM AU   IAU               0       196.966       0
+    2143 AUM  2143 IAUM AU   IAU               0       196.966       0
+    2144 AUM  2144 IAUM AU   IAU               0       196.966       0
+    2145 AUM  2145 IAUM AU   IAU               0       196.966       0
+    2146 AUM  2146 IAUM AU   IAU               0       196.966       0
+    2147 AUM  2147 IAUM AU   IAU               0       196.966       0
+    2148 AUM  2148 IAUM AU   IAU               0       196.966       0
+    2149 AUM  2149 IAUM AU   IAU               0       196.966       0
+    2150 AUM  2150 IAUM AU   IAU               0       196.966       0
+    2151 AUM  2151 IAUM AU   IAU               0       196.966       0
+    2152 AUM  2152 IAUM AU   IAU               0       196.966       0
+    2153 AUM  2153 IAUM AU   IAU               0       196.966       0
+    2154 AUM  2154 IAUM AU   IAU               0       196.966       0
+    2155 AUM  2155 IAUM AU   IAU               0       196.966       0
+    2156 AUM  2156 IAUM AU   IAU               0       196.966       0
+    2157 AUM  2157 IAUM AU   IAU               0       196.966       0
+    2158 AUM  2158 IAUM AU   IAU               0       196.966       0
+    2159 AUM  2159 IAUM AU   IAU               0       196.966       0
+    2160 AUM  2160 IAUM AU   IAU               0       196.966       0
+    2161 AUM  2161 IAUM AU   IAU               0       196.966       0
+    2162 AUM  2162 IAUM AU   IAU               0       196.966       0
+    2163 AUM  2163 IAUM AU   IAU               0       196.966       0
+    2164 AUM  2164 IAUM AU   IAU               0       196.966       0
+    2165 AUM  2165 IAUM AU   IAU               0       196.966       0
+    2166 AUM  2166 IAUM AU   IAU               0       196.966       0
+    2167 AUM  2167 IAUM AU   IAU               0       196.966       0
+    2168 AUM  2168 IAUM AU   IAU               0       196.966       0
+    2169 AUM  2169 IAUM AU   IAU               0       196.966       0
+    2170 AUM  2170 IAUM AU   IAU               0       196.966       0
+    2171 AUM  2171 IAUM AU   IAU               0       196.966       0
+    2172 AUM  2172 IAUM AU   IAU               0       196.966       0
+    2173 AUM  2173 IAUM AU   IAU               0       196.966       0
+    2174 AUM  2174 IAUM AU   IAU               0       196.966       0
+    2175 AUM  2175 IAUM AU   IAU               0       196.966       0
+    2176 AUM  2176 IAUM AU   IAU               0       196.966       0
+    2177 AUM  2177 IAUM AU   IAU               0       196.966       0
+    2178 AUM  2178 IAUM AU   IAU               0       196.966       0
+    2179 AUM  2179 IAUM AU   IAU               0       196.966       0
+    2180 AUM  2180 IAUM AU   IAU               0       196.966       0
+    2181 AUM  2181 IAUM AU   IAU               0       196.966       0
+    2182 AUM  2182 IAUM AU   IAU               0       196.966       0
+    2183 AUM  2183 IAUM AU   IAU               0       196.966       0
+    2184 AUM  2184 IAUM AU   IAU               0       196.966       0
+    2185 AUM  2185 IAUM AU   IAU               0       196.966       0
+    2186 AUM  2186 IAUM AU   IAU               0       196.966       0
+    2187 AUM  2187 IAUM AU   IAU               0       196.966       0
+    2188 AUM  2188 IAUM AU   IAU               0       196.966       0
+    2189 AUM  2189 IAUM AU   IAU               0       196.966       0
+    2190 AUM  2190 IAUM AU   IAU               0       196.966       0
+    2191 AUM  2191 IAUM AU   IAU               0       196.966       0
+    2192 AUM  2192 IAUM AU   IAU               0       196.966       0
+    2193 AUM  2193 IAUM AU   IAU               0       196.966       0
+    2194 AUM  2194 IAUM AU   IAU               0       196.966       0
+    2195 AUM  2195 IAUM AU   IAU               0       196.966       0
+    2196 AUM  2196 IAUM AU   IAU               0       196.966       0
+    2197 AUM  2197 IAUM AU   IAU               0       196.966       0
+    2198 AUM  2198 IAUM AU   IAU               0       196.966       0
+    2199 AUM  2199 IAUM AU   IAU               0       196.966       0
+    2200 AUM  2200 IAUM AU   IAU               0       196.966       0
+    2201 AUM  2201 IAUM AU   IAU               0       196.966       0
+    2202 AUM  2202 IAUM AU   IAU               0       196.966       0
+    2203 AUM  2203 IAUM AU   IAU               0       196.966       0
+    2204 AUM  2204 IAUM AU   IAU               0       196.966       0
+    2205 AUM  2205 IAUM AU   IAU               0       196.966       0
+    2206 AUM  2206 IAUM AU   IAU               0       196.966       0
+    2207 AUM  2207 IAUM AU   IAU               0       196.966       0
+    2208 AUM  2208 IAUM AU   IAU               0       196.966       0
+    2209 AUM  2209 IAUM AU   IAU               0       196.966       0
+    2210 AUM  2210 IAUM AU   IAU               0       196.966       0
+    2211 AUM  2211 IAUM AU   IAU               0       196.966       0
+    2212 AUM  2212 IAUM AU   IAU               0       196.966       0
+    2213 AUM  2213 IAUM AU   IAU               0       196.966       0
+    2214 AUM  2214 IAUM AU   IAU               0       196.966       0
+    2215 AUM  2215 IAUM AU   IAU               0       196.966       0
+    2216 AUM  2216 IAUM AU   IAU               0       196.966       0
+    2217 AUM  2217 IAUM AU   IAU               0       196.966       0
+    2218 AUM  2218 IAUM AU   IAU               0       196.966       0
+    2219 AUM  2219 IAUM AU   IAU               0       196.966       0
+    2220 AUM  2220 IAUM AU   IAU               0       196.966       0
+    2221 AUM  2221 IAUM AU   IAU               0       196.966       0
+    2222 AUM  2222 IAUM AU   IAU               0       196.966       0
+    2223 AUM  2223 IAUM AU   IAU               0       196.966       0
+    2224 AUM  2224 IAUM AU   IAU               0       196.966       0
+    2225 AUM  2225 IAUM AU   IAU               0       196.966       0
+    2226 AUM  2226 IAUM AU   IAU               0       196.966       0
+    2227 AUM  2227 IAUM AU   IAU               0       196.966       0
+    2228 AUM  2228 IAUM AU   IAU               0       196.966       0
+    2229 AUM  2229 IAUM AU   IAU               0       196.966       0
+    2230 AUM  2230 IAUM AU   IAU               0       196.966       0
+    2231 AUM  2231 IAUM AU   IAU               0       196.966       0
+    2232 AUM  2232 IAUM AU   IAU               0       196.966       0
+    2233 AUM  2233 IAUM AU   IAU               0       196.966       0
+    2234 AUM  2234 IAUM AU   IAU               0       196.966       0
+    2235 AUM  2235 IAUM AU   IAU               0       196.966       0
+    2236 AUM  2236 IAUM AU   IAU               0       196.966       0
+    2237 AUM  2237 IAUM AU   IAU               0       196.966       0
+    2238 AUM  2238 IAUM AU   IAU               0       196.966       0
+    2239 AUM  2239 IAUM AU   IAU               0       196.966       0
+    2240 AUM  2240 IAUM AU   IAU               0       196.966       0
+    2241 AUM  2241 IAUM AU   IAU               0       196.966       0
+    2242 AUM  2242 IAUM AU   IAU               0       196.966       0
+    2243 AUM  2243 IAUM AU   IAU               0       196.966       0
+    2244 AUM  2244 IAUM AU   IAU               0       196.966       0
+    2245 AUM  2245 IAUM AU   IAU               0       196.966       0
+    2246 AUM  2246 IAUM AU   IAU               0       196.966       0
+    2247 AUM  2247 IAUM AU   IAU               0       196.966       0
+    2248 AUM  2248 IAUM AU   IAU               0       196.966       0
+    2249 AUM  2249 IAUM AU   IAU               0       196.966       0
+    2250 AUM  2250 IAUM AU   IAU               0       196.966       0
+    2251 AUM  2251 IAUM AU   IAU               0       196.966       0
+    2252 AUM  2252 IAUM AU   IAU               0       196.966       0
+    2253 AUM  2253 IAUM AU   IAU               0       196.966       0
+    2254 AUM  2254 IAUM AU   IAU               0       196.966       0
+    2255 AUM  2255 IAUM AU   IAU               0       196.966       0
+    2256 AUM  2256 IAUM AU   IAU               0       196.966       0
+    2257 AUM  2257 IAUM AU   IAU               0       196.966       0
+    2258 AUM  2258 IAUM AU   IAU               0       196.966       0
+    2259 AUM  2259 IAUM AU   IAU               0       196.966       0
+    2260 AUM  2260 IAUM AU   IAU               0       196.966       0
+    2261 AUM  2261 IAUM AU   IAU               0       196.966       0
+    2262 AUM  2262 IAUM AU   IAU               0       196.966       0
+    2263 AUM  2263 IAUM AU   IAU               0       196.966       0
+    2264 AUM  2264 IAUM AU   IAU               0       196.966       0
+    2265 AUM  2265 IAUM AU   IAU               0       196.966       0
+    2266 AUM  2266 IAUM AU   IAU               0       196.966       0
+    2267 AUM  2267 IAUM AU   IAU               0       196.966       0
+    2268 AUM  2268 IAUM AU   IAU               0       196.966       0
+    2269 AUM  2269 IAUM AU   IAU               0       196.966       0
+    2270 AUM  2270 IAUM AU   IAU               0       196.966       0
+    2271 AUM  2271 IAUM AU   IAU               0       196.966       0
+    2272 AUM  2272 IAUM AU   IAU               0       196.966       0
+    2273 AUM  2273 IAUM AU   IAU               0       196.966       0
+    2274 AUM  2274 IAUM AU   IAU               0       196.966       0
+    2275 AUM  2275 IAUM AU   IAU               0       196.966       0
+    2276 AUM  2276 IAUM AU   IAU               0       196.966       0
+    2277 AUM  2277 IAUM AU   IAU               0       196.966       0
+    2278 AUM  2278 IAUM AU   IAU               0       196.966       0
+    2279 AUM  2279 IAUM AU   IAU               0       196.966       0
+    2280 AUM  2280 IAUM AU   IAU               0       196.966       0
+    2281 AUM  2281 IAUM AU   IAU               0       196.966       0
+    2282 AUM  2282 IAUM AU   IAU               0       196.966       0
+    2283 AUM  2283 IAUM AU   IAU               0       196.966       0
+    2284 AUM  2284 IAUM AU   IAU               0       196.966       0
+    2285 AUM  2285 IAUM AU   IAU               0       196.966       0
+    2286 AUM  2286 IAUM AU   IAU               0       196.966       0
+    2287 AUM  2287 IAUM AU   IAU               0       196.966       0
+    2288 AUM  2288 IAUM AU   IAU               0       196.966       0
+    2289 AUM  2289 IAUM AU   IAU               0       196.966       0
+    2290 AUM  2290 IAUM AU   IAU               0       196.966       0
+    2291 AUM  2291 IAUM AU   IAU               0       196.966       0
+    2292 AUM  2292 IAUM AU   IAU               0       196.966       0
+    2293 AUM  2293 IAUM AU   IAU               0       196.966       0
+    2294 AUM  2294 IAUM AU   IAU               0       196.966       0
+    2295 AUM  2295 IAUM AU   IAU               0       196.966       0
+    2296 AUM  2296 IAUM AU   IAU               0       196.966       0
+    2297 AUM  2297 IAUM AU   IAU               0       196.966       0
+    2298 AUM  2298 IAUM AU   IAU               0       196.966       0
+    2299 AUM  2299 IAUM AU   IAU               0       196.966       0
+    2300 AUM  2300 IAUM AU   IAU               0       196.966       0
+    2301 AUM  2301 IAUM AU   IAU               0       196.966       0
+    2302 AUM  2302 IAUM AU   IAU               0       196.966       0
+    2303 AUM  2303 IAUM AU   IAU               0       196.966       0
+    2304 AUM  2304 IAUM AU   IAU               0       196.966       0
+    2305 AUM  2305 IAUM AU   IAU               0       196.966       0
+    2306 AUM  2306 IAUM AU   IAU               0       196.966       0
+    2307 AUM  2307 IAUM AU   IAU               0       196.966       0
+    2308 AUM  2308 IAUM AU   IAU               0       196.966       0
+    2309 AUM  2309 IAUM AU   IAU               0       196.966       0
+    2310 AUM  2310 IAUM AU   IAU               0       196.966       0
+    2311 AUM  2311 IAUM AU   IAU               0       196.966       0
+    2312 AUM  2312 IAUM AU   IAU               0       196.966       0
+    2313 AUM  2313 IAUM AU   IAU               0       196.966       0
+    2314 AUM  2314 IAUM AU   IAU               0       196.966       0
+    2315 AUM  2315 IAUM AU   IAU               0       196.966       0
+    2316 AUM  2316 IAUM AU   IAU               0       196.966       0
+    2317 AUM  2317 IAUM AU   IAU               0       196.966       0
+    2318 AUM  2318 IAUM AU   IAU               0       196.966       0
+    2319 AUM  2319 IAUM AU   IAU               0       196.966       0
+    2320 AUM  2320 IAUM AU   IAU               0       196.966       0
+    2321 AUM  2321 IAUM AU   IAU               0       196.966       0
+    2322 AUM  2322 IAUM AU   IAU               0       196.966       0
+    2323 AUM  2323 IAUM AU   IAU               0       196.966       0
+    2324 AUM  2324 IAUM AU   IAU               0       196.966       0
+    2325 AUM  2325 IAUM AU   IAU               0       196.966       0
+    2326 AUM  2326 IAUM AU   IAU               0       196.966       0
+    2327 AUM  2327 IAUM AU   IAU               0       196.966       0
+    2328 AUM  2328 IAUM AU   IAU               0       196.966       0
+    2329 AUM  2329 IAUM AU   IAU               0       196.966       0
+    2330 AUM  2330 IAUM AU   IAU               0       196.966       0
+    2331 AUM  2331 IAUM AU   IAU               0       196.966       0
+    2332 AUM  2332 IAUM AU   IAU               0       196.966       0
+    2333 AUM  2333 IAUM AU   IAU               0       196.966       0
+    2334 AUM  2334 IAUM AU   IAU               0       196.966       0
+    2335 AUM  2335 IAUM AU   IAU               0       196.966       0
+    2336 AUM  2336 IAUM AU   IAU               0       196.966       0
+    2337 AUM  2337 IAUM AU   IAU               0       196.966       0
+    2338 AUM  2338 IAUM AU   IAU               0       196.966       0
+    2339 AUM  2339 IAUM AU   IAU               0       196.966       0
+    2340 AUM  2340 IAUM AU   IAU               0       196.966       0
+    2341 AUM  2341 IAUM AU   IAU               0       196.966       0
+    2342 AUM  2342 IAUM AU   IAU               0       196.966       0
+    2343 AUM  2343 IAUM AU   IAU               0       196.966       0
+    2344 AUM  2344 IAUM AU   IAU               0       196.966       0
+    2345 AUM  2345 IAUM AU   IAU               0       196.966       0
+    2346 AUM  2346 IAUM AU   IAU               0       196.966       0
+    2347 AUM  2347 IAUM AU   IAU               0       196.966       0
+    2348 AUM  2348 IAUM AU   IAU               0       196.966       0
+    2349 AUM  2349 IAUM AU   IAU               0       196.966       0
+    2350 AUM  2350 IAUM AU   IAU               0       196.966       0
+    2351 AUM  2351 IAUM AU   IAU               0       196.966       0
+    2352 AUM  2352 IAUM AU   IAU               0       196.966       0
+    2353 AUM  2353 IAUM AU   IAU               0       196.966       0
+    2354 AUM  2354 IAUM AU   IAU               0       196.966       0
+    2355 AUM  2355 IAUM AU   IAU               0       196.966       0
+    2356 AUM  2356 IAUM AU   IAU               0       196.966       0
+    2357 AUM  2357 IAUM AU   IAU               0       196.966       0
+    2358 AUM  2358 IAUM AU   IAU               0       196.966       0
+    2359 AUM  2359 IAUM AU   IAU               0       196.966       0
+    2360 AUM  2360 IAUM AU   IAU               0       196.966       0
+    2361 AUM  2361 IAUM AU   IAU               0       196.966       0
+    2362 AUM  2362 IAUM AU   IAU               0       196.966       0
+    2363 AUM  2363 IAUM AU   IAU               0       196.966       0
+    2364 AUM  2364 IAUM AU   IAU               0       196.966       0
+    2365 AUM  2365 IAUM AU   IAU               0       196.966       0
+    2366 AUM  2366 IAUM AU   IAU               0       196.966       0
+    2367 AUM  2367 IAUM AU   IAU               0       196.966       0
+    2368 AUM  2368 IAUM AU   IAU               0       196.966       0
+    2369 AUM  2369 IAUM AU   IAU               0       196.966       0
+    2370 AUM  2370 IAUM AU   IAU               0       196.966       0
+    2371 AUM  2371 IAUM AU   IAU               0       196.966       0
+    2372 AUM  2372 IAUM AU   IAU               0       196.966       0
+    2373 AUM  2373 IAUM AU   IAU               0       196.966       0
+    2374 AUM  2374 IAUM AU   IAU               0       196.966       0
+    2375 AUM  2375 IAUM AU   IAU               0       196.966       0
+    2376 AUM  2376 IAUM AU   IAU               0       196.966       0
+
+       0 !NBOND: bonds
+
+
+       0 !NTHETA: angles
+
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+
+
+       1       0 !NGRP
+       0       0       0
+

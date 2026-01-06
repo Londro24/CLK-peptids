@@ -1,0 +1,92 @@
+# Set run sys name initName steps
+set temper 300
+# I use CPU for this template
+#CUDASOAintegrate on
+
+set this $name.$run
+if {$run == 0} {
+    set last ../output/${initName}.0
+    #temperature $temper
+    binCoordinates $last.restart.coor
+    extendedSystem $last.restart.xsc
+    binVelocities $last.restart.vel
+} else {
+    set last ../output/$name.[expr $run-1]
+    binCoordinates $last.restart.coor
+    binVelocities $last.restart.vel
+    extendedSystem $last.restart.xsc
+}
+
+outputName                      ../output/$this
+#minimization on
+numSteps			$steps
+structure			${psf}
+coordinates			${struct}
+
+
+# temperature control
+langevin             on
+langevinDamping      1
+langevinTemp         $temper
+langevinHydrogen     off
+
+# barostat
+useGroupPressure     yes
+useFlexibleCell      no
+useConstantRatio     no
+langevinPiston       on
+langevinPistonTarget 1.01325
+langevinPistonTemp   $temper
+langevinPistonDecay  300
+langevinPistonPeriod 400
+
+
+# parameters
+parameters         ../parameters/par_all36m_prot.prm
+parameters         ../parameters/par_all36_na.prm
+parameters         ../parameters/param19.inp
+parameters         ../parameters/par_all22_prot_metals.inp
+#parameters		../parameters/toppar_water_ions.str
+
+
+paraTypeCharmm                  on
+exclude                         scaled1-4
+oneFourScaling                  1
+vdwForceSwitching               on
+
+switching                       on
+switchDist                      8
+cutoff                          9
+pairListDist                    11
+margin 4; # Avoid "periodic cell too small for patch grid" errors
+
+# integration
+rigidBonds                      all
+timestep                        4
+nonBondedFreq                   1
+fullElectFrequency              1
+stepsPerCycle                   10
+
+# output
+binaryOutput                    yes
+binaryRestart                   yes
+wrapAll				yes
+wrapNearest			yes
+comMotion                       yes
+
+outputEnergies                  10000
+outputPressure			10000
+outputTiming                    10000
+xstFreq                         10000
+dcdFreq                         10000
+restartFreq                     10000
+
+# electrostatics
+pme                             yes
+pmeGridSpacing                  1.2
+
+## external forces
+#fixedAtomsFile                  ../fixed_${sys}.pdb
+#fixedAtomsCol                   O
+#fixedAtomsForces                on
+

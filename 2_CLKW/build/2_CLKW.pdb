@@ -1,0 +1,65 @@
+HEADER  PEPFOLD-00047_bestene1-mc.pdb
+REMARK  Component boundaries: 0: 1 6 
+REMARK  SA Trajectory: VaZ
+REMARK     eCACA      eHb  ePhiPos eVdWBBBB eVdWBBSC eVdWSCSC    Total 
+REMARK    -0.044   -3.512    0.466   -0.295   -0.053   -5.205   -8.642
+REMARK   sOPEP Energy: -8.64213
+SEQRES   1 A    6  CYS LEU LYS TRP TRP TRP
+ATOM      1  N   CYS A   1     124.179  -1.548 196.240  0.00  0.00           N
+ATOM      2  CA  CYS A   1     124.233  -0.102 196.396  0.00  0.00           C
+ATOM      3  C   CYS A   1     124.515   0.261 197.851  0.00  0.00           C
+ATOM      4  O   CYS A   1     125.348   1.122 198.137  0.00  0.00           O
+ATOM      5  H   CYS A   1     123.998  -1.956 195.322  0.00  0.00           H
+ATOM      6  CB  CYS A   1     122.882   0.507 195.974  0.00  0.00           C
+ATOM      7  SG  CYS A   1     122.461   0.300 194.215  0.00  0.00           S
+ATOM      8  N   LEU A   2     123.819  -0.393 198.773  0.00  0.00           N
+ATOM      9  CA  LEU A   2     124.031  -0.115 200.191  0.00  0.00           C
+ATOM     10  C   LEU A   2     125.477  -0.419 200.565  0.00  0.00           C
+ATOM     11  O   LEU A   2     126.128   0.370 201.256  0.00  0.00           O
+ATOM     12  H   LEU A   2     123.162  -1.064 198.503  0.00  0.00           H
+ATOM     13  CB  LEU A   2     123.090  -0.997 201.032  0.00  0.00           C
+ATOM     14  CG  LEU A   2     121.627  -0.703 200.746  0.00  0.00           C
+ATOM     15  CD1 LEU A   2     120.704  -1.728 201.385  0.00  0.00           C
+ATOM     16  CD2 LEU A   2     121.208   0.662 201.266  0.00  0.00           C
+ATOM     17  N   LYS A   3     125.978  -1.565 200.109  0.00  0.00           N
+ATOM     18  CA  LYS A   3     127.347  -1.967 200.404  0.00  0.00           C
+ATOM     19  C   LYS A   3     128.387  -0.992 199.844  0.00  0.00           C
+ATOM     20  O   LYS A   3     129.343  -0.633 200.536  0.00  0.00           O
+ATOM     21  H   LYS A   3     125.417  -2.149 199.563  0.00  0.00           H
+ATOM     22  CB  LYS A   3     127.597  -3.357 199.790  0.00  0.00           C
+ATOM     23  CG  LYS A   3     126.801  -4.442 200.496  0.00  0.00           C
+ATOM     24  CD  LYS A   3     127.066  -5.818 199.905  0.00  0.00           C
+ATOM     25  CE  LYS A   3     126.270  -6.903 200.611  0.00  0.00           C
+ATOM     26  NZ  LYS A   3     126.528  -8.242 200.036  0.00  0.00           N
+ATOM     27  N   TRP A   4     128.205  -0.558 198.598  0.00  0.00           N
+ATOM     28  CA  TRP A   4     129.169   0.357 197.995  0.00  0.00           C
+ATOM     29  C   TRP A   4     129.117   1.631 198.834  0.00  0.00           C
+ATOM     30  O   TRP A   4     130.146   2.166 199.239  0.00  0.00           O
+ATOM     31  H   TRP A   4     127.426  -0.852 198.087  0.00  0.00           H
+ATOM     32  CB  TRP A   4     128.781   0.662 196.536  0.00  0.00           C
+ATOM     33  CG  TRP A   4     129.778   1.622 195.862  0.00  0.00           C
+ATOM     34  CD1 TRP A   4     130.981   1.284 195.300  0.00  0.00           C
+ATOM     35  NE1 TRP A   4     131.569   2.441 194.803  0.00  0.00           N
+ATOM     36  CE2 TRP A   4     130.738   3.528 195.050  0.00  0.00           C
+ATOM     37  CZ2 TRP A   4     130.869   4.861 194.761  0.00  0.00           C
+ATOM     38  CH2 TRP A   4     129.882   5.740 195.122  0.00  0.00           C
+ATOM     39  CZ3 TRP A   4     128.765   5.286 195.773  0.00  0.00           C
+ATOM     40  CE3 TRP A   4     128.635   3.954 196.062  0.00  0.00           C
+ATOM     41  CD2 TRP A   4     129.621   3.075 195.701  0.00  0.00           C
+TER      42      TRP A   4
+CONECT   27   31   28   19
+CONECT   28   27   32   29
+CONECT   29   28   30
+CONECT   30   29
+CONECT   31   27
+CONECT   32   28   33
+CONECT   33   32   34   41
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37   41
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   33   36   40
+END

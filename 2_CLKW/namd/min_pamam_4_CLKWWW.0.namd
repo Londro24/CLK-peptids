@@ -1,0 +1,7 @@
+set run 0
+set name 4_CLKWWW
+set initName ../build/init
+set temper 300.0
+set struct ../build/${name}.pdb
+set psf ../build/${name}.psf
+source ../templates/template_minWat.namd

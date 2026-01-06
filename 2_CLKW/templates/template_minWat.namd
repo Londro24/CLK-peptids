@@ -1,0 +1,97 @@
+# Set run sys name initName
+set temper 300
+
+set this $name.$run
+if {$run == 0} {
+    temperature $temper
+    extendedSystem ../build/$initName.xsc
+} else {
+    set last $name.[expr $run-1]
+    binCoordinates $last.restart.coor
+    binVelocities $last.restart.vel
+    extendedSystem $last.restart.xsc
+}
+
+outputName                      ../output/$this
+minimization on
+numSteps 			20000
+structure			../build/${psf}
+coordinates			../build/${struct}
+
+
+# temperature control
+langevin             on
+langevinDamping      1
+langevinTemp         $temper
+langevinHydrogen     off
+
+# barostat
+useGroupPressure     yes
+useFlexibleCell      yes
+useConstantRatio     yes
+langevinPiston       on
+langevinPistonTarget 1.01325
+langevinPistonTemp   $temper
+langevinPistonDecay  300
+langevinPistonPeriod 400
+
+# parameters
+paraTypeCharmm			on
+# parameters
+parameters         ../parameters/par_all36m_prot.prm
+parameters         ../parameters/par_all36_na.prm
+parameters         ../parameters/param19.inp
+parameters         ../parameters/par_all22_prot_metals.inp
+#parameters		../parameters/toppar_water_ions.str
+exclude                         scaled1-4
+1-4scaling                      1
+vdwForceSwitching               on
+
+switching                       on
+switchDist                      8
+cutoff                          9
+pairListDist                    11
+margin 3; # Avoid "periodic cell too small for patch grid" errors
+
+# integration
+rigidBonds                      all
+timestep                        4
+nonBondedFreq                   1
+fullElectFrequency              1
+stepsPerCycle                   10
+
+# output
+binaryOutput                    yes
+binaryRestart                   yes
+wrapAll				yes
+wrapNearest			yes
+comMotion                       yes
+
+outputEnergies                  1000
+outputPressure			1000
+outputTiming                    1000
+xstFreq                         1000
+dcdFreq                         1000
+restartFreq                     1000
+
+# electrostatics
+pme                             yes
+pmeGridSpacing                  1.2
+
+## external forces
+#constraints                     no
+#consRef                         ../Res_${sys}.pdb
+#consKFile                       ../Res_${sys}.pdb
+#consKCol                        B
+
+#fixedAtoms                      no
+#fixedAtomsFile                  ../fixed_${sys}.pdb
+#fixedAtomsCol                   O
+#fixedAtomsForces                on
+
+
+#colvars                         on
+#colvarsConfig                   ../${ColvarsFile}.colvars
+#if {$run > 0} {
+#    colvarsInput                    ../output/$last.restart.colvars.state
+#}

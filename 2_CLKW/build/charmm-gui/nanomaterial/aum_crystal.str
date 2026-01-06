@@ -1,0 +1,19 @@
+
+
+! y axis
+if iy .ne. 1 then
+    coor trans ydir 1.0 distance @Ly select segid AUM@isum end
+endif
+
+! x axis
+if ix .ne. 1 then
+    coor trans xdir 1.0 distance @Lx select segid AUM@isum end
+endif
+
+! z axis
+if iz .ne. 1 then
+    coor trans zdir 1.0 distance @Lz select segid AUM@isum end
+endif
+
+
+
