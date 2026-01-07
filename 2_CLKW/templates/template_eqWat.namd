@@ -32,8 +32,8 @@ langevinHydrogen     off
 
 # barostat
 useGroupPressure     yes
-useFlexibleCell      no
-useConstantRatio     no
+useFlexibleCell      yes # cambio para mantener la refernecia
+useConstantRatio     yes # puede estar mal
 langevinPiston       on
 langevinPistonTarget 1.01325
 langevinPistonTemp   $temper
@@ -42,11 +42,17 @@ langevinPistonPeriod 400
 
 
 # parameters
-parameters         ../parameters/par_all36m_prot.prm
-parameters         ../parameters/par_all36_na.prm
-parameters         ../parameters/param19.inp
-parameters         ../parameters/par_all22_prot_metals.inp
-#parameters		../parameters/toppar_water_ions.str
+###ORGANIC
+parameters			../parameters/par_all36_prot_lipid_water_ions.prm
+parameters			../parameters/par_all36_prot_lipid_water_ions_hyp.prm
+parameters                      ../parameters/par_all36_cgenff.prm
+parameters                      ../parameters/par_all36_prot.prm
+parameters                      ../parameters/toppar_water_ions_cgenff.str
+###GOLD
+parameters			../parameters/par_interface.prm
+parameters			../parameters/par_all36_carb.prm
+parameters			../parameters/par_all36_na.prm
+parameters                      ../parameters/par_all36_cgenff_edit_gold.prm
 
 
 paraTypeCharmm                  on
@@ -70,12 +76,12 @@ stepsPerCycle                   10
 # output
 binaryOutput                    yes
 binaryRestart                   yes
-wrapAll				yes
-wrapNearest			yes
+wrapAll				            yes
+wrapNearest			            yes
 comMotion                       yes
 
 outputEnergies                  10000
-outputPressure			10000
+outputPressure		        	10000
 outputTiming                    10000
 xstFreq                         10000
 dcdFreq                         10000

@@ -1,0 +1,8 @@
+set run 1
+set name 3_CLKWW
+set initName ../output/${name}
+set temper 300.0
+set struct ../build/final-sist-${name}_ion.pdb
+set psf ../build/repart_${name}.psf
+set steps 2100000000
+source ../templates/template_eqWat.namd

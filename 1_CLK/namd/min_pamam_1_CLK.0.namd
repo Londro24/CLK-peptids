@@ -1,0 +1,7 @@
+set run 0
+set name 1_CLK
+set initName ../build/init
+set temper 300.0
+set struct ../build/final-sist-${name}_ion.pdb
+set psf ../build/final-sist-${name}_ion.psf
+source ../templates/template_minWat.namd

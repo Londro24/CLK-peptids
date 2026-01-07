@@ -37,21 +37,27 @@ langevinPistonPeriod 400
 
 # parameters
 paraTypeCharmm			on
-# parameters
-parameters         ../parameters/par_all36m_prot.prm
-parameters         ../parameters/par_all36_na.prm
-parameters         ../parameters/param19.inp
-parameters         ../parameters/par_all22_prot_metals.inp
-#parameters		../parameters/toppar_water_ions.str
+###ORGANIC
+parameters			../parameters/par_all36_prot_lipid_water_ions.prm
+parameters			../parameters/par_all36_prot_lipid_water_ions_hyp.prm
+parameters                      ../parameters/par_all36_cgenff.prm
+parameters                      ../parameters/par_all36_prot.prm
+parameters                      ../parameters/toppar_water_ions_cgenff.str
+###GOLD
+parameters			../parameters/par_interface.prm
+parameters			../parameters/par_all36_carb.prm
+parameters			../parameters/par_all36_na.prm
+parameters                      ../parameters/par_all36_cgenff_edit_gold.prm
+
 exclude                         scaled1-4
-1-4scaling                      1
+oneFourScaling                  1
 vdwForceSwitching               on
 
 switching                       on
 switchDist                      8
 cutoff                          9
 pairListDist                    11
-margin 3; # Avoid "periodic cell too small for patch grid" errors
+margin 4; # Avoid "periodic cell too small for patch grid" errors
 
 # integration
 rigidBonds                      all
@@ -63,12 +69,12 @@ stepsPerCycle                   10
 # output
 binaryOutput                    yes
 binaryRestart                   yes
-wrapAll				yes
-wrapNearest			yes
+wrapAll			            	yes
+wrapNearest		            	yes
 comMotion                       yes
 
 outputEnergies                  1000
-outputPressure			1000
+outputPressure		        	1000
 outputTiming                    1000
 xstFreq                         1000
 dcdFreq                         1000
