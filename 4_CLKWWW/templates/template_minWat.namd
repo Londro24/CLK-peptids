@@ -37,19 +37,20 @@ langevinPistonPeriod 400
 
 # parameters
 paraTypeCharmm			on
-ORGANIC
+###ORGANIC
 parameters			../parameters/par_all36_prot_lipid_water_ions.prm
 parameters			../parameters/par_all36_prot_lipid_water_ions_hyp.prm
 parameters                      ../parameters/par_all36_cgenff.prm
 parameters                      ../parameters/par_all36_prot.prm
 parameters                      ../parameters/toppar_water_ions_cgenff.str
 ###GOLD
-parameters			../parameters/par_gold_111_prot.prm
-parameters			../parameters/par_gold_111_cgenff.prm
-parameters			../parameters/par_all36_GolP_special1.prm
+parameters			../parameters/par_interface.prm
+parameters			../parameters/par_all36_carb.prm
+parameters			../parameters/par_all36_na.prm
+parameters                      ../parameters/par_all36_cgenff_edit_gold.prm
 
 exclude                         scaled1-4
-1-4scaling                      1
+oneFourScaling                  1
 vdwForceSwitching               on
 
 switching                       on
