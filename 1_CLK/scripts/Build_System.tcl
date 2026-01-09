@@ -79,7 +79,7 @@ foreach st $structures {
     
     if {$st eq $name} {
         $sel move [transaxis x 90]
-        set distancia 20.0
+        set distancia 25.0
         $sel moveby [list 0 0 $distancia]
     } 
     
