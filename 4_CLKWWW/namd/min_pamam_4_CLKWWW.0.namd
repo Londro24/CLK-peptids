@@ -1,3 +1,4 @@
+# namd3 +p3 min_pamam_4_CLKWWW.0.namd > min_pamam_4_CLKWWW.0.log
 set run 0
 set name 4_CLKWWW
 set initName ../build/init

@@ -1,23 +1,22 @@
 # Set run sys name initName steps
 set temper 300
 # I use CPU for this template
-#CUDASOAintegrate on
+GPUresident         on
 
 set this $name.$run
 if {$run == 0} {
-    set last ../output/${initName}.0
-    #temperature $temper
+    set last ../output/min_${initName}.0
     binCoordinates $last.restart.coor
     extendedSystem $last.restart.xsc
     binVelocities $last.restart.vel
 } else {
-    set last ../output/$name.[expr $run-1]
+    set last ../output/eq_$name.[expr $run-1]
     binCoordinates $last.restart.coor
     binVelocities $last.restart.vel
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/$this
+outputName                      ../output/eq_$this
 #minimization on
 numSteps			$steps
 structure			${psf}

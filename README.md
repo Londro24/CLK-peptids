@@ -25,4 +25,6 @@ Se revisaron los 13 modelos hechos, a lo cual se decidio por literatura y elimin
 | 4_CLKWWW | 55,000,000         | En Espera    |
 
 ## Detalles
-Para poder tener el _.psf_ y _.pdb_ de la superfice de oro, en CHARMM-GUI la genere con 111M en un caja con ejes X e Y periodicos de 50 X 50 X 10 de volumen en vacio. Ahi se encuentras además los archivos de topologia.
+1. Para poder tener el _.psf_ y _.pdb_ de la superfice de oro, en CHARMM-GUI la genere con 111M en un caja con ejes X e Y periodicos de 50 X 50 X 10 de volumen en vacio. Ahi se encuentras además los archivos de topologia.
+2. Para el intento de equilibrado es muy grande el archivo generado (_.dcd_) del sistema 4, por lo cual no se puede subir a git
+3. Para los calculos de minimizacion se uso NAMD3 para solo CPU y en el caso del equilibrado el de CUDAMulticore. Para ello se contempla la carpeta de namd en su carpeta respectiva.

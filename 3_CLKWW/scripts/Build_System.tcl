@@ -18,7 +18,7 @@ if {[llength $argv] < 3} {
 set name [lindex $argv 0]
 set surface [lindex $argv 1]
 set dir [lindex $argv 2]
-set structures [list $name $surface]
+set structures [list $surface $name]
 
 # Cargar paquetes necesarios
 package require psfgen
@@ -76,11 +76,20 @@ foreach st $structures {
     set center [measure center $sel]
     set m1 [trans origin $center]
     $sel move $m1
-    
+
+    if {$st eq $surface} {
+        set s [atomselect top "resname IAUM"]
+        set max_z_surf [lindex [lindex [measure minmax $s] 1] 2]
+        $s delete
+    } 
+
     if {$st eq $name} {
         $sel move [transaxis x 90]
-        set distancia 30.0
-        $sel moveby [list 0 0 $distancia]
+        set minmax_mol [measure minmax $sel]
+        set current_mol_bottom [lindex [lindex $minmax_mol 0] 2]
+        set target_z [expr $max_z_surf + 15.0]
+        set shift_amount [expr $target_z - $current_mol_bottom]
+        $sel moveby [list 0 0 $shift_amount]
     } 
     
     $sel writepdb ${dir}/2-${st}_c.pdb
@@ -103,7 +112,7 @@ writepdb ${dir}/2-sist-${name}.pdb
 puts "--- PASO 3: Solvatando el sistema ---"
 
 # centrado del sistema
-mol load psf ../${dir}/2-sist-${name}.psf pdb ${dir}/2-sist-${name}.pdb
+mol load psf ${dir}/2-sist-${name}.psf pdb ${dir}/2-sist-${name}.pdb
 set sel [atomselect top "all"]
 set center [measure center $sel]
 set m1 [trans origin $center]

@@ -12,7 +12,7 @@ if {$run == 0} {
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/$this
+outputName                      ../output/min_$this
 minimization on
 numSteps 			20000
 structure			../build/${psf}
