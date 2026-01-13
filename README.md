@@ -16,13 +16,13 @@ Se revisaron los 13 modelos hechos, a lo cual se decidio por literatura y elimin
 ## Minimizacion y equilibrado
 * Integrar datos y justifiacion de los mismos *
 
-## Estado de ejecucion
+## Estado de ejecucion (Equilibrado)
 | Sistema  | Pasos de ejecución | Estado       |
 |----------|--------------------|--------------|
-| 1_CLK    | 55,000,000         | Listo        |
-| 2_CLKW   | 55,000,000         | Listo        |
-| 3_CLKWW  | 55,000,000         | Ejecutando   |
-| 4_CLKWWW | 55,000,000         | En Espera    |
+| 1_CLK    | 12,500,000 (50ns)  | Listo        |
+| 2_CLKW   | 12,500,000 (50ns)  | Listo        |
+| 3_CLKWW  | 12,500,000 (50ns)  | Detenido     |
+| 4_CLKWWW | 12,500,000 (50ns)  | En ejecución |
 
 ## Detalles
 1. Para poder tener el _.psf_ y _.pdb_ de la superfice de oro, en CHARMM-GUI la genere con 111M en un caja con ejes X e Y periodicos de 50 X 50 X 10 de volumen en vacio. Ahi se encuentras además los archivos de topologia.
