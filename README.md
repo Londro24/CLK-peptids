@@ -19,9 +19,9 @@ Se revisaron los 13 modelos hechos, a lo cual se decidio por literatura y elimin
 ## Estado de ejecucion
 | Sistema  | Pasos de ejecución | Estado       |
 |----------|--------------------|--------------|
-| 1_CLK    | 55,000,000         | _Ejecutando_ |
-| 2_CLKW   | 55,000,000         | En Espera    |
-| 3_CLKWW  | 55,000,000         | En Espera    |
+| 1_CLK    | 55,000,000         | Listo        |
+| 2_CLKW   | 55,000,000         | Listo        |
+| 3_CLKWW  | 55,000,000         | Ejecutando   |
 | 4_CLKWWW | 55,000,000         | En Espera    |
 
 ## Detalles
