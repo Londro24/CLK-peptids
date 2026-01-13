@@ -1,5 +1,5 @@
 # ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity eq_pamam_3_CLKWW.0.namd > eq_pamam_3_CLKWW.0.log &
-set run 1
+set run 0
 set name 3_CLKWW
 set initName ../output/${name}
 set temper 300.0

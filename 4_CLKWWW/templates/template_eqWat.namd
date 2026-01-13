@@ -5,7 +5,7 @@ GPUresident         on
 
 set this $name.$run
 if {$run == 0} {
-    set last ../output/min_${initName}.0
+    set last ../output/min_${name}.0
     binCoordinates $last.restart.coor
     extendedSystem $last.restart.xsc
     binVelocities $last.restart.vel
