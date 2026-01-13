@@ -15,3 +15,14 @@ En primera instancia se tomo desde el trabajo realizado anteriormente el archivo
 Se revisaron los 13 modelos hechos, a lo cual se decidio por literatura y eliminar errores provocados, por la construccion y modifición de una cadena pre-hecha, usar el modelo 4 creado por PEP-FOLD y eliminar los **W** hasta obtener los 4 modelos.
 ## Minimizacion y equilibrado
 * Integrar datos y justifiacion de los mismos *
+
+## Estado de ejecucion
+| Sistema  | Pasos de ejecución | Estado       |
+|----------|--------------------|--------------|
+| 1_CLK    | 55,000,000         | _Ejecutando_ |
+| 2_CLKW   | 55,000,000         | En Espera    |
+| 3_CLKWW  | 55,000,000         | En Espera    |
+| 4_CLKWWW | 55,000,000         | En Espera    |
+
+## Detalles
+Para poder tener el _.psf_ y _.pdb_ de la superfice de oro, en CHARMM-GUI la genere con 111M en un caja con ejes X e Y periodicos de 50 X 50 X 10 de volumen en vacio. Ahi se encuentras además los archivos de topologia.
