@@ -1,9 +1,0 @@
-# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 03_prod_pamam_2_CLKW.1.namd > 03_prod_pamam_2_CLKW.1.log &
-set run 1
-set name 2_CLKW
-set initName ../output/${name}
-set temper 300.0
-set struct ../build/final-sist-${name}_ion.pdb
-set psf ../build/repart_${name}.psf
-set steps 12500000
-source ../templates/template_prodWat.namd

@@ -1,0 +1,11 @@
+# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 03_prod_pamam_3_CLKWW_r2.1.namd > 03_prod_pamam_3_CLKWW_r2.1.log &
+set run 1
+set replica 2
+set name 3_CLKWW_r${replica}
+set input_name 3_CLKWW 
+set initName ../output/${name}
+set temper 300.0
+set struct ../build/final-sist-${input_name}_ion.pdb
+set psf ../build/repart_${input_name}.psf
+set steps 12500000
+source ../templates/template_prodWat.namd
