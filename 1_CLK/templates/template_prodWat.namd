@@ -1,22 +1,26 @@
-# Set run sys name initName
+# Set run sys name initName steps
 set temper 300
+# I use CPU for this template
+GPUresident         on
 
 set this $name.$run
-if {$run == 0} {
-    temperature $temper
-    extendedSystem ../build/$initName.xsc
+if {$run == 1} {
+    set last ../output/02_eq_${name}.[expr $run-1]
+    binCoordinates $last.restart.coor
+    extendedSystem $last.restart.xsc
+    binVelocities $last.restart.vel
 } else {
-    set last ../output/01_min_$name.[expr $run-1]
+    set last ../output/03_prod_$name.[expr $run-1]
     binCoordinates $last.restart.coor
     binVelocities $last.restart.vel
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/01_min_$this
-minimization on
-numSteps 			20000
-structure			../build/${psf}
-coordinates			../build/${struct}
+outputName                      ../output/03_prod_$this
+#minimization on
+numSteps			$steps
+structure			${psf}
+coordinates			${struct}
 
 
 # temperature control
@@ -27,16 +31,16 @@ langevinHydrogen     off
 
 # barostat
 useGroupPressure     yes
-useFlexibleCell      yes
-useConstantRatio     yes
+useFlexibleCell      yes # cambio para mantener la refernecia
+useConstantRatio     yes # puede estar mal
 langevinPiston       on
 langevinPistonTarget 1.01325
 langevinPistonTemp   $temper
 langevinPistonDecay  300
 langevinPistonPeriod 400
 
+
 # parameters
-paraTypeCharmm			on
 ###ORGANIC
 parameters			../parameters/par_all36_prot_lipid_water_ions.prm
 parameters			../parameters/par_all36_prot_lipid_water_ions_hyp.prm
@@ -49,6 +53,8 @@ parameters			../parameters/par_all36_carb.prm
 parameters			../parameters/par_all36_na.prm
 parameters                      ../parameters/par_all36_cgenff_edit_gold.prm
 
+
+paraTypeCharmm                  on
 exclude                         scaled1-4
 oneFourScaling                  1
 vdwForceSwitching               on
@@ -69,35 +75,23 @@ stepsPerCycle                   10
 # output
 binaryOutput                    yes
 binaryRestart                   yes
-wrapAll			            	yes
-wrapNearest		            	yes
+wrapAll				            yes
+wrapNearest			            yes
 comMotion                       yes
 
-outputEnergies                  1000
-outputPressure		        	1000
-outputTiming                    1000
-xstFreq                         1000
-dcdFreq                         1000
-restartFreq                     1000
+outputEnergies                  10000
+outputPressure		        	10000
+outputTiming                    10000
+xstFreq                         10000
+dcdFreq                         10000
+restartFreq                     10000
 
 # electrostatics
 pme                             yes
 pmeGridSpacing                  1.2
 
 ## external forces
-#constraints                     no
-#consRef                         ../Res_${sys}.pdb
-#consKFile                       ../Res_${sys}.pdb
-#consKCol                        B
-
-#fixedAtoms                      no
 #fixedAtomsFile                  ../fixed_${sys}.pdb
 #fixedAtomsCol                   O
 #fixedAtomsForces                on
 
-
-#colvars                         on
-#colvarsConfig                   ../${ColvarsFile}.colvars
-#if {$run > 0} {
-#    colvarsInput                    ../output/$last.restart.colvars.state
-#}

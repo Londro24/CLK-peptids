@@ -6,13 +6,13 @@ if {$run == 0} {
     temperature $temper
     extendedSystem ../build/$initName.xsc
 } else {
-    set last $name.[expr $run-1]
+    set last ../output/01_min_$name.[expr $run-1]
     binCoordinates $last.restart.coor
     binVelocities $last.restart.vel
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/min_$this
+outputName                      ../output/01_min_$this
 minimization on
 numSteps 			20000
 structure			../build/${psf}

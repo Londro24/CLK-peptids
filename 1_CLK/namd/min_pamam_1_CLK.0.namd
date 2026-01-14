@@ -1,8 +1,0 @@
-# namd3 +p3 min_pamam_1_CLK.0.namd > min_pamam_1_CLK.0.log
-set run 0
-set name 1_CLK
-set initName ../build/init
-set temper 300.0
-set struct ../build/final-sist-${name}_ion.pdb
-set psf ../build/final-sist-${name}_ion.psf
-source ../templates/template_minWat.namd

@@ -5,18 +5,18 @@ GPUresident         on
 
 set this $name.$run
 if {$run == 0} {
-    set last ../output/min_${name}.0
+    set last ../output/01_min_${name}.0
     binCoordinates $last.restart.coor
     extendedSystem $last.restart.xsc
     binVelocities $last.restart.vel
 } else {
-    set last ../output/eq_$name.[expr $run-1]
+    set last ../output/02_eq_$name.[expr $run-1]
     binCoordinates $last.restart.coor
     binVelocities $last.restart.vel
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/eq_$this
+outputName                      ../output/01_eq_$this
 #minimization on
 numSteps			$steps
 structure			${psf}
