@@ -34,15 +34,15 @@ Con los modelos de los peptidos hechos y la superficie de oro, se realizo la con
 El minimizado realizado para estos sistemas se llevo acabo con NAMD3_Multicore a 2 hilos en mi computador personal. Este proceso por cada sistema contemplo 20,000 pasos a _Time Step_ (ts) 4, con temperatura de 300K y 1 atmósfera de presión.
 
 ### Equilibrado
-El equilibradro realizado para estos sistemas se llevo acabo con NAMD3_CUDAMulticore a 8 hilos en un computador del equipo de trabajo. Este proceso por cada sistema contemplo 50 ns (12,500,000 pasos) a 4 ts, con temperatura de 300K y 1 atmósfera de presión.
+El equilibradro realizado para estos sistemas se llevo acabo con NAMD3_CUDAMulticore a 8 hilos en un computador del equipo de trabajo. Este proceso por cada sistema contemplo 50 ns (12,500,000 pasos) a 4 ts, con temperatura de 300K y 1 atmósfera de presión. Posteriormente fueron reducidas a 20 ns.
 
 ### Estado de ejecucion (Equilibrado)
-| Sistema  | Pasos de ejecución | Estado |
-|----------|--------------------|--------|
-| 1_CLK    | 12,500,000 (50 ns) | Listo  |
-| 2_CLKW   | 12,500,000 (50 ns) | Listo  |
-| 3_CLKWW  | 12,500,000 (50 ns) | Listo  |
-| 4_CLKWWW | 12,500,000 (50 ns) | listo  |
+| Sistema  | Pasos de ejecución | Estado   |
+|----------|--------------------|----------|
+| 1_CLK    | 12,500,000 (50 ns) | Editadas |
+| 2_CLKW   | 12,500,000 (50 ns) | Editadas |
+| 3_CLKWW  | 12,500,000 (50 ns) | Editadas |
+| 4_CLKWWW | 12,500,000 (50 ns) | Editadas |
 
 ## Producción
 * Integrar datos y justifiacion de los mismos *
