@@ -1,4 +1,4 @@
-# namd3 +p3 01_min_pamam_2_CLK.0.namd > 01_min_pamam_2_CLK.0.log
+# namd3 +p3 01_min_pamam_2_CLKW.0.namd > 01_min_pamam_2_CLKW.0.log
 set run 0
 set name 2_CLKW
 set initName ../build/init

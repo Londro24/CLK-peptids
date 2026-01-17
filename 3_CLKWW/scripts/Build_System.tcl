@@ -90,7 +90,7 @@ foreach st $structures {
         set target_z [expr $max_z_surf + 15.0]
         set shift_amount [expr $target_z - $current_mol_bottom]
         $sel moveby [list 0 0 $shift_amount]
-    } 
+    }
     
     $sel writepdb ${dir}/2-${st}_c.pdb
     $sel writepsf ${dir}/2-${st}_c.psf
@@ -124,7 +124,7 @@ writepdb ${dir}/3-sist-${name}_c.pdb
 mol delete all
 
 # solvatación
-solvate ${dir}/3-sist-${name}_c.psf ${dir}/3-sist-${name}_c.pdb -o ${dir}/3-sist-${name}_solv -s WT -b 2.4 -x 0 +x 0 -y 0 +y 0 -z 10 +z 10
+solvate ${dir}/3-sist-${name}_c.psf ${dir}/3-sist-${name}_c.pdb -o ${dir}/3-sist-${name}_solv -s WT -b 2.4 -x 0 +x 0 -y 0 +y 0 -z 10 +z 20
 
 mol delete all
 

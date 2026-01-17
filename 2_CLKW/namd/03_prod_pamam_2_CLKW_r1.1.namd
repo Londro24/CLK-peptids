@@ -1,8 +1,8 @@
-# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 03_prod_pamam_2_CLKW_r1.1.namd > 03_prod_pamam_2_CLKW_r1.1.log &
+# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 03_prod_pamam_1_CLK_r1.1.namd > 03_prod_pamam_1_CLK_r1.1.log &
 set run 1
 set replica 1
-set name 2_CLKW_r${replica}
-set input_name 2_CLKW 
+set name 1_CLK_r${replica}
+set input_name 1_CLK 
 set initName ../output/${name}
 set temper 300.0
 set struct ../build/final-sist-${input_name}_ion.pdb
