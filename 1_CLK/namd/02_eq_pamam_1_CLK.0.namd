@@ -1,6 +1,6 @@
-# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 02_eq_pamam_1_CLK.0.namd > 02_eq_pamam_1_CLK.0.log &
+# ./namd3.0.2/namd3 +p8 +devices 0 +setcpuaffinity 02_eq_pamam_2_CLKW.0.namd > 02_eq_pamam_2_CLKW.0.log &
 set run 0
-set name 1_CLK
+set name 2_CLKW
 set initName ../output/${name}
 set temper 300.0
 set struct ../build/final-sist-${name}_ion.pdb

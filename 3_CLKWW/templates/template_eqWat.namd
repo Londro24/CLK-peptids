@@ -16,7 +16,7 @@ if {$run == 0} {
     extendedSystem $last.restart.xsc
 }
 
-outputName                      ../output/01_eq_$this
+outputName                      ../output/02_eq_$this
 #minimization on
 numSteps			$steps
 structure			${psf}
