@@ -48,18 +48,12 @@ El equilibradro realizado para estos sistemas se llevo acabo con NAMD3_CUDAMulti
 * Integrar datos y justifiacion de los mismos *
 
 ### Estado de ejecucion (Producción)
-| Sistema  | Pasos de ejecución | Estado de replica |
-|----------|--------------------|-------------------|
-| 1_CLK    | 12,500,000 (50 ns) | + X X             |
-| 2_CLKW   | 12,500,000 (50 ns) | X X X             |
-| 3_CLKWW  | 12,500,000 (50 ns) | X X X             |
-| 4_CLKWWW | 12,500,000 (50 ns) | X X X             |
-
-**Leyenda**
-* En espera: X
-* En ejecución: +
-* Listo: O
-* Detenido: - 
+| Sistema  | Pasos de ejecución | Estado de replica        |
+|----------|--------------------|--------------------------|
+| 1_CLK    | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
+| 2_CLKW   | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
+| 3_CLKWW  | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
+| 4_CLKWWW | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
 
 ---
 
