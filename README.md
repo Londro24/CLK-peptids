@@ -45,7 +45,7 @@ El equilibradro realizado para estos sistemas se llevo acabo con NAMD3_CUDAMulti
 | 4_CLKWWW | 5,000,000 (20 ns)  | Listo  |
 
 ## Producción
-* Integrar datos y justifiacion de los mismos *
+* Para este proceso se llevaron acabo 150 ns de producción, el cual fue distribuido equitativamente en 3 replicas de 50 ns respectivamnte
 
 ### Estado de ejecucion (Producción)
 | Sistema  | Pasos de ejecución | Estado de replica        |
@@ -55,8 +55,7 @@ El equilibradro realizado para estos sistemas se llevo acabo con NAMD3_CUDAMulti
 | 3_CLKWW  | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
 | 4_CLKWWW | 12,500,000 (50 ns) | Listos (Replica 1,2 y 3) |
 
----
+## Análisis
+Para este punto de desarrollaron scripts para llevarlo acabo entorno a el comportamiento y estabilidad de los peptidos en contacto con la lamina, especificamente buscando el RMSD, la distancia minima que tiene entre el peptido y la superficie, y el contacto que se puede llevar a cabo entre la C y el/los W
 
-## Link Informe de Practica
-Es similar pero no igual
-**Link:** https://docs.google.com/document/d/1HuoFvZgZWJpEGf_DFd6D0bd2hD-JR5PNEdeltCk5Ml4/edit?usp=sharing
+---
